@@ -1,0 +1,960 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Organic Chemistry II",
+    "code": "CHM 261.2",
+    "session": "2022/2023",
+    "kind": "mixed",
+    "topics": [
+      "Aromatic Chemistry",
+      "Electrophilic Aromatic Substitution",
+      "Nucleophilic Acyl Substitution",
+      "Carbonyl Chemistry",
+      "Enolate Chemistry",
+      "Aldol Condensation",
+      "Claisen Condensation",
+      "Amines",
+      "Spectroscopy",
+      "Pericyclic Reactions",
+      "Retrosynthesis",
+      "Carbohydrates",
+      "Carboxylic Acids",
+      "Organic Chemistry",
+      "Functional Groups",
+      "Diols",
+      "Geminal Diols",
+      "Elimination Reactions",
+      "Diels-Alder Reaction",
+      "Nomenclature",
+      "Stereochemistry",
+      "Carbocations",
+      "Kinetic vs Thermodynamic Control",
+      "Reduction",
+      "Haworth Structure",
+      "Acidity",
+      "Dicarboxylic Acids",
+      "Addition Reactions",
+      "Allylic Positions",
+      "Oxidation",
+      "Proteins",
+      "Michael Addition",
+      "Amino Acids",
+      "Cycloaddition",
+      "Zwitterion",
+      "Alcohols",
+      "Alkenes",
+      "Structure Drawing",
+      "Dehydration",
+      "Synthesis",
+      "Transamination",
+      "Geminal Dihalides",
+      "Oligosaccharides",
+      "Substitution Reactions"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer all questions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Carboxylic Acids",
+      "Carbonyl Chemistry",
+      "Enolate Chemistry"
+    ],
+    "Question": {
+      "content": "Draw the structure of malonic acid",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Malonic Acid Structure and Nomenclature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>carboxylic acid</em> is an organic compound containing a carboxyl group \\( ( -COOH ) \\).<br>A <em>dicarboxylic acid</em> is a carboxylic acid that contains two carboxyl groups.<br><em>Malonic acid</em> is the common name for propanedioic acid, which is a dicarboxylic acid with a three-carbon chain. It is also known as a \\( \\beta \\)-dicarboxylic acid, meaning the two carboxyl groups are separated by one methylene \\( ( -CH_2- ) \\) group.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The task is to draw the structure of malonic acid.</div><p style='margin:8px 0;'><strong>Step 1: Understand the nomenclature and functional groups.</strong><br>The name \"malonic acid\" indicates that it is a dicarboxylic acid. This means the molecule contains two carboxyl \\( ( -COOH ) \\) functional groups.<br>In common nomenclature, \"malonic\" refers to a three-carbon chain where the two carboxyl groups are at the ends. Its IUPAC name is propanedioic acid, where \"prop-\" signifies a three-carbon chain and \"-dioic acid\" signifies two carboxylic acid groups.</p><p style='margin:8px 0;'><strong>Step 2: Construct the carbon backbone.</strong><br>Since malonic acid is a three-carbon dicarboxylic acid, the main carbon chain will consist of three carbon atoms. The two carboxyl groups will be at positions 1 and 3 (the ends) of this chain.<br>We can start with a basic three-carbon skeleton: \\( C-C-C \\).</p><p style='margin:8px 0;'><strong>Step 3: Attach the carboxyl groups to the ends of the chain.</strong><br>Place a carboxyl group \\( ( -COOH ) \\) at each terminal carbon of the three-carbon chain.<br>This gives us an intermediate structure: \\( HOOC - C - COOH \\).</p><p style='margin:8px 0;'><strong>Step 4: Complete the valency of the central carbon atom.</strong><br>The central carbon atom in the \\( HOOC - C - COOH \\) structure is currently bonded to two other carbon atoms (one from each carboxyl group). Carbon typically forms four bonds.<br>Therefore, the central carbon needs two more bonds, which are satisfied by two hydrogen atoms.<br>This forms a methylene group \\( ( -CH_2- ) \\).</p><p style='margin:8px 0;'><strong>Step 5: Write the complete condensed structural formula.</strong><br>Combine the components from the previous steps to form the complete condensed structural formula:<br>The structure is <span style='color:var(--orange);font-weight:bold;'>\\( HOOC-CH_2-COOH \\)</span>.</p><p style='margin:8px 0;'><strong>Step 6: Visualize the full structural formula.</strong><br>While the condensed formula is often sufficient, a full structural formula shows all atoms and bonds, providing a clearer visual representation:<br>\\[<br>\\begin{array}{c}<br>O \\\\<br>\\parallel \\\\<br>HO-C-CH_2-C-OH \\\\<br>\\parallel \\\\<br>O<br>\\end{array}<br>\\]<br>This clearly shows the two carbonyl groups \\( ( C=O ) \\), the two hydroxyl groups \\( ( -OH ) \\), and the central methylene \\( ( -CH_2- ) \\) group.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>1. Does the structure contain two carboxyl \\( ( -COOH ) \\) groups? Yes, one at each end.<br>2. Is the main carbon chain three carbons long? Yes, the carbons of the two carboxyl groups and the central methylene carbon make up a three-carbon chain.<br>3. Does it match the definition of propanedioic acid? Yes, it is a propane chain with two carboxylic acid groups.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The structure of malonic acid is HOOC-CH\\(_{2}\\)-COOH.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "HOOC-CH\\(_{2}\\)-COOH"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Give the structure of a germinal diol",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Diols",
+      "Geminal Diols",
+      "Carbonyl Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Geminal Diols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>diol</em> is an organic compound containing two hydroxyl (\\(-OH\\)) functional groups.<br>The term <em>geminal</em> (from Latin <em>gemini</em>, meaning \"twins\") refers to two identical functional groups attached to the <em>same</em> carbon atom.<br>Therefore, a <em>geminal diol</em> is a specific type of diol where both hydroxyl groups are bonded to the same carbon atom.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The request is to describe the structure of a geminal diol.</div><p style='margin:8px 0;'><strong>Step 1: Define a Diol</strong><br>A diol is an alcohol containing two hydroxyl (\\(-OH\\)) groups. The general formula for an alcohol is \\( R-OH \\), where \\( R \\) is an alkyl or aryl group. For a diol, there are two such groups attached to a carbon chain.</p><p style='margin:8px 0;'><strong>Step 2: Understand the term \"Geminal\"</strong><br>In organic chemistry, the prefix \"geminal\" (often abbreviated as \"gem-\") indicates that two identical substituents are attached to the same carbon atom. For example, a geminal dihalide would have two halogen atoms on the same carbon.</p><p style='margin:8px 0;'><strong>Step 3: Combine Definitions to Form Geminal Diol</strong><br>Combining the definitions from Step 1 and Step 2, a geminal diol is an organic compound where two hydroxyl (\\(-OH\\)) groups are attached to the <span style='color:var(--orange);font-weight:bold;'>same carbon atom</span>. This distinguishes it from vicinal diols (hydroxyl groups on adjacent carbons) or other diols where the hydroxyl groups are further apart.</p><p style='margin:8px 0;'><strong>Step 4: Illustrate the General Structure</strong><br>The general structure of a geminal diol can be represented as:<br>\\[ R_1R_2C(OH)_2 \\]<br>where \\( R_1 \\) and \\( R_2 \\) can be hydrogen atoms, alkyl groups, or aryl groups. The central carbon atom is bonded to two hydroxyl groups and two other substituents.<br>For example, a simple geminal diol is methanediol (also known as methylene glycol), where \\( R_1 = H \\) and \\( R_2 = H \\):<br>\\[ H_2C(OH)_2 \\]<br>Another example is 1,1-ethanediol:<br>\\[ CH_3CH(OH)_2 \\]</p><p style='margin:8px 0;'><strong>Step 5: Discuss Stability (Contextual Information)</strong><br>Geminal diols are generally unstable and tend to readily dehydrate (lose a molecule of water) to form a more stable carbonyl compound (an aldehyde or a ketone). This equilibrium is often shifted towards the carbonyl compound. For instance, methanediol is the hydrated form of formaldehyde:<br>\\[ H_2C=O + H_2O \\rightleftharpoons H_2C(OH)_2 \\]<br>The stability of geminal diols increases with electron-withdrawing groups on the carbon, such as in chloral hydrate (\\( CCl_3CH(OH)_2 \\)), which is a stable geminal diol.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The core characteristic of a geminal diol is the presence of two hydroxyl groups on a single carbon atom. The structure \\( R_1R_2C(OH)_2 \\) accurately represents this arrangement, fulfilling the definition of \"geminal\" (two groups on the same carbon) and \"diol\" (two hydroxyl groups). This structure is consistent with the chemical principles discussed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; A geminal diol has two hydroxyl (\\(-OH\\)) groups attached to the same carbon atom, represented by the general structure \\( R_1R_2C(OH)_2 \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A carbon atom with two -OH groups attached (R₂C(OH)₂)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Elimination Reactions"
+    ],
+    "Question": {
+      "content": "The reaction in which a terminal alkyne is obtained from a vicinal diahalide in the presence of sodium amide and water is called ______",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Formation of Terminal Alkynes via Double Dehydrohalogenation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>vicinal dihalide</em> is an organic compound with two halogen atoms attached to adjacent carbon atoms.<br>A <em>terminal alkyne</em> is an alkyne where the triple bond is at the end of the carbon chain, meaning one of the triply bonded carbons is attached to a hydrogen atom.<br><em>Sodium amide</em> (\\\\( \\\\text{NaNH}_2 \\\\)) is a very strong base often used for deprotonation and elimination reactions.<br><em>Dehydrohalogenation</em> is an elimination reaction that removes a hydrogen atom and a halogen atom from adjacent carbons, forming a double or triple bond.<br><em>Double Dehydrohalogenation</em> is a reaction involving two successive dehydrohalogenation steps to convert a dihalide into an alkyne.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant: Vicinal dihalide<br>Reagents: Sodium amide (\\\\( \\\\text{NaNH}_2 \\\\)), water (\\\\( \\\\text{H}_2\\\\text{O} \\\\))<br>Product: Terminal alkyne<br>Goal: Identify the name of this reaction.</div><p style='margin:8px 0;'><strong>Step 1: Understand the overall transformation</strong><br>The reaction starts with a vicinal dihalide, which contains two halogen atoms on adjacent carbons. The goal is to form a terminal alkyne, which has a carbon-carbon triple bond at the end of the chain and a hydrogen atom attached to one of the sp-hybridized carbons.<br>This transformation requires the removal of two molecules of hydrogen halide (HX) from the starting material, hence it is an elimination reaction.</p><p style='margin:8px 0;'><strong>Step 2: First Dehydrohalogenation (Formation of a Vinyl Halide)</strong><br>The strong base, sodium amide (\\\\( \\\\text{NaNH}_2 \\\\)), abstracts a proton from a carbon atom adjacent to a carbon bearing a halogen. Simultaneously, the halogen atom leaves as a halide ion, forming a carbon-carbon double bond.<br>\\\\[ \\\\text{R-CH(X)-CH(X)-R'} + \\\\text{NaNH}_2 \\\\quad \\\\xrightarrow{\\\\text{E2 elimination}} \\\\quad \\\\text{R-CH=C(X)-R'} + \\\\text{NH}_3 + \\\\text{NaX} \\\\\\]<br>The product of this first elimination is a <span style='color:var(--orange);font-weight:bold;'>vinyl halide</span>.</p><p style='margin:8px 0;'><strong>Step 3: Second Dehydrohalogenation (Formation of an Acetylide Ion)</strong><br>The vinyl halide undergoes a second E2 elimination. This step requires an even stronger base (like \\\\( \\\\text{NaNH}_2 \\\\)) because the vinyl proton is less acidic and the vinyl halide is more stable than the original dihalide.<br>The base abstracts the remaining hydrogen atom from the carbon adjacent to the halogen-bearing carbon of the vinyl halide. The halogen then leaves, forming a carbon-carbon triple bond.<br>For a terminal alkyne, the intermediate formed is an <span style='color:var(--orange);font-weight:bold;'>acetylide anion</span>:<br>\\\\[ \\\\text{R-CH=C(X)-H} + \\\\text{2 NaNH}_2 \\\\quad \\\\xrightarrow{\\\\text{E2 elimination}} \\\\quad \\\\text{R-C}\\\\equiv\\\\text{C}^- \\\\text{Na}^+ + \\\\text{2 NH}_3 + \\\\text{NaX} \\\\\\]<br>Note: Often, excess \\\\( \\\\text{NaNH}_2 \\\\) is used to ensure both elimination steps and the deprotonation of the terminal alkyne are completed.</p><p style='margin:8px 0;'><strong>Step 4: Protonation of the Acetylide Ion (Formation of Terminal Alkyne)</strong><br>Since the question specifies a <em>terminal alkyne</em>, the acetylide anion formed in Step 3 must be protonated. This is achieved by adding water (\\\\( \\\\text{H}_2\\\\text{O} \\\\)) in a separate work-up step.<br>\\\\[ \\\\text{R-C}\\\\equiv\\\\text{C}^- \\\\text{Na}^+ + \\\\text{H}_2\\\\text{O} \\\\quad \\\\longrightarrow \\\\quad \\\\text{R-C}\\\\equiv\\\\text{CH} + \\\\text{NaOH} \\\\\\]<br>This step yields the desired <span style='color:var(--orange);font-weight:bold;'>terminal alkyne</span>.</p><p style='margin:8px 0;'><strong>Step 5: Name the reaction</strong><br>Since two molecules of hydrogen halide (HX) are removed in successive elimination steps to form a triple bond, the overall process is known as <span style='color:var(--orange);font-weight:bold;'>Double Dehydrohalogenation</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The reaction involves the removal of two hydrogen atoms and two halogen atoms (dehydrohalogenation) from a vicinal dihalide to form an alkyne. Since two such eliminations occur, the term 'double' is appropriate. The use of strong base (\\\\( \\\\text{NaNH}_2 \\\\)) and subsequent water workup for terminal alkynes is characteristic of this reaction. Therefore, 'Double Dehydrohalogenation' is the correct name.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The reaction is called Double Dehydrohalogenation.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Double Dehydrohalogenation"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw the structure of the Diels-Alder reaction between 1,3-butadiene and propenal",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Pericyclic Reactions",
+      "Diels-Alder Reaction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Diels-Alder Reaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Diels-Alder reaction</em> is a pericyclic reaction, specifically a [4+2] cycloaddition, between a conjugated diene and a substituted alkene (dienophile). It is a concerted reaction, meaning all bond-breaking and bond-forming steps occur simultaneously, resulting in a new six-membered ring.<br><ul><li>A <strong>diene</strong> is a molecule with two conjugated double bonds (e.g., 1,3-butadiene). For the reaction to occur, the diene must be able to adopt an <em>s-cis</em> conformation.</li><li>A <strong>dienophile</strong> is an alkene or alkyne that reacts with the diene. Dienophiles with electron-withdrawing groups (like carbonyls, nitriles, or nitro groups) are generally more reactive.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactants: 1,3-butadiene (diene) and propenal (dienophile).<br>Reaction type: Diels-Alder reaction (a [4+2] cycloaddition).</div><p style='margin:8px 0;'><strong>Step 1: Identify the diene and dienophile structures.</strong><br>The diene is <strong>1,3-butadiene</strong>, which has the structure: <br>\\[ \\text{CH}_2=\\text{CH}-\\text{CH}=\\text{CH}_2 \\]<br>The dienophile is <strong>propenal</strong> (also known as acrolein), which has the structure: <br>\\[ \\text{CH}_2=\\text{CH}-\\text{CHO} \\]<br>Propenal contains an electron-withdrawing aldehyde group (\\text{-CHO}) conjugated with the alkene, making it an excellent dienophile.</p><p style='margin:8px 0;'><strong>Step 2: Draw the diene in its reactive s-cis conformation.</strong><br>For the Diels-Alder reaction to proceed, the 1,3-butadiene must adopt an <em>s-cis</em> conformation, where the two double bonds are on the same side of the single bond connecting them. This allows the terminal carbons of the diene to be in close proximity to react with the dienophile.<br>\\[ \\text{CH}_2=\\text{CH}-\\text{CH}=\\text{CH}_2 \\quad \\xrightarrow{\\text{s-cis conformation}} \\quad \\text{Diene in s-cis conformation} \\]<br>(In the s-cis conformation, the molecule is bent such that the two \\(\\text{CH}_2\\) groups are on the same side, facilitating ring formation.)</p><p style='margin:8px 0;'><strong>Step 3: Illustrate the concerted electron flow (arrow pushing).</strong><br>The Diels-Alder reaction involves a concerted, cyclic movement of six electrons (three pairs of pi electrons). This leads to the simultaneous breaking of three pi bonds and the formation of two new sigma bonds and one new pi bond.<br>The electron flow can be visualized as:<br>1. An electron pair from one terminal carbon of the diene's double bond moves to form a new sigma bond with one carbon of the dienophile's double bond.<br>2. An electron pair from the dienophile's double bond moves to form a new sigma bond with the other terminal carbon of the diene.<br>3. The central double bond of the diene shifts to form a new double bond within the developing ring.<br>\\[<br>\\text{Diene (s-cis)} \\quad + \\quad \\text{Dienophile} \\quad \\xrightarrow{\\text{Concerted Electron Flow}} \\quad \\text{Cyclic Product}<br>\\]</p><p style='margin:8px 0;'><strong>Step 4: Form the six-membered cyclic product.</strong><br>The reaction forms a new six-membered ring. The two new sigma bonds are formed between C1 of 1,3-butadiene and C1 of propenal, and C4 of 1,3-butadiene and C2 of propenal. The double bond originally between C2 and C3 of 1,3-butadiene shifts to become a new double bond within the ring, specifically between the carbons that were C2 and C3 of the original diene (which become C3 and C4 of the new ring when numbered correctly). The aldehyde group from propenal remains attached to the carbon that was C1 of the dienophile (which becomes C1 of the new ring).<br>The resulting product is a cyclohexene ring with an aldehyde substituent. When systematically named, this compound is <span style='color:var(--orange);font-weight:bold;'>3-cyclohexene-1-carbaldehyde</span>.<br>The structure can be represented as:<br>A six-membered ring containing one double bond. An aldehyde group (\\(-\\text{CHO}\\)) is attached to one of the carbons of the ring. If the carbon bearing the aldehyde group is C1, the double bond is between C3 and C4 of the ring.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The reaction correctly forms a six-membered cyclic product, which is characteristic of a [4+2] cycloaddition. The conjugation of the diene and the electron-withdrawing group on the dienophile are consistent with the requirements for a Diels-Alder reaction. The product, 3-cyclohexene-1-carbaldehyde, has the correct number of carbons and the aldehyde substituent in the expected position relative to the newly formed double bond. The overall reaction is a net addition across the diene and dienophile, resulting in a saturated ring with one double bond.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>\\( \\therefore \\) The product of the Diels-Alder reaction between 1,3-butadiene and propenal is 3-cyclohexene-1-carbaldehyde.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-cyclohexene-1-carbaldehyde"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What is another name for homo allylic alcohol?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Nomenclature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Homoallylic Alcohols and Nomenclature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>allylic alcohol</em> is an organic compound where the hydroxyl (-OH) group is attached to a carbon atom (the alpha carbon) that is directly adjacent to a carbon-carbon double bond (C=C). Its general structure is \\( \\text{C=C-CH}_2\\text{-OH} \\).<br><br>A <em>homoallylic alcohol</em> is an organic compound where the hydroxyl (-OH) group is attached to a carbon atom (the beta carbon) that is two carbon atoms away from a carbon-carbon double bond. This means there is one additional methylene (\\( \\text{-CH}_2\\text{-} \\)) group separating the -OH from the double bond compared to an allylic alcohol. Its general structure is \\( \\text{C=C-CH}_2\\text{-CH}_2\\text{-OH} \\).<br><br><em>IUPAC Nomenclature for Alkenols</em> involves numbering the longest carbon chain that contains both the double bond and the hydroxyl group, giving the -OH group the lowest possible number. The suffix changes from \"-ane\" to \"-en-ol\", with numbers indicating the positions of the double bond and the hydroxyl group respectively.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for another name for homoallylic alcohol.</div><p style='margin:8px 0;'><strong>Step 1: Understand the structure of an allylic alcohol</strong><br>An allylic alcohol has the hydroxyl group on the carbon directly attached to a vinylic carbon (one of the carbons in the double bond).<br>Example: Prop-2-en-1-ol (allyl alcohol)<br>Structure: \\( \\text{CH}_2\\text{=CH-CH}_2\\text{-OH} \\)<br>Here, the -OH is on C1, and the double bond is between C2 and C3.</p><p style='margin:8px 0;'><strong>Step 2: Understand the structure of a homoallylic alcohol</strong><br>A homoallylic alcohol has the hydroxyl group on a carbon that is one carbon further away from the double bond compared to an allylic alcohol.<br>This means there are two single bonds separating the -OH group from the double bond.<br>General structure: \\( \\text{C=C-CH}_2\\text{-CH}_2\\text{-OH} \\)<br>The carbon bearing the -OH group is the <span style='color:var(--orange);font-weight:bold;'>beta carbon</span> relative to the double bond.</p><p style='margin:8px 0;'><strong>Step 3: Apply IUPAC nomenclature rules to a homoallylic alcohol structure</strong><br>Let's consider the simplest homoallylic alcohol, which has a total of four carbon atoms.<br>Structure: \\( \\text{CH}_2\\text{=CH-CH}_2\\text{-CH}_2\\text{-OH} \\)<br>1. Identify the longest carbon chain containing both the double bond and the hydroxyl group: This is a 4-carbon chain (but-).<br>2. Number the chain to give the hydroxyl group the lowest possible number: The -OH group is on the end carbon, so it will be C1.<br>3. Determine the position of the double bond: With the -OH on C1, the double bond starts at C3.<br>4. Combine these elements into the IUPAC name: The parent alkane is butane. It has a double bond (ene) and a hydroxyl group (ol). The double bond is at position 3, and the hydroxyl group is at position 1.<br>Therefore, the systematic name is <span style='color:var(--orange);font-weight:bold;'>But-3-en-1-ol</span>.<br></p><p style='margin:8px 0;'><strong>Step 4: Generalize the systematic name</strong><br>Based on the example in Step 3, for any homoallylic alcohol, the hydroxyl group will always be at position 1 (assuming the chain is numbered from the -OH end to give it the lowest number), and the double bond will always start at position 3 relative to the hydroxyl group's position.<br>Thus, another general name for a homoallylic alcohol is <span style='color:var(--orange);font-weight:bold;'>3-alken-1-ol</span>, where \"alken\" represents the specific carbon chain length (e.g., buten, penten, hexen, etc.).</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The term \"homoallylic\" specifically refers to the -OH group being two carbons away from the double bond. In the IUPAC naming convention, if the -OH group is at C1, then for it to be homoallylic, the double bond must be at C3 (i.e., between C3 and C4). This directly corresponds to the \"3-alken-1-ol\" nomenclature, confirming its accuracy as an alternative name.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ Another name for homoallylic alcohol is 3-alken-1-ol.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-alken-1-ol"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The number of stereoisomers for an Aldopentose is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Carbohydrates",
+      "Stereochemistry",
+      "Organic Chemistry",
+      "Functional Groups"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Stereoisomers of Aldopentose</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>stereoisomer</em> is a molecule that has the same molecular formula and sequence of bonded atoms as another molecule, but differs in the three-dimensional orientations of its atoms in space.<br>A <em>chiral center</em> (or stereocenter) is typically a carbon atom bonded to four different groups.<br>The maximum number of possible stereoisomers for a molecule with \\( n \\) chiral centers is given by the formula: \\( 2^n \\).<br>An <em>aldopentose</em> is a monosaccharide with five carbon atoms and an aldehyde functional group (CHO) at one end.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Molecule: Aldopentose<br>Find: Number of stereoisomers</div><p style='margin:8px 0;'><strong>Step 1: Understand the structure of an Aldopentose</strong><br>An aldopentose is a 5-carbon sugar. Its general structure includes an aldehyde group (CHO) at C1 and hydroxyl groups on the remaining carbons. The carbons are numbered from the aldehyde end.<br>The structure can be represented as:<br>CHO (C1)<br>|<br>CHOH (C2)<br>|<br>CHOH (C3)<br>|<br>CHOH (C4)<br>|<br>CH2OH (C5)</p><p style='margin:8px 0;'><strong>Step 2: Identify the chiral centers</strong><br>A chiral center is a carbon atom bonded to four different groups.<br>Let's examine each carbon in an aldopentose:<br>C1: Part of an aldehyde group (CHO), bonded to only 3 groups (H, O, C2). Not chiral.<br>C2: Bonded to H, OH, CHO (C1 group), and -CH(OH)CH(OH)CH2OH (C3-C5 chain). These four groups are different. <span style='color:var(--orange);font-weight:bold;'>C2 is a chiral center.</span><br>C3: Bonded to H, OH, -CH(OH)CHO (C1-C2 chain), and -CH(OH)CH2OH (C4-C5 chain). These four groups are different. <span style='color:var(--orange);font-weight:bold;'>C3 is a chiral center.</span><br>C4: Bonded to H, OH, -CH(OH)CH(OH)CHO (C1-C3 chain), and -CH2OH (C5 group). These four groups are different. <span style='color:var(--orange);font-weight:bold;'>C4 is a chiral center.</span><br>C5: Part of a primary alcohol group (CH2OH), bonded to two hydrogen atoms. Not chiral.<br>Therefore, an aldopentose has <span style='color:var(--orange);font-weight:bold;'>\\( n = 3 \\) chiral centers</span> (C2, C3, and C4).</p><p style='margin:8px 0;'><strong>Step 3: Apply the formula for the number of stereoisomers</strong><br>The maximum number of stereoisomers for a molecule with \\( n \\) chiral centers is given by the formula:<br>\\[ \\text{Number of stereoisomers} = 2^n \\]<br>Substitute the number of chiral centers found in Step 2:<br>\\[ \\text{Number of stereoisomers} = 2^3 \\]</p><p style='margin:8px 0;'><strong>Step 4: Calculate the total number of stereoisomers</strong><br>Perform the exponentiation:<br>\\[ 2^3 = 2 \\times 2 \\times 2 = 8 \\]<br>Thus, an aldopentose has <span style='color:var(--orange);font-weight:bold;'>8 stereoisomers</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The formula \\( 2^n \\) is a fundamental principle in stereochemistry for calculating the maximum number of stereoisomers when all chiral centers are unique and there are no meso compounds possible (which is generally the case for open-chain aldoses like aldopentoses, as they don't possess an internal plane of symmetry). With 3 distinct chiral centers (C2, C3, C4), each can have two possible configurations (R or S), leading to \\( 2 \\times 2 \\times 2 = 8 \\) unique combinations. These 8 stereoisomers are D-ribose, D-arabinose, D-xylose, D-lyxose, and their L-enantiomers. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The number of stereoisomers for an Aldopentose is 8.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "8"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Diels-Alder Reaction",
+      "Pericyclic Reactions",
+      "Organic Chemistry"
+    ],
+    "Question": {
+      "content": "The Diels-Alder reaction occurs between ______ and ______",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Diels-Alder Reaction</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Diels-Alder reaction</em> is a fundamental organic chemical reaction that involves a [4+2] cycloaddition between a <strong style='color:var(--strongColor);'>conjugated diene</strong> and a <strong style='color:var(--strongColor);'>dienophile</strong>. It is a concerted, pericyclic reaction that forms a six-membered cyclic adduct. This reaction is highly stereospecific and regioselective, making it a powerful tool in organic synthesis for creating cyclic compounds.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks to identify the two types of reactants involved in a Diels-Alder reaction.</div><p style='margin:8px 0;'><strong>Step 1: Understand the nature of the Diels-Alder reaction</strong><br>The Diels-Alder reaction is a type of <strong style='color:var(--strongColor);'>cycloaddition reaction</strong>, specifically a [4+2] cycloaddition. This means that two separate unsaturated molecules combine to form a single cyclic product. It is also classified as a <strong style='color:var(--strongColor);'>pericyclic reaction</strong>, implying that it proceeds through a concerted mechanism, where bond breaking and bond forming occur simultaneously in a single transition state, without any intermediate species.</p><p style='margin:8px 0;'><strong>Step 2: Identify the first reactant: The Diene</strong><br>The first essential reactant is a <strong style='color:var(--strongColor);'>conjugated diene</strong>. A conjugated diene contains two double bonds separated by a single bond (e.g., \\(\\ce{CH2=CH-CH=CH2}\\), 1,3-butadiene).<br>For the reaction to occur, the diene must be able to adopt an <span style='color:var(--orange);font-weight:bold;'>s-cis conformation</span>. In this conformation, the two double bonds are on the same side of the single bond connecting them, allowing the ends of the diene to approach the dienophile simultaneously for ring formation.<br>The diene acts as the <span style='color:var(--orange);font-weight:bold;'>electron-rich component</span>, contributing four pi electrons to the new ring system.</p><p style='margin:8px 0;'><strong>Step 3: Identify the second reactant: The Dienophile</strong><br>The second essential reactant is a <strong style='color:var(--strongColor);'>dienophile</strong>, which literally means \"diene-loving\". A dienophile is typically an <span style='color:var(--orange);font-weight:bold;'>alkene or alkyne</span> (a compound containing a double or triple bond).<br>For optimal reactivity, the dienophile usually contains <strong style='color:var(--strongColor);'>electron-withdrawing groups</strong> (EWGs) attached to its double or triple bond. These groups make the dienophile more electron-deficient, enhancing its ability to react with the electron-rich diene.<br>The dienophile acts as the <span style='color:var(--orange);font-weight:bold;'>electron-deficient component</span>, contributing two pi electrons to the new ring system.</p><p style='margin:8px 0;'><strong>Step 4: Describe the product and bond formation</strong><br>When the conjugated diene and dienophile react, they form a <strong style='color:var(--strongColor);'>six-membered cyclic adduct</strong>. During this process, two new carbon-carbon sigma (\\(\\sigma\\)) bonds are formed, and one of the original pi (\\(\\pi\\)) bonds in the diene is converted into a new pi bond within the ring. The other two pi bonds (one from the diene and one from the dienophile) are consumed in forming the new sigma bonds.</p><p style='margin:8px 0;'><strong>Step 5: Illustrate with a general reaction scheme</strong><br>The general scheme for a Diels-Alder reaction can be represented as:<br>\\[ \\text{Conjugated Diene} + \\text{Dienophile} \\longrightarrow \\text{Cyclic Adduct} \\]<br>For example, 1,3-butadiene (diene) reacts with ethene (dienophile) to form cyclohexene (adduct), although ethene is a poor dienophile. A more reactive example would be 1,3-butadiene reacting with maleic anhydride.<br>\\[ \\ce{CH2=CH-CH=CH2} + \\ce{CH2=CH2} \\longrightarrow \\text{Cyclohexene} \\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The core definition of the Diels-Alder reaction, as established by Otto Diels and Kurt Alder, explicitly states that it is a cycloaddition between a conjugated diene and a dienophile. Without both of these specific components, the reaction cannot proceed as a Diels-Alder reaction. Therefore, identifying these two types of molecules as the reactants is fundamentally correct and universally accepted in organic chemistry.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The Diels-Alder reaction occurs between a conjugated diene and a dienophile.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "a conjugated diene and a dienophile"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Alkyl carbocations are more stable than allyl carbocations. True or False?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Carbocations"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbocation Stability: Alkyl vs. Allyl</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>carbocation</em> is an organic ion in which a carbon atom has a positive charge and three bonds. Its stability is primarily determined by the ability to delocalize or spread out this positive charge.<br><em>Resonance stabilization</em> occurs when a positive charge can be delocalized over multiple atoms through conjugated pi systems.<br><em>Hyperconjugation</em> is the stabilizing interaction that results from the interaction of electrons in a sigma bond (usually C-H or C-C) with an adjacent empty (or partially filled) non-bonding p-orbital or an antibonding \\(\\pi\\)-orbital or \\(\\sigma\\)-orbital.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Statement to evaluate: \\\"Alkyl carbocations are more stable than allyl carbocations.\\\"</div><p style='margin:8px 0;'><strong>Step 1: Understand Carbocation Stability Principles</strong><br>Carbocations are electron-deficient species due to the positive charge on a carbon atom. To achieve stability, this positive charge needs to be dispersed or delocalized. The more effectively the charge is delocalized, the more stable the carbocation.<br>Two primary mechanisms for charge delocalization are hyperconjugation and resonance.</p><p style='margin:8px 0;'><strong>Step 2: Analyze Alkyl Carbocation Stability</strong><br>Alkyl carbocations are stabilized by two main effects:<br>1. <strong>Inductive effect:</strong> Alkyl groups are weakly electron-donating, pushing electron density towards the positively charged carbon, thereby reducing its charge.<br>2. <strong>Hyperconjugation:</strong> This involves the overlap of the empty p-orbital of the carbocation with the adjacent C-H or C-C sigma bonds. The electrons from these sigma bonds are partially delocalized into the empty p-orbital, stabilizing the positive charge.<br>The stability order for simple alkyl carbocations is: <span style='color:var(--orange);font-weight:bold;'>Tertiary (3°) > Secondary (2°) > Primary (1°) > Methyl</span>. This is because tertiary carbocations have more alkyl groups and thus more C-H/C-C bonds available for hyperconjugation and a stronger inductive effect.</p><p style='margin:8px 0;'><strong>Step 3: Analyze Allyl Carbocation Stability</strong><br>An allyl carbocation has a positive charge on a carbon atom adjacent to a carbon-carbon double bond (C=C). Its general structure is \\(\\text{CH}_2=\\text{CH}-\\text{CH}_2^+\\).<br>Allyl carbocations are highly stabilized by <strong>resonance</strong>. The positive charge can be delocalized over two carbon atoms through the adjacent \\(\\pi\\)-electron system. This means the \\(\\pi\\)-electrons in the double bond can shift to form a new double bond with the positively charged carbon, moving the positive charge to the other end of the original double bond.<br>The resonance structures for an allyl carbocation are:<br>\\[ \\text{CH}_2=\\text{CH}-\\text{CH}_2^+ \\quad \\leftrightarrow \\quad \\text{CH}_2^+-\\text{CH}=\\text{CH}_2 \\]<br>The actual structure is a resonance hybrid, where the positive charge is shared between the two terminal carbon atoms. This delocalization of charge over multiple atoms significantly reduces the charge density on any single atom, leading to substantial stabilization.</p><p style='margin:8px 0;'><strong>Step 4: Compare Stabilization Mechanisms</strong><br>Comparing the two mechanisms:<br>&#8226; <strong>Resonance stabilization</strong> (in allyl carbocations) involves the delocalization of \\(\\pi\\)-electrons over a conjugated system, effectively spreading the positive charge over multiple atoms. This is a very powerful stabilizing effect.<br>&#8226; <strong>Hyperconjugation</strong> (in alkyl carbocations) involves the delocalization of \\(\\sigma\\)-electrons into an empty p-orbital. While effective, it is generally a weaker stabilizing effect compared to resonance.</p><p style='margin:8px 0;'><strong>Step 5: Conclude on Relative Stability</strong><br>Because resonance stabilization is a much stronger effect than hyperconjugation, <span style='color:var(--orange);font-weight:bold;'>allyl carbocations are generally more stable than alkyl carbocations</span>. For instance, an allyl carbocation is more stable than a primary alkyl carbocation, a secondary alkyl carbocation, and often even a tertiary alkyl carbocation.<br>Therefore, the statement \\\"Alkyl carbocations are more stable than allyl carbocations\\\" is false.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The hierarchy of carbocation stability generally places resonance-stabilized carbocations (like allyl and benzyl) above hyperconjugation-stabilized alkyl carbocations. The typical order is Allyl/Benzyl > Tertiary > Secondary > Primary > Methyl. This confirms that allyl carbocations are more stable than alkyl carbocations, making the original statement false.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The statement is False.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What is the name of the initial reactant required to synthesize 3-hydroxy-2-butanone?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Retrosynthesis",
+      "Nomenclature",
+      "Functional Groups",
+      "Carbonyl Chemistry",
+      "Enolate Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Synthesis of Alpha-Hydroxy Ketones: Benzoin Condensation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>alpha-hydroxy ketone</em> is a compound containing a hydroxyl group (\\(-\\text{OH}\\)) on the carbon atom adjacent to a carbonyl group (\\(-\\text{C=O}\\)).<br>The <em>Benzoin Condensation</em> is a reaction in which two aldehyde molecules, typically aromatic or aliphatic, react in the presence of a catalyst (such as cyanide ions or N-heterocyclic carbenes) to form an alpha-hydroxy ketone. It is a dimerization reaction.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Target product: 3-hydroxy-2-butanone</div><p style='margin:8px 0;'><strong>Step 1: Analyze the structure of the target molecule</strong><br>The target molecule is 3-hydroxy-2-butanone. Its structure is:<br>\\[ \\text{CH}_3\\text{-CO-CH(OH)-CH}_3 \\]This molecule has a ketone functional group (\\(-\\text{CO}-\\)) at position 2 and a hydroxyl group (\\(-\\text{OH}\\)) at position 3. The hydroxyl group is on the carbon atom alpha to the carbonyl carbon (C-2). Therefore, it is an <span style='color:var(--orange);font-weight:bold;'>alpha-hydroxy ketone</span>.</p><p style='margin:8px 0;'><strong>Step 2: Identify common reactions for synthesizing alpha-hydroxy ketones</strong><br>Alpha-hydroxy ketones, especially those formed from two identical aldehyde units, are typically synthesized via the <span style='color:var(--orange);font-weight:bold;'>Benzoin Condensation</span>. This reaction involves the dimerization of aldehydes. Other methods exist (e.g., acyloin condensation from esters), but for simple aldehydes forming alpha-hydroxy ketones, Benzoin condensation is the most direct and common.</p><p style='margin:8px 0;'><strong>Step 3: Determine the carbon count of the target molecule</strong><br>3-hydroxy-2-butanone has a 4-carbon chain:<br>C1 - C2 - C3 - C4<br>\\[ \\text{CH}_3\\text{-CO-CH(OH)-CH}_3 \\]<br>The total number of carbon atoms in the product is <span style='color:var(--orange);font-weight:bold;'>4 carbons</span>.</p><p style='margin:8px 0;'><strong>Step 4: Deduce the reactant based on Benzoin Condensation mechanism</strong><br>The Benzoin Condensation typically involves the reaction of two identical aldehyde molecules. If the product has 4 carbons and is formed from two identical aldehyde units, each aldehyde must contribute half of the carbon atoms.<br>Number of carbons per aldehyde = \\( \\frac{\\text{Total carbons in product}}{2} \\)<br>Number of carbons per aldehyde = \\( \\frac{4}{2} = \\) <span style='color:var(--orange);font-weight:bold;'>2 carbons</span>.</p><p style='margin:8px 0;'><strong>Step 5: Name the 2-carbon aldehyde</strong><br>The aldehyde with two carbon atoms is <span style='color:var(--orange);font-weight:bold;'>acetaldehyde</span>. Its IUPAC name is <span style='color:var(--orange);font-weight:bold;'>ethanal</span>.<br>Its chemical formula is \\( \\text{CH}_3\\text{CHO} \\).</p><p style='margin:8px 0;'><strong>Step 6: Illustrate the Benzoin Condensation with acetaldehyde</strong><br>In the presence of a catalyst (e.g., \\( \\text{NaCN} \\) or an NHC), two molecules of acetaldehyde react to form 3-hydroxy-2-butanone:<br>\\[ 2 \\text{ CH}_3\\text{CHO} \\quad \\xrightarrow{\\text{Catalyst}} \\quad \\text{CH}_3\\text{CO-CH(OH)-CH}_3 \\]<br>The mechanism involves:<br>1. Deprotonation of the aldehyde's alpha-hydrogen (after nucleophilic attack by cyanide/NHC) to form a resonance-stabilized carbanion (an acyl anion equivalent).<br>2. Nucleophilic attack of this carbanion on the carbonyl carbon of a second aldehyde molecule.<br>3. Proton transfer and elimination of the catalyst to yield the alpha-hydroxy ketone.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The Benzoin Condensation of two molecules of acetaldehyde (\\( \\text{CH}_3\\text{CHO} \\)) yields 3-hydroxy-2-butanone. Each acetaldehyde molecule contributes two carbons. The product, 3-hydroxy-2-butanone, has four carbons, consistent with the dimerization of two 2-carbon aldehydes. The structure matches the definition of an alpha-hydroxy ketone formed by this reaction.<br>\\[ 2 \\quad \\underset{\\text{Acetaldehyde}}{\\text{CH}_3\\text{CHO}} \\quad \\xrightarrow{\\text{Catalyst}} \\quad \\underset{\\text{3-hydroxy-2-butanone}}{\\text{CH}_3\\text{CO-CH(OH)-CH}_3} \\]<br>&#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The initial reactant is Acetaldehyde (Ethanal).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acetaldehyde (Ethanal)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Under kinetic conditions, the major product of the hydrobromination of 1,3-butadiene is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Carbocations",
+      "Kinetic vs Thermodynamic Control"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hydrobromination of Conjugated Dienes (Kinetic Control)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Hydrobromination</strong> is an electrophilic addition reaction where HBr adds across a double bond.<br>A <strong>conjugated diene</strong> is a molecule with two double bonds separated by a single bond, allowing for resonance.<br><strong>Kinetic control</strong> refers to reaction conditions where the product formed most rapidly (via the lowest activation energy pathway) is the major product. This is often observed at lower temperatures or shorter reaction times.<br><strong>1,2-addition</strong> involves the addition of reagents to adjacent carbons of one of the double bonds.<br><strong>1,4-addition</strong> involves the addition of reagents to the terminal carbons of the conjugated system, with the double bond shifting to the internal position.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant: 1,3-butadiene<br>Reagent: HBr<br>Conditions: Kinetic control</div><p style='margin:8px 0;'><strong>Step 1: Understand the structure of 1,3-butadiene</strong><br>1,3-butadiene is a conjugated diene with the formula \\( \\text{CH}_2=\\text{CH}-\\text{CH}=\\text{CH}_2 \\). The double bonds are separated by a single bond, allowing for resonance.</p><p style='margin:8px 0;'><strong>Step 2: Electrophilic attack by HBr (Protonation)</strong><br>The \\( \\pi \\)-electrons of one of the double bonds attack the electrophilic hydrogen of HBr, forming a carbocation and a bromide ion (\\( \\text{Br}^- \\)).<br>The protonation occurs at the terminal carbon (C1 or C4) to form a more stable allylic carbocation.<br>\\[ \\text{CH}_2=\\text{CH}-\\text{CH}=\\text{CH}_2 + \\text{H}^+ \\rightarrow \\text{CH}_3-\\overset{+}{\\text{CH}}-\\text{CH}=\\text{CH}_2 \\quad \\text{or} \\quad \\text{CH}_3-\\text{CH}=\\text{CH}-\\overset{+}{\\text{CH}}_2 \\]<br>These two resonance structures represent the same allylic carbocation:<br>\\[ \\text{CH}_3-\\overset{+}{\\text{CH}}-\\text{CH}=\\text{CH}_2 \\longleftrightarrow \\text{CH}_3-\\text{CH}=\\text{CH}-\\overset{+}{\\text{CH}}_2 \\]</p><p style='margin:8px 0;'><strong>Step 3: Nucleophilic attack by Bromide ion</strong><br>The bromide ion (\\( \\text{Br}^- \\)) can attack either of the electrophilic carbons (C2 or C4) of the allylic carbocation, leading to two possible products:<br><br><strong>Attack at C2 (1,2-addition):</strong><br>The \\( \\text{Br}^- \\) attacks the carbon directly adjacent to where the \\( \\text{H}^+ \\) added (C2 in the first resonance structure).<br>\\[ \\text{CH}_3-\\overset{+}{\\text{CH}}-\\text{CH}=\\text{CH}_2 + \\text{Br}^- \\rightarrow \\text{CH}_3-\\text{CH}(\\text{Br})-\\text{CH}=\\text{CH}_2 \\]<br>This product is <span style='color:var(--orange);font-weight:bold;'>3-bromo-1-butene</span>.</p><p style='margin:8px 0;'><strong>Step 4: Determine the kinetic product</strong><br>Under kinetic control, the product that forms fastest is favored. The 1,2-addition product (3-bromo-1-butene) is the kinetic product because the nucleophilic attack by \\( \\text{Br}^- \\) at C2 occurs at the carbon that bears more of the positive charge in the resonance hybrid and is sterically more accessible for attack from the initially formed carbocation. The transition state leading to the 1,2-adduct is typically lower in energy than that leading to the 1,4-adduct, especially at lower temperatures.</p><p style='margin:8px 0;'><strong>Step 5: Name the major product under kinetic conditions</strong><br>Based on the mechanism and the principle of kinetic control, the major product is 3-bromo-1-butene.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The 1,2-addition product, 3-bromo-1-butene, results from the attack of the nucleophile at the carbon adjacent to the protonated carbon. This pathway generally has a lower activation energy due to proximity effects and the nature of the allylic carbocation, making it the kinetically favored product. The 1,4-addition product, 1-bromo-2-butene, is typically the thermodynamic product because its internal double bond is more substituted and thus more stable, but it forms via a higher energy transition state. Therefore, under kinetic conditions, 3-bromo-1-butene is indeed the major product.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The major product is 3-bromo-1-butene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-bromo-1-butene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw the structure of 4-methyl heptanedial",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Nomenclature",
+      "Functional Groups",
+      "Carbonyl Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>IUPAC Nomenclature for Aldehydes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>IUPAC Nomenclature:</strong> A systematic method for naming organic chemical compounds.<br><strong>Aldehyde:</strong> A functional group containing a carbonyl group (C=O) bonded to a hydrogen atom and an R-group (R-CHO). Aldehyde groups are always terminal (at the end of a carbon chain).<br><strong>Dialdehyde (Dial):</strong> A compound containing two aldehyde functional groups. The parent chain is named with the suffix '-dial'.<br><strong>Parent Chain:</strong> The longest continuous carbon chain that contains the principal functional group(s).<br><strong>Substituent:</strong> An atom or group of atoms that replaces a hydrogen atom in a hydrocarbon.<br><strong>Methyl Group:</strong> A common alkyl substituent with the formula \\( -\\\\text{CH}_3 \\).<br><strong>Numbering:</strong> For dialdehydes, the carbon atoms of the aldehyde groups are always assigned the lowest possible numbers, typically C1 and the last carbon of the parent chain.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The chemical name: 4-methyl heptanedial</div><p style='margin:8px 0;'><strong>Step 1: Identify the parent chain and functional groups</strong><br>The name 'heptanedial' indicates:<br><ul><li>'heptane': A parent chain consisting of 7 carbon atoms.</li><li>'-dial': Two aldehyde functional groups (\\( -\\\\text{CHO} \\)). Since there are two, they must be at the ends of the carbon chain.</li></ul></p><p style='margin:8px 0;'><strong>Step 2: Draw the basic carbon skeleton with the aldehyde groups</strong><br>Start by drawing a 7-carbon chain and attach an aldehyde group to each end. The carbons of the aldehyde groups are considered part of the main chain.<br>\\[ \\\\text{CHO} - \\\\text{CH}_2 - \\\\text{CH}_2 - \\\\text{CH}_2 - \\\\text{CH}_2 - \\\\text{CH}_2 - \\\\text{CHO} \\]<br>This represents a 7-carbon chain with aldehydes at C1 and C7.</p><p style='margin:8px 0;'><strong>Step 3: Number the parent chain</strong><br>For dialdehydes, the aldehyde carbons are always numbered as C1 and the highest possible number (C7 in this case). We can number from left to right:<br>\\[ \\\\overset{1}{\\\\text{CHO}} - \\\\overset{2}{\\\\text{CH}_2} - \\\\overset{3}{\\\\text{CH}_2} - \\\\overset{4}{\\\\text{CH}_2} - \\\\overset{5}{\\\\text{CH}_2} - \\\\overset{6}{\\\\text{CH}_2} - \\\\overset{7}{\\\\text{CHO}} \\]<br></p><p style='margin:8px 0;'><strong>Step 4: Identify and place the substituent</strong><br>The prefix '4-methyl' indicates that there is a methyl group (\\( -\\\\text{CH}_3 \\)) attached to the 4th carbon of the parent chain.<br>Locate the 4th carbon and replace one of its hydrogen atoms with a methyl group.<br>Original C4: \\( -\\\\text{CH}_2- \\)<br>With methyl substituent: \\( -\\\\text{CH}(\\\\text{CH}_3)- \\)<br>So the structure becomes:<br>\\[ \\\\text{CHO} - \\\\text{CH}_2 - \\\\text{CH}_2 - \\\\text{CH}(\\\\text{CH}_3) - \\\\text{CH}_2 - \\\\text{CH}_2 - \\\\text{CHO} \\]<br></p><p style='margin:8px 0;'><strong>Step 5: Write the final condensed structural formula</strong><br>Combine all parts to form the complete condensed structural formula.<br><span style='color:var(--orange);font-weight:bold;'>The condensed structural formula for 4-methyl heptanedial is:</span><br><span style='color:var(--orange);font-weight:bold;'>\\( \\\\text{CHO}-\\\\text{CH}_2-\\\\text{CH}_2-\\\\text{CH}(\\\\text{CH}_3)-\\\\text{CH}_2-\\\\text{CH}_2-\\\\text{CHO} \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's verify the name from the drawn structure:<br>1.  <strong>Parent Chain:</strong> The longest continuous carbon chain containing both aldehyde groups has 7 carbons (heptane).<br>2.  <strong>Functional Groups:</strong> There are two aldehyde groups, one at each end, hence '-dial'.<br>3.  <strong>Numbering:</strong> Numbering from either end gives the aldehyde carbons as C1 and C7. The methyl group is at C4 regardless of the direction of numbering.<br>4.  <strong>Substituent:</strong> A methyl group is attached to the 4th carbon.<br>Combining these, the name is indeed <span style='color:var(--orange);font-weight:bold;'>4-methyl heptanedial</span>. \\u2713 Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>\\u2234 The structure of 4-methyl heptanedial is CHO-CH<sub>2</sub>-CH<sub>2</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CHO</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CHO-CH<sub>2</sub>-CH<sub>2</sub>-CH(CH<sub>3</sub>)-CH<sub>2</sub>-CH<sub>2</sub>-CHO"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Hydroxyl alkenes can be reduced to obtain the corresponding",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Reduction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reduction of Hydroxyl Alkenes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>hydroxyl alkene</em> is an organic compound containing both an alkene (carbon-carbon double bond, \\( \\text{C=C} \\)) and a hydroxyl group (\\( \\text{-OH} \\)).<br><em>Reduction</em> in organic chemistry often refers to the gain of hydrogen atoms, the loss of oxygen atoms, or a decrease in the oxidation state of carbon.<br><em>Catalytic hydrogenation</em> is a common reduction method that adds hydrogen (\\( \\text{H}_2 \\)) across a carbon-carbon double bond in the presence of a metal catalyst (e.g., Pd, Pt, Ni), converting it to a single bond (\\( \\text{C-C} \\)).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks about the product obtained when hydroxyl alkenes are reduced.</div><p style='margin:8px 0;'><strong>Step 1: Identify the functional groups present</strong><br>A hydroxyl alkene contains two key functional groups:<br>1. An <em>alkene</em> group: a carbon-carbon double bond (\\( \\text{C=C} \\)).<br>2. A <em>hydroxyl</em> group: an \\( \\text{-OH} \\) group attached to a carbon atom.</p><p style='margin:8px 0;'><strong>Step 2: Understand the common reduction reactions for these groups</strong><br>In organic chemistry, reduction typically involves the addition of hydrogen or the removal of oxygen.<br>1. <em>Alkenes (\\( \\text{C=C} \\))</em>: Carbon-carbon double bonds are readily reduced by catalytic hydrogenation (e.g., using \\( \\text{H}_2 \\) and a catalyst like Pd, Pt, or Ni). This reaction adds hydrogen across the double bond, converting it into a single bond (\\( \\text{C-C} \\)).<br>General reaction: \\( \\text{R}_2\\text{C=CR}_2 + \\text{H}_2 \\xrightarrow{\\text{catalyst}} \\text{R}_2\\text{CH-CHR}_2 \\)<br>This process saturates the double bond.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the stability of the hydroxyl group under typical reduction conditions</strong><br>2. <em>Hydroxyl groups (\\( \\text{-OH} \\))</em>: Alcohol groups are generally stable and do not react under the mild conditions typically used for catalytic hydrogenation of alkenes.<br>To reduce an alcohol to an alkane (i.e., remove the \\( \\text{-OH} \\) group entirely), much harsher conditions or specific multi-step reactions are usually required (e.g., converting the alcohol to a tosylate or halide, then reducing it, or oxidizing it to a carbonyl and then reducing the carbonyl via Clemmensen or Wolff-Kishner reduction).<br>Therefore, the hydroxyl group is expected to remain unchanged during the reduction of the alkene double bond.</p><p style='margin:8px 0;'><strong>Step 4: Determine the corresponding product</strong><br>When a hydroxyl alkene undergoes reduction (specifically, catalytic hydrogenation), the carbon-carbon double bond (\\( \\text{C=C} \\)) is converted into a carbon-carbon single bond (\\( \\text{C-C} \\)). The hydroxyl group (\\( \\text{-OH} \\)) remains intact.<br>A compound containing only carbon-carbon single bonds and a hydroxyl group is classified as an alcohol, or more specifically, a hydroxyl alkane.<br>For example, prop-2-en-1-ol (an allyl alcohol) upon reduction would yield propan-1-ol (an alcohol).<br>\\[ \\text{CH}_2\\text{=CH-CH}_2\\text{OH} \\quad \\xrightarrow{\\text{H}_2\\text{/Pd}} \\quad \\text{CH}_3\\text{-CH}_2\\text{-CH}_2\\text{OH} \\]<br>The product is an <span style='color:var(--orange);font-weight:bold;'>alcohol</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Common reducing agents like \\( \\text{H}_2\\text{/Pd} \\) are selective for carbon-carbon double bonds and triple bonds. They do not typically reduce alcohol functional groups. Thus, the alkene part of the molecule will be saturated, while the hydroxyl group will persist, resulting in an alcohol (or hydroxyl alkane). This confirms that the product is an alcohol.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The corresponding product is an alcohol.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alcohols"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw the Haworth structure of any \\( \\alpha \\)-L-aldohexose",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Haworth Structure",
+      "Carbohydrates",
+      "Stereochemistry",
+      "Nomenclature",
+      "Functional Groups",
+      "Organic Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Drawing Haworth Structure of \\( \\alpha \\)-L-Aldohexose</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>Haworth projection</em> is a common way to represent the cyclic structure of monosaccharides with a simple three-dimensional perspective.<br>An <em>aldohexose</em> is a six-carbon monosaccharide with an aldehyde group at C1.<br>The <em>L-configuration</em> for a monosaccharide means the hydroxyl group on the chiral carbon furthest from the carbonyl (C5 in aldohexoses) is on the left in the Fischer projection. In the Haworth projection, the CH\\(_{2}\\)OH group at C5 points <strong>down</strong>.<br>The <em>\\( \\alpha \\)-anomer</em> refers to the configuration at the anomeric carbon (C1). For L-sugars, the \\( \\alpha \\)-anomer has the C1-OH group pointing <strong>down</strong> (<em>trans</em> to the C5-CH\\(_{2}\\)OH group).<br>The <em>pyranose ring</em> is a six-membered ring formed by the cyclization of an aldohexose, involving C1, C2, C3, C4, C5, and the oxygen atom that was originally part of the C5-OH group.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Draw the Haworth structure of any \\( \\alpha \\)-L-aldohexose. We will use \\( \\alpha \\)-L-glucose as an example.</div><p style='margin:8px 0;'><strong>Step 1: Understand the general structure of an aldohexose</strong><br>An aldohexose has six carbon atoms. In its open-chain (Fischer) form, C1 is an aldehyde, and C2-C5 are chiral carbons with hydroxyl groups. Upon cyclization, C1 becomes the anomeric carbon, and a six-membered ring (pyranose) is formed between C1 and C5, involving the oxygen from the C5 hydroxyl group.</p><p style='margin:8px 0;'><strong>Step 2: Determine the L-configuration in Haworth projection</strong><br>For an <strong>L-sugar</strong>, the CH\\(_{2}\\)OH group attached to C5 (the carbon outside the ring) points <strong>down</strong> in the Haworth projection. This is opposite to D-sugars where it points up.</p><p style='margin:8px 0;'><strong>Step 3: Determine the \\( \\alpha \\)-anomer configuration at C1</strong><br>For an <strong>\\( \\alpha \\)-anomer</strong> of an L-sugar, the hydroxyl group at the anomeric carbon (C1-OH) points <strong>down</strong>. This means it is <em>trans</em> to the CH\\(_{2}\\)OH group at C5.</p><p style='margin:8px 0;'><strong>Step 4: Establish the relationship between Fischer and Haworth projections for other chiral centers</strong><br>The general rule is: groups on the <strong>right</strong> in the Fischer projection point <strong>down</strong> in the Haworth projection, and groups on the <strong>left</strong> in the Fischer projection point <strong>up</strong> in the Haworth projection. We will apply this to C2, C3, and C4.</p><p style='margin:8px 0;'><strong>Step 5: Apply rules to a specific example: \\( \\alpha \\)-L-glucose</strong><br>First, consider the Fischer projection of L-glucose (which is the mirror image of D-glucose):<br>C1: CHO<br>C2: -OH on the <strong>left</strong><br>C3: -OH on the <strong>right</strong><br>C4: -OH on the <strong>left</strong><br>C5: -OH on the <strong>left</strong> (determines L-configuration)<br>C6: CH\\(_{2}\\)OH<br><br>Now, draw the pyranose ring (a hexagon with oxygen at the top-right vertex). Place C1 to the right of the oxygen, and number clockwise to C5. C6 (CH\\(_{2}\\)OH) will be attached to C5.</p><p style='margin:8px 0;'><strong>Step 6: Position hydroxyl groups for \\( \\alpha \\)-L-glucose</strong><br>Based on the rules and L-glucose Fischer projection:<br>&#8226; &nbsp;At C1 (anomeric carbon): For \\( \\alpha \\)-anomer, C1-OH points <span style='color:var(--orange);font-weight:bold;'>down</span>.<br>&#8226; &nbsp;At C2: -OH is on the left in Fischer, so C2-OH points <span style='color:var(--orange);font-weight:bold;'>up</span>.<br>&#8226; &nbsp;At C3: -OH is on the right in Fischer, so C3-OH points <span style='color:var(--orange);font-weight:bold;'>down</span>.<br>&#8226; &nbsp;At C4: -OH is on the left in Fischer, so C4-OH points <span style='color:var(--orange);font-weight:bold;'>up</span>.<br>&#8226; &nbsp;At C5: For L-sugar, the CH\\(_{2}\\)OH group points <span style='color:var(--orange);font-weight:bold;'>down</span>. The hydrogen atom at C5 points up.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The resulting Haworth structure for \\( \\alpha \\)-L-glucose has the CH\\(_{2}\\)OH group at C5 pointing down (L-sugar characteristic) and the C1-OH group also pointing down (\\( \\alpha \\)-anomer characteristic for L-sugars). The positions of the other hydroxyl groups (C2-OH up, C3-OH down, C4-OH up) correctly correspond to the L-glucose Fischer projection. This confirms it is a valid \\( \\alpha \\)-L-aldohexose structure.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The Haworth structure of \\( \\alpha \\)-L-glucose (an example of an \\( \\alpha \\)-L-aldohexose) would show the C1-OH, C3-OH, and C5-CH\\(_{2}\\)OH groups pointing down, and the C2-OH and C4-OH groups pointing up, relative to the plane of the ring.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A Haworth structure of any \\(\\alpha\\)-L-aldohexose, e.g., \\(\\alpha\\)-L-glucose, with C1-OH down, C2-OH up, C3-OH down, C4-OH up, and C5-CH\\(_{2}\\)OH down."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Dicarboxylic acids are generally less acidic than their corresponding alkanoic acid. True or False?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Carboxylic Acids",
+      "Acidity",
+      "Functional Groups",
+      "Dicarboxylic Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Acidity of Carboxylic Acids: Monocarboxylic vs. Dicarboxylic</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Acidity:</strong> The tendency of a compound to donate a proton (\\( \\\\text{H}^+ \\\\)). It is quantified by the acid dissociation constant (\\( \\\\text{K}_a \\\\)) or its negative logarithm (\\( \\\\text{pK}_a \\\\)). A lower \\( \\\\text{pK}_a \\\\) indicates a stronger acid.<br><strong>Conjugate Base:</strong> The species formed after an acid donates a proton. The stability of the conjugate base is directly related to the strength of the acid; a more stable conjugate base means a stronger acid.<br><strong>Inductive Effect:</strong> The transmission of charge through a chain of atoms in a molecule by electrostatic induction. Electron-withdrawing groups (EWGs) stabilize negative charges, while electron-donating groups (EDGs) destabilize them.<br><strong>Alkanoic Acid (Monocarboxylic Acid):</strong> An organic acid containing one carboxyl group (\\( \\\\text{-COOH} \\\\)). General formula: \\( \\\\text{R-COOH} \\\\).<br><strong>Dicarboxylic Acid:</strong> An organic acid containing two carboxyl groups (\\( \\\\text{-COOH} \\\\)). General formula: \\( \\\\text{HOOC-R-COOH} \\\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>The statement to evaluate: \"Dicarboxylic acids are generally less acidic than their corresponding alkanoic acid.\"<br>Fundamental principle: Acidity increases with the stability of the conjugate base.</div><p style='margin:8px 0;'><strong>Step 1: Understand Acidity and Conjugate Base Stability</strong><br>The strength of an acid is determined by the stability of its conjugate base. When an acid donates a proton, it forms a conjugate base. The more stable this conjugate base is (e.g., by delocalization or dispersal of its negative charge), the more readily the acid will donate its proton, making it a stronger acid.</p><p style='margin:8px 0;'><strong>Step 2: Analyze the Acidity of a Monocarboxylic Acid</strong><br>Consider a typical alkanoic acid, such as acetic acid (\\( \\\\text{CH}_3\\\\text{COOH} \\\\)).<br>Upon deprotonation, it forms the acetate ion, its conjugate base: <br>\\[ \\\\text{CH}_3\\\\text{COOH} \\\\rightleftharpoons \\\\text{CH}_3\\\\text{COO}^- + \\\\text{H}^+ \\\\\\]<br>The negative charge on the carboxylate group (\\( \\\\text{COO}^- \\\\)) is stabilized by resonance between the two oxygen atoms. The methyl group (\\( \\\\text{CH}_3 \\\\)) is slightly electron-donating, which slightly destabilizes the negative charge. Acetic acid has a <span style='color:var(--orange);font-weight:bold;'>\\( \\\\text{pK}_a \\\\approx 4.76 \\\\)</span>.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the First Deprotonation of a Dicarboxylic Acid</strong><br>Now, consider a dicarboxylic acid, for example, malonic acid (\\( \\\\text{HOOC-CH}_2\\\\text{-COOH} \\\\)).<br>When the first proton is removed, it forms a monoanion, which is its conjugate base for the first dissociation: <br>\\[ \\\\text{HOOC-CH}_2\\\\text{-COOH} \\\\rightleftharpoons \\\\text{HOOC-CH}_2\\\\text{-COO}^- + \\\\text{H}^+ \\\\\\]<br>In this conjugate base, the remaining undissociated carboxyl group (\\( \\\\text{HOOC-} \\\\)) is present.</p><p style='margin:8px 0;'><strong>Step 4: Explain the Inductive Effect on Conjugate Base Stability</strong><br>The undissociated carboxyl group (\\( \\\\text{HOOC-} \\\\)) acts as a strong electron-withdrawing group (EWG). This is due to the electronegativity of the oxygen atoms and the partial positive charge on the carbonyl carbon within the second carboxyl group.<br>This electron-withdrawing inductive effect pulls electron density away from the negatively charged carboxylate group (\\( \\\\text{-COO}^- \\\\)) of the conjugate base.<br>This dispersal or delocalization of the negative charge significantly stabilizes the conjugate base (\\( \\\\text{HOOC-CH}_2\\\\text{-COO}^- \\\\)).</p><p style='margin:8px 0;'><strong>Step 5: Compare Acidity Based on Inductive Effects</strong><br>Because the conjugate base formed from the first deprotonation of a dicarboxylic acid is *more* stabilized by the electron-withdrawing inductive effect of the second carboxyl group, the first proton of a dicarboxylic acid is more easily removed.<br>This makes dicarboxylic acids *more* acidic for their first deprotonation compared to simple alkanoic acids (which may have electron-donating alkyl groups).<br>For instance, malonic acid has a <span style='color:var(--orange);font-weight:bold;'>\\( \\\\text{pK}_{a1} \\\\approx 2.85 \\\\)</span>, which is significantly lower (indicating greater acidity) than acetic acid's \\( \\\\text{pK}_a \\\\approx 4.76 \\\\).</p><p style='margin:8px 0;'><strong>Step 6: Conclude on the Truth Value of the Statement</strong><br>Based on the analysis of the inductive effect and conjugate base stability for the first deprotonation, dicarboxylic acids are generally *more* acidic than their corresponding alkanoic acids. Therefore, the statement \"Dicarboxylic acids are generally less acidic than their corresponding alkanoic acid\" is <span style='color:var(--orange);font-weight:bold;'>False</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>To verify, we compare the \\( \\\\text{pK}_a \\\\) values:<br>For a typical alkanoic acid (e.g., acetic acid): \\( \\\\text{pK}_a \\\\approx 4.76 \\\\).<br>For a dicarboxylic acid (first deprotonation, e.g., malonic acid): \\( \\\\text{pK}_{a1} \\\\approx 2.85 \\\\).<br>For another dicarboxylic acid (first deprotonation, e.g., oxalic acid): \\( \\\\text{pK}_{a1} \\\\approx 1.27 \\\\).<br>Since a lower \\( \\\\text{pK}_a \\\\) value indicates a stronger acid, the \\( \\\\text{pK}_{a1} \\\\) values for dicarboxylic acids are significantly lower than the \\( \\\\text{pK}_a \\\\) for monocarboxylic acids. This confirms that dicarboxylic acids are indeed more acidic for their first proton dissociation. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The statement is False.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Under thermodynamic conditions, the major product of the hydrochlorination of 1,3butadiene is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Carbocations",
+      "Kinetic vs Thermodynamic Control",
+      "Addition Reactions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Hydrochlorination of Conjugated Dienes: Thermodynamic Control</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Conjugated Diene:</strong> A molecule containing two double bonds separated by a single bond, allowing for resonance.<br><strong>Hydrochlorination:</strong> An addition reaction where hydrogen chloride (HCl) adds across a double bond.<br><strong>Allylic Carbocation:</strong> A carbocation where the positive charge is adjacent to a carbon-carbon double bond, stabilized by resonance.<br><strong>Kinetic Control:</strong> Reaction conditions (typically low temperature, short reaction time) that favor the product formed fastest, often due to a lower activation energy. This usually leads to the 1,2-adduct in diene additions.<br><strong>Thermodynamic Control:</strong> Reaction conditions (typically high temperature, longer reaction time, reversible) that favor the most stable product, allowing equilibrium to be established. This usually leads to the 1,4-adduct in diene additions, as it often has a more substituted and thus more stable double bond.<br><strong>Alkene Stability:</strong> Generally, more substituted alkenes are more stable (tetrasubstituted > trisubstituted > disubstituted > monosubstituted).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant: 1,3-butadiene<br>Reagent: HCl (hydrochlorination)<br>Conditions: Thermodynamic<br>Goal: Identify the major product.</div><p style='margin:8px 0;'><strong>Step 1: Identify the reactant and reagent</strong><br>The reactant is 1,3-butadiene, a conjugated diene with the formula \\( \\text{CH}_2=\\text{CH}-\\text{CH}=\\text{CH}_2 \\).<br>The reagent is hydrogen chloride (HCl), which acts as an electrophile (H\\( \\^+ \\)) and a nucleophile (Cl\\( \\^- \\)).</p><p style='margin:8px 0;'><strong>Step 2: Protonation of 1,3-butadiene to form an allylic carbocation</strong><br>The first step in the electrophilic addition of HCl to 1,3-butadiene is the protonation of one of the double bonds. According to Markovnikov's rule, the proton adds to the carbon that results in the more stable carbocation. In conjugated dienes, this leads to an allylic carbocation.<br>\\[ \\text{CH}_2=\\text{CH}-\\text{CH}=\\text{CH}_2 + \\text{H}^+ \\\\ \\rightarrow \\text{CH}_3-\\text{CH}^+-\\text{CH}=\\text{CH}_2 \\quad \\text{(secondary allylic carbocation)} \\]<br>The proton adds to C1 (or C4, due to symmetry), forming a positive charge at C2, which is an allylic carbocation.</p><p style='margin:8px 0;'><strong>Step 3: Resonance stabilization of the allylic carbocation</strong><br>The allylic carbocation formed in Step 2 is resonance-stabilized. The positive charge can be delocalized across the allylic system.<br>\\[ \\text{CH}_3-\\text{CH}^+-\\text{CH}=\\text{CH}_2 \\quad \\longleftrightarrow \\quad \\text{CH}_3-\\text{CH}=\\text{CH}-\\text{CH}_2^+ \\]<br>The positive charge is shared between C2 and C4. This means the chloride ion (Cl\\( \\^- \\)) can attack at either of these positions.</p><p style='margin:8px 0;'><strong>Step 4: Nucleophilic attack by chloride ion (Cl\\( \\^- \\))</strong><br>The chloride ion (Cl\\( \\^- \\)) can attack the carbocation at the two resonance-stabilized positions:<br>1.  Attack at C2 (the original site of the positive charge in the first resonance structure) leads to the 1,2-adduct.<br>2.  Attack at C4 (the site of the positive charge in the second resonance structure) leads to the 1,4-adduct.</p><p style='margin:8px 0;'><strong>Step 5: Determine the structures of the 1,2- and 1,4-adducts</strong><br><strong>1,2-Adduct:</strong> Attack at C2 results in the chlorine atom attaching to C2 and the double bond remaining between C3 and C4.<br>\\[ \\text{CH}_3-\\text{CH}(\\text{Cl})-\\text{CH}=\\text{CH}_2 \\]<br>This compound is <span style='color:var(--orange);font-weight:bold;'>3-chloro-1-butene</span>. The double bond is monosubstituted.<br><br><strong>1,4-Adduct:</strong> Attack at C4 results in the chlorine atom attaching to C4 and the double bond shifting to between C2 and C3.<br>\\[ \\text{CH}_3-\\text{CH}=\\text{CH}-\\text{CH}_2\\text{Cl} \\]<br>This compound is <span style='color:var(--orange);font-weight:bold;'>1-chloro-2-butene</span>. The double bond is disubstituted.</p><p style='margin:8px 0;'><strong>Step 6: Evaluate product stability under thermodynamic conditions</strong><br>Under thermodynamic control, the reaction favors the formation of the most stable product. We need to compare the stability of the 1,2-adduct (3-chloro-1-butene) and the 1,4-adduct (1-chloro-2-butene).<br><br>The stability of alkenes increases with increasing substitution of the double bond.<br>•   3-chloro-1-butene has a double bond between C3 and C4, which is connected to only one alkyl group (the -CH(Cl)CH3 group). This is a <span style='color:var(--orange);font-weight:bold;'>monosubstituted alkene</span>.<br>•   1-chloro-2-butene has a double bond between C2 and C3, which is connected to two alkyl groups (the -CH3 group and the -CH2Cl group). This is a <span style='color:var(--orange);font-weight:bold;'>disubstituted alkene</span>.<br><br>Since disubstituted alkenes are more stable than monosubstituted alkenes, <span style='color:var(--orange);font-weight:bold;'>1-chloro-2-butene is the more thermodynamically stable product</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question specifies \"thermodynamic conditions.\" Under these conditions, the most stable product is favored. Comparing the two possible adducts, 3-chloro-1-butene (1,2-adduct) has a monosubstituted double bond, while 1-chloro-2-butene (1,4-adduct) has a disubstituted double bond. Disubstituted alkenes are generally more stable than monosubstituted alkenes due to hyperconjugation. Therefore, 1-chloro-2-butene is indeed the major product under thermodynamic control.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The major product of the hydrochlorination of 1,3-butadiene under thermodynamic conditions is 1-chloro-2-butene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1-chloro-2-butene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Carbohydrates",
+      "Stereochemistry",
+      "Functional Groups",
+      "Nomenclature",
+      "Organic Chemistry"
+    ],
+    "Question": {
+      "content": "Draw the Fisher projection of any L-ketotetrose sugar",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Drawing an L-Ketotetrose Fischer Projection</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>Fischer projection</em> is a 2D representation of a 3D molecule, commonly used for carbohydrates. The carbon chain is drawn vertically, with the most oxidized carbon at the top. Horizontal lines represent bonds coming out of the page, and vertical lines represent bonds going into the page.<br><br>A <em>ketose</em> is a monosaccharide containing a ketone (C=O) functional group. For simple ketoses, the ketone is typically located at the second carbon (C2).<br><br>A <em>tetrose</em> is a monosaccharide containing four carbon atoms.<br><br>An <em>L-sugar</em> is defined by the configuration of the chiral carbon furthest from the carbonyl group. In a Fischer projection, for an L-sugar, the hydroxyl (-OH) group on this lowest chiral carbon is positioned on the <em>left</em> side.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Draw the Fischer projection of an L-ketotetrose sugar.</div><p style='margin:8px 0;'><strong>Step 1: Determine the basic carbon chain and functional groups.</strong><br>A 'tetrose' indicates a sugar with 4 carbon atoms.<br>A 'keto' sugar means it contains a ketone functional group. For simple ketoses, the ketone is typically located at the second carbon (C2).<br>Therefore, the carbon chain will have a primary alcohol at C1 (\\( \\text{CH}_2\\text{OH} \\)), a ketone at C2 (\\( \\text{C=O} \\)), and a primary alcohol at C4 (\\( \\text{CH}_2\\text{OH} \\)). The most oxidized carbon (or the carbon closest to it) is placed at the top in a Fischer projection, so C1 will be at the top.</p><p style='margin:8px 0;'><strong>Step 2: Identify the chiral carbon(s).</strong><br>A chiral carbon is a carbon atom bonded to four different groups.<br>C1 (\\( \\text{CH}_2\\text{OH} \\)) is not chiral.<br>C2 (\\( \\text{C=O} \\)) is not chiral.<br>C4 (\\( \\text{CH}_2\\text{OH} \\)) is not chiral.<br>C3 is bonded to an -OH group, an -H group, C2 (\\( \\text{C=O} \\)), and C4 (\\( \\text{CH}_2\\text{OH} \\)). These four groups are different, making C3 the only chiral carbon in a ketotetrose.<br>Thus, C3 is the lowest chiral carbon.</p><p style='margin:8px 0;'><strong>Step 3: Apply the 'L-' configuration rule to the lowest chiral carbon.</strong><br>The 'L-' prefix indicates the stereochemistry of the sugar. For an L-sugar, the hydroxyl (-OH) group on the lowest chiral carbon (which is C3 in this case) must be placed on the <em>left</em> side in the Fischer projection.<br>Consequently, the hydrogen (-H) atom on C3 will be on the <em>right</em> side.</p><p style='margin:8px 0;'><strong>Step 4: Construct the Fischer projection.</strong><br>Draw a vertical line representing the main carbon chain.<br>Place \\( \\text{CH}_2\\text{OH} \\) at the top (C1).<br>Place \\( \\text{C=O} \\) at the second position (C2).<br>At the third position (C3), draw a horizontal line. Place the -OH group on the left and the -H group on the right, as determined in Step 3.<br>Place \\( \\text{CH}_2\\text{OH} \\) at the bottom (C4).<br>The resulting sugar is L-erythrulose.</p><p style='margin:8px 0;'><strong>Step 5: Visualize the final structure.</strong><br>\\[<br>\\begin{array}{c}<br>\\text{CH}_2\\text{OH} \\\\<br>| \\\\<br>\\text{C=O} \\\\<br>| \\\\<br>\\text{HO} - \\underset{\\text{H}}{\\overset{\\text{C}}{\\mid}} - \\text{H} \\\\<br>| \\\\<br>\\text{CH}_2\\text{OH}<br>\\end{array}<br>\\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>1. <strong>Ketose:</strong> The presence of a ketone group at C2 is confirmed.<br>2. <strong>Tetrose:</strong> There are 4 carbon atoms in the chain.<br>3. <strong>L-configuration:</strong> The lowest chiral carbon is C3. The hydroxyl group on C3 is on the left side, which correctly defines it as an L-sugar.<br>All conditions for an L-ketotetrose are met.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The Fischer projection of L-ketotetrose (L-erythrulose) has \\( \\text{CH}_2\\text{OH} \\) at C1, \\( \\text{C=O} \\) at C2, an -OH group on the left and an -H group on the right at C3, and \\( \\text{CH}_2\\text{OH} \\) at C4.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The Fischer projection of L-ketotetrose (L-erythrulose) has CH2OH at C1, C=O at C2, an -OH group on the left and an -H group on the right at C3, and CH2OH at C4."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Identify the allylic carbons in the structure of 1-methylcyclohexene",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Nomenclature",
+      "Allylic Positions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Allylic Carbons in 1-Methylcyclohexene</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>allylic carbon</em> is a carbon atom that is directly bonded to a vinylic carbon (a carbon involved in a carbon-carbon double bond), but is itself saturated (forms only single bonds to other carbons/hydrogens) and is not part of the double bond.<br>The position on such a carbon is called the <em>allylic position</em>.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The molecule: 1-methylcyclohexene.</div><p style='margin:8px 0;'><strong>Step 1: Understand the structure of 1-methylcyclohexene.</strong><br>1-methylcyclohexene is a six-membered carbon ring containing one double bond and a methyl group. We number the carbons of the double bond as C1 and C2, with the methyl group attached to C1. The numbering then continues around the ring: C1-C2-C3-C4-C5-C6.</p><p style='margin:8px 0;'><strong>Step 2: Identify the vinylic carbons.</strong><br>The vinylic carbons are the two carbons directly involved in the carbon-carbon double bond.<br>In 1-methylcyclohexene, these are <span style='color:var(--orange);font-weight:bold;'>Carbon 1 (C1)</span> and <span style='color:var(--orange);font-weight:bold;'>Carbon 2 (C2)</span> of the cyclohexene ring.</p><p style='margin:8px 0;'><strong>Step 3: Identify carbons directly attached to the vinylic carbons.</strong><br>According to the definition, allylic carbons are directly bonded to vinylic carbons. Let's examine each vinylic carbon:<br>From C1 (a vinylic carbon), the carbons directly attached are:<br>1. The carbon of the <span style='color:var(--orange);font-weight:bold;'>methyl group</span> (CH\\(_3\\)) attached to C1.<br>2. <span style='color:var(--orange);font-weight:bold;'>Carbon 6 (C6)</span> of the cyclohexene ring.</p><p style='margin:8px 0;'>From C2 (the other vinylic carbon), the carbons directly attached are:<br>1. <span style='color:var(--orange);font-weight:bold;'>Carbon 3 (C3)</span> of the cyclohexene ring.</p><p style='margin:8px 0;'><strong>Step 4: Confirm these carbons are not part of the double bond.</strong><br>The methyl carbon, C6, and C3 are all saturated carbons, meaning they form only single bonds to other carbons in their immediate vicinity. They are not part of the C1=C2 double bond itself.<br>Therefore, these three carbons fit the definition of allylic carbons.</p><p style='margin:8px 0;'><strong>Step 5: List all identified allylic carbons.</strong><br>The allylic carbons in 1-methylcyclohexene are <span style='color:var(--orange);font-weight:bold;'>Carbon 3</span>, <span style='color:var(--orange);font-weight:bold;'>Carbon 6</span>, and the <span style='color:var(--orange);font-weight:bold;'>carbon of the methyl group</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's re-check each identified carbon against the definition: \"a carbon atom that is directly bonded to a vinylic carbon, but is itself not part of the double bond.\"<br>&#8226; Carbon 3 is bonded to C2 (vinylic) and is not part of the double bond. &#10003;<br>&#8226; Carbon 6 is bonded to C1 (vinylic) and is not part of the double bond. &#10003;<br>&#8226; The methyl carbon is bonded to C1 (vinylic) and is not part of the double bond. &#10003;<br>All identified carbons correctly fit the definition of an allylic carbon.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The allylic carbons in 1-methylcyclohexene are Carbon 3, Carbon 6, and the carbon of the methyl group.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The carbons at position 3, position 6, and the methyl group's carbon."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Give the product of the oxidation of glucose with \\\\( KMnO_4 \\\\)",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Carbohydrates",
+      "Oxidation",
+      "Organic Chemistry",
+      "Functional Groups",
+      "Carbonyl Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidation of Glucose</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Glucose</strong> is an aldohexose, a monosaccharide with an aldehyde group at one end (C1) and a primary alcohol group at the other end (C6), along with several secondary alcohol groups.<br><strong>Oxidation</strong> in organic chemistry often involves increasing the number of bonds to oxygen or decreasing the number of bonds to hydrogen.<br><strong>Potassium Permanganate (\\\\( KMnO_4 \\\\))</strong> is a very strong oxidizing agent. It can oxidize aldehydes to carboxylic acids and primary alcohols to carboxylic acids under strong conditions.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant: Glucose<br>Oxidizing Agent: Potassium Permanganate (\\\\( KMnO_4 \\\\))<br>Task: Identify the product of this oxidation reaction.</div><p style='margin:8px 0;'><strong>Step 1: Analyze the structure of Glucose</strong><br>Glucose is an aldohexose, which means it contains:<br>1. An aldehyde group (\\\\( -CHO \\\\)) at carbon C1.<br>2. A primary alcohol group (\\\\( -CH_2OH \\\\)) at carbon C6.<br>3. Secondary alcohol groups (\\\\( -CHOH \\\\)) at carbons C2, C3, C4, and C5.<br>The open-chain Fischer projection of D-glucose is:<br>\\\\[<br>\\\\\\\\begin{array}{c}<br>CHO \\\\\\\\quad (C1)<br>|<br>CHOH \\\\\\\\quad (C2)<br>|<br>CHOH \\\\\\\\quad (C3)<br>|<br>CHOH \\\\\\\\quad (C4)<br>|<br>CHOH \\\\\\\\quad (C5)<br>|<br>CH_2OH \\\\\\\\quad (C6)<br>\\\\\\\\end{array}<br>\\\\]</p><p style='margin:8px 0;'><strong>Step 2: Understand the oxidizing power of \\\\( KMnO_4 \\\\)</strong><br>\\\\( KMnO_4 \\\\) is a strong oxidizing agent. Its typical oxidation capabilities include:<br>1. Oxidizing aldehydes (\\\\( R-CHO \\\\)) to carboxylic acids (\\\\( R-COOH \\\\)).<br>2. Oxidizing primary alcohols (\\\\( R-CH_2OH \\\\)) to carboxylic acids (\\\\( R-COOH \\\\)) (often via an aldehyde intermediate, which is then further oxidized).<br>3. Oxidizing secondary alcohols (\\\\( R_2CHOH \\\\)) to ketones (\\\\( R_2C=O \\\\)). However, strong oxidation conditions with \\\\( KMnO_4 \\\\) can also lead to C-C bond cleavage if secondary alcohols are the only oxidizable groups, but for glucose, the aldehyde and primary alcohol groups are more readily oxidized first.</p><p style='margin:8px 0;'><strong>Step 3: Apply the oxidation to Glucose's functional groups</strong><br>Given the presence of both an aldehyde group at C1 and a primary alcohol group at C6, \\\\( KMnO_4 \\\\) will act on both of these highly oxidizable functional groups.<br>1. The aldehyde group at C1 will be oxidized to a carboxylic acid group (\\\\( -COOH \\\\)).<br>2. The primary alcohol group at C6 will also be oxidized to a carboxylic acid group (\\\\( -COOH \\\\)).<br>The secondary alcohol groups at C2, C3, C4, and C5 will generally remain unchanged under these conditions, as the C1 and C6 oxidations are more facile and complete.</p><p style='margin:8px 0;'><strong>Step 4: Determine the structure and name of the product</strong><br>After the oxidation, the C1 carbon, which was an aldehyde, becomes a carboxylic acid. The C6 carbon, which was a primary alcohol, also becomes a carboxylic acid.<br>The resulting molecule is a six-carbon chain with carboxylic acid groups at both ends (C1 and C6), and hydroxyl groups on the intermediate carbons (C2-C5).<br>This type of dicarboxylic acid derived from an aldose is known as an aldaric acid or saccharic acid.<br>Specifically, the aldaric acid derived from glucose is called <span style='color:var(--orange);font-weight:bold;'>D-Glucaric acid</span> (also known as D-Saccharic acid).<br>\\\\[<br>\\\\\\\\begin{array}{c}<br>COOH \\\\\\\\quad (C1)<br>|<br>CHOH \\\\\\\\quad (C2)<br>|<br>CHOH \\\\\\\\quad (C3)<br>|<br>CHOH \\\\\\\\quad (C4)<br>|<<br>CHOH \\\\\\\\quad (C5)<br>|<br>COOH \\\\\\\\quad (C6)<br>\\\\\\\\end{array}<br>\\\\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Glucose is an aldohexose. Aldoses can undergo various oxidation reactions. Strong oxidizing agents like \\\\( KMnO_4 \\\\) oxidize both the aldehyde group (C1) and the primary alcohol group (C6) to carboxylic acids. If only the aldehyde group were oxidized, the product would be gluconic acid. If only the primary alcohol group were oxidized (while C1 remains aldehyde), it would be glucuronic acid. Since \\\\( KMnO_4 \\\\) is a strong agent, both ends are oxidized, leading to a dicarboxylic acid. The dicarboxylic acid derived from glucose is indeed Glucaric acid. This confirms the product.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The product of the oxidation of glucose with \\\\( KMnO_4 \\\\) is Glucaric acid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Glucaric acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Condensation polymers of amino acids made up of over 1000 molecules are called?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Amines",
+      "Carboxylic Acids",
+      "Nucleophilic Acyl Substitution",
+      "Proteins"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Condensation Polymers of Amino Acids: Proteins</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>amino acid</em> is an organic molecule containing both an amino group (\\( -\\text{NH}_2 \\)) and a carboxyl group (\\( -\\text{COOH} \\)).<br><em>Condensation polymerization</em> is a type of polymerization in which monomers react to form a larger polymer while releasing small molecules, such as water, as byproducts.<br>A <em>peptide bond</em> is an amide linkage formed between the carboxyl group of one amino acid and the amino group of another, with the elimination of a water molecule.<br>A <em>polypeptide</em> is a linear organic polymer consisting of a large number of amino acid residues bonded together in a chain, forming part of or a whole protein molecule.<br>A <em>protein</em> is a large, complex organic molecule made up of one or more long chains of amino acids, known as polypeptides. Proteins are distinguished from smaller polypeptides by their size, often containing hundreds or thousands of amino acid residues, and their specific three-dimensional structure and biological function.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Type of polymer: Condensation polymer<br>Monomers: Amino acids<br>Size: Over 1000 molecules (amino acid residues)</div><p style='margin:8px 0;'><strong>Step 1: Understand the monomer and polymerization type</strong><br>The building blocks (monomers) are amino acids. Amino acids have both an amino group (\\( -\\text{NH}_2 \\)) and a carboxyl group (\\( -\\text{COOH} \\)).<br>The polymerization process is condensation polymerization, which means a small molecule (like water) is removed when two monomers join.</p><p style='margin:8px 0;'><strong>Step 2: Describe the formation of peptide bonds</strong><br>During condensation polymerization of amino acids, the carboxyl group of one amino acid reacts with the amino group of another amino acid.<br>This reaction forms an amide linkage, specifically called a <em>peptide bond</em>, and releases a molecule of water.<br>\\[ \\text{R}_1\\text{-CH(NH}_2)\\text{-COOH} + \\text{H}_2\\text{N-CH(R}_2)\\text{-COOH} \\longrightarrow \\text{R}_1\\text{-CH(NH}_2)\\text{-CO-NH-CH(R}_2)\\text{-COOH} + \\text{H}_2\\text{O} \\]</p><p style='margin:8px 0;'><strong>Step 3: Identify the general term for amino acid polymers</strong><br>A chain of amino acids linked together by peptide bonds is generally referred to as a <em>polypeptide</em>.<br>Polypeptides can vary greatly in length, from a few amino acids to many thousands.</p><p style='margin:8px 0;'><strong>Step 4: Distinguish between polypeptides and proteins based on size</strong><br>While all proteins are polypeptides, the term <em>protein</em> is typically reserved for very large polypeptides that have a defined three-dimensional structure and specific biological function.<br>There isn't a universally strict cutoff, but polymers consisting of \"over 1000 molecules\" (meaning over 1000 amino acid residues) are unequivocally considered <span style='color:var(--orange);font-weight:bold;'>proteins</span> due to their substantial size and complexity. Smaller chains are usually called oligopeptides or simply polypeptides.</p><p style='margin:8px 0;'><strong>Step 5: Conclude based on the given criteria</strong><br>Given that the polymer is formed from amino acids via condensation and is made up of over 1000 molecules (amino acid residues), it falls into the category of a protein.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Amino acids are the monomers of proteins. Proteins are formed by the condensation polymerization of amino acids, resulting in peptide bonds. The distinction between a polypeptide and a protein is often based on size and functional complexity. A polymer made of \"over 1000 molecules\" (amino acid residues) is certainly large enough to be classified as a protein, possessing the necessary structural complexity for biological function. Therefore, the term \"Proteins\" is accurate. &#10003;</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Condensation polymers of amino acids made up of over 1000 molecules are called Proteins.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Proteins"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Another name for \\( \\beta \\)-hydroxypropanal is?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Nomenclature",
+      "Functional Groups",
+      "Carbonyl Chemistry",
+      "Aldol Condensation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nomenclature of Aldehydes and Hydroxy Compounds</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Aldehyde:</strong> An organic compound containing a formyl group (—CHO), where a carbonyl carbon is bonded to at least one hydrogen atom and one alkyl or aryl group. The aldehyde carbon is always at the end of a carbon chain and is assigned position C1 in IUPAC nomenclature.<br><strong>IUPAC Nomenclature:</strong> The systematic method of naming organic chemical compounds as recommended by the International Union of Pure and Applied Chemistry.<br><strong>Common Nomenclature (Greek Letters):</strong> For derivatives of carboxylic acids, aldehydes, and ketones, carbon positions relative to the carbonyl carbon are often denoted by Greek letters:<br><ul><li><strong>\\( \\alpha \\)-carbon:</strong> The carbon atom directly adjacent to the carbonyl carbon.</li><li><strong>\\( \\beta \\)-carbon:</strong> The carbon atom adjacent to the \\( \\alpha \\)-carbon (i.e., the second carbon from the carbonyl carbon).</li><li><strong>\\( \\gamma \\)-carbon:</strong> The carbon atom adjacent to the \\( \\beta \\)-carbon (i.e., the third carbon from the carbonyl carbon).</li></ul><strong>Hydroxy group:</strong> Refers to a hydroxyl (-OH) functional group.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Compound name: \\( \\beta \\)-hydroxypropanal<br>Task: Find another name (IUPAC name).</div><p style='margin:8px 0;'><strong>Step 1: Identify the parent chain and functional group from \"propanal\"</strong><br>The suffix \"-al\" indicates that the compound is an aldehyde.<br>The prefix \"prop-\" indicates a 3-carbon chain.<br>In IUPAC nomenclature, the aldehyde carbon is always designated as C1.<br>Therefore, the parent chain is a 3-carbon aldehyde.</p><p style='margin:8px 0;'><strong>Step 2: Determine the IUPAC numbering of the carbon chain</strong><br>For propanal, the carbons are numbered starting from the aldehyde group:<br>\\[ \\text{C3} - \\text{C2} - \\text{C1(CHO)} \\]<br>So, C1 is the carbonyl carbon, C2 is the carbon adjacent to C1, and C3 is the carbon adjacent to C2.</p><p style='margin:8px 0;'><strong>Step 3: Understand the meaning of the \\( \\beta \\)-position in common nomenclature for aldehydes</strong><br>In common nomenclature, carbon atoms are labeled with Greek letters relative to the carbonyl carbon:<br>The carbon directly attached to the carbonyl carbon (C1) is the \\( \\alpha \\)-carbon. This corresponds to <span style='color:var(--orange);font-weight:bold;'>C2</span> in IUPAC numbering.<br>The carbon attached to the \\( \\alpha \\)-carbon is the \\( \\beta \\)-carbon. This corresponds to <span style='color:var(--orange);font-weight:bold;'>C3</span> in IUPAC numbering.<br>The carbon attached to the \\( \\beta \\)-carbon is the \\( \\gamma \\)-carbon, and so on.</p><p style='margin:8px 0;'><strong>Step 4: Locate the \"hydroxy\" group based on the \\( \\beta \\)-position</strong><br>The term \"\\( \\beta \\)-hydroxy\" indicates that a hydroxyl (-OH) group is attached to the \\( \\beta \\)-carbon.<br>From Step 3, the \\( \\beta \\)-carbon corresponds to C3 in the IUPAC numbering.<br>Therefore, the hydroxyl group is located on <span style='color:var(--orange);font-weight:bold;'>C3</span>.</p><p style='margin:8px 0;'><strong>Step 5: Combine the information to form the IUPAC name</strong><br>The parent chain is propanal (3 carbons, aldehyde at C1).<br>There is a hydroxy group at position C3.<br>Combining these, the IUPAC name is <span style='color:var(--orange);font-weight:bold;'>3-hydroxypropanal</span>.<br>The structure is: \\( \\text{HO}-\\text{CH}_2-\\text{CH}_2-\\text{CHO} \\)</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's start with the IUPAC name, 3-hydroxypropanal, and derive its common name.<br>1. \"Propanal\" means a 3-carbon aldehyde. The aldehyde carbon is C1.<br>   \\( \\text{CH}_3-\\text{CH}_2-\\text{CHO} \\)<br>   (C3)-(C2)-(C1)<br>2. \"3-hydroxy\" means a hydroxyl (-OH) group is on C3.<br>   So, the structure is: \\( \\text{HO}-\\text{CH}_2-\\text{CH}_2-\\text{CHO} \\)<br>   (C3)-(C2)-(C1)<br>3. Now, let's identify the Greek letter positions relative to the carbonyl carbon (C1):<br>   The carbon adjacent to C1 is C2, which is the \\( \\alpha \\)-carbon.<br>   The carbon adjacent to C2 is C3, which is the \\( \\beta \\)-carbon.<br>4. Since the -OH group is on C3, it is on the \\( \\beta \\)-carbon.<br>Therefore, 3-hydroxypropanal is indeed \\( \\beta \\)-hydroxypropanal. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Another name for \\( \\beta \\)-hydroxypropanal is 3-hydroxypropanal.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-hydroxypropanal"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The Michael addition is an example of a 1,2-addition. True or False?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Michael Addition",
+      "Addition Reactions",
+      "Enolate Chemistry",
+      "Carbonyl Chemistry",
+      "Kinetic vs Thermodynamic Control"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Michael Addition and Conjugate Addition</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>α,β-unsaturated carbonyl compound</em> is a molecule containing a carbonyl group (\\( \\text{C=O} \\)) separated from a carbon-carbon double bond (\\( \\text{C=C} \\)) by one single bond. The carbon adjacent to the carbonyl is the α-carbon, and the next carbon is the β-carbon.<br><br><em>1,2-addition</em> (or direct addition) refers to the nucleophilic attack directly at the carbonyl carbon (the 2-position relative to the oxygen, or 1-position relative to the α-carbon in an α,β-unsaturated system). This typically occurs under kinetic control or with strong, irreversible nucleophiles.<br><br><em>1,4-addition</em> (or conjugate addition) refers to the nucleophilic attack at the β-carbon of an α,β-unsaturated carbonyl compound. This typically occurs under thermodynamic control or with weaker, reversible nucleophiles.<br><br>The <em>Michael addition</em> is a specific type of 1,4-addition reaction where a stabilized carbanion (a Michael donor, e.g., an enolate or malonate ester) adds to an α,β-unsaturated carbonyl compound (a Michael acceptor).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Statement: \"The Michael addition is an example of a 1,2-addition. True or False?\"</div><p style='margin:8px 0;'><strong>Step 1: Understand 1,2-addition</strong><br>A 1,2-addition reaction involves a nucleophile attacking the carbonyl carbon directly. In an α,β-unsaturated system, if we consider the carbonyl oxygen as position 1, the carbonyl carbon as 2, the α-carbon as 3, and the β-carbon as 4, a 1,2-addition means the nucleophile adds to the carbon at position 2, and a proton adds to the oxygen at position 1 (after tautomerization if applicable). This is often favored by strong nucleophiles or under kinetic control.<br>Example: Grignard reagents adding to the carbonyl carbon of an α,β-unsaturated ketone.</p><p style='margin:8px 0;'><strong>Step 2: Understand 1,4-addition (Conjugate Addition)</strong><br>A 1,4-addition reaction, also known as conjugate addition, involves a nucleophile attacking the β-carbon of an α,β-unsaturated carbonyl compound. The electrons then delocalize through the double bond and the carbonyl group, ultimately leading to protonation at the α-carbon (after enolization/keto-enol tautomerism). This type of addition is often favored by weaker nucleophiles or under thermodynamic control, as it typically leads to a more stable product (e.g., a new carbon-carbon bond at the β-position).</p><p style='margin:8px 0;'><strong>Step 3: Define Michael Addition</strong><br>The Michael addition is a specific and very important type of 1,4-addition. It involves the nucleophilic attack of a stabilized carbanion (often derived from compounds like malonate esters, β-keto esters, or nitriles, known as Michael donors) on the β-carbon of an α,β-unsaturated carbonyl compound (known as a Michael acceptor). The reaction forms a new carbon-carbon bond at the β-position.</p><p style='margin:8px 0;'><strong>Step 4: Compare and Conclude</strong><br>Based on the definitions:<br>- 1,2-addition: Nucleophile attacks the carbonyl carbon.<br>- 1,4-addition: Nucleophile attacks the β-carbon of an α,β-unsaturated system.<br>- Michael addition: A type of 1,4-addition where a stabilized carbanion attacks the β-carbon.<br>Therefore, the Michael addition is fundamentally a 1,4-addition, not a 1,2-addition. The statement is <span style='color:var(--orange);font-weight:bold;'>False</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Consider the general mechanism for nucleophilic addition to an α,β-unsaturated carbonyl compound:<br><br><ol><li>For 1,2-addition, the nucleophile (\\( \\text{Nu}^- \\)) attacks the carbonyl carbon. For example, if we have \\( \\text{R-CH=CH-C(=O)-R'} \\), the nucleophile attacks the carbon of \\( \\text{C(=O)} \\).</li><li>For 1,4-addition, the nucleophile (\\( \\text{Nu}^- \\)) attacks the β-carbon. In \\( \\text{R-CH=CH-C(=O)-R'} \\), the nucleophile attacks the carbon \\( \\text{R-CH} \\). This causes a shift of electrons, forming an enolate intermediate, which then gets protonated.</li></ol>The Michael addition specifically involves the attack of a stabilized carbanion at the β-carbon, which is the defining characteristic of a 1,4-addition. Thus, the statement that Michael addition is a 1,2-addition is incorrect.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; False</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "For amino acids there is no relationship between D or L for dextrorotatory and levorotatory respectively. True or False?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Amino Acids",
+      "Organic Chemistry",
+      "Stereochemistry",
+      "Functional Groups",
+      "Proteins"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amino Acid Stereochemistry and Optical Activity</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>D/L Nomenclature:</strong> This system describes the <em>absolute configuration</em> of a chiral molecule, typically referenced to glyceraldehyde. For amino acids, it specifies the arrangement of substituents around the \\(\\alpha\\)-carbon. Most naturally occurring amino acids are L-amino acids.<br><strong>Optical Activity:</strong> This is an experimentally observed property where a chiral compound rotates the plane of plane-polarized light. A compound is <em>dextrorotatory</em> (+) if it rotates light clockwise and <em>levorotatory</em> (-) if it rotates light counter-clockwise.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>The statement to evaluate: \"For amino acids there is no relationship between D or L for dextrorotatory and levorotatory respectively. True or False?\"</div><p style='margin:8px 0;'><strong>Step 1: Understand D/L Nomenclature for Amino Acids</strong><br>The D/L system is used to denote the absolute configuration of the \\(\\alpha\\)-carbon in amino acids. This designation is based on a comparison to glyceraldehyde.<br>In a Fischer projection, if the amino group (\\(-\\text{NH}_2\\)) is on the left side of the \\(\\alpha\\)-carbon, it is designated as an <span style='color:var(--orange);font-weight:bold;'>L-amino acid</span>. If it is on the right, it is a D-amino acid.<br>The vast majority of amino acids found in proteins are L-amino acids.</p><p style='margin:8px 0;'><strong>Step 2: Understand Dextrorotatory (+) and Levorotatory (-) Properties</strong><br>These terms describe a molecule's <em>optical activity</em>, which is its ability to rotate plane-polarized light. This is an empirical property measured by a polarimeter.<br>If a compound rotates plane-polarized light clockwise, it is called <span style='color:var(--orange);font-weight:bold;'>dextrorotatory</span> and is denoted by (+).<br>If it rotates plane-polarized light counter-clockwise, it is called <span style='color:var(--orange);font-weight:bold;'>levorotatory</span> and is denoted by (-).</p><p style='margin:8px 0;'><strong>Step 3: Distinguish Absolute Configuration from Optical Rotation</strong><br>It is crucial to understand that the D/L designation (absolute configuration) and the optical rotation (+/-) are <span style='color:var(--orange);font-weight:bold;'>independent properties</span>.<br>The D/L system describes the specific spatial arrangement of atoms around a chiral center, which is a structural feature.<br>Optical rotation is a physical property that results from the interaction of light with the chiral molecule. There is no direct, predictable correlation between the D or L configuration and whether a compound will be dextrorotatory or levorotatory.</p><p style='margin:8px 0;'><strong>Step 4: Provide Illustrative Examples</strong><br>Consider common L-amino acids:<br><br>For example, <span style='color:var(--orange);font-weight:bold;'>L-alanine</span> is dextrorotatory, denoted as <span style='color:var(--orange);font-weight:bold;'>L-(+)-alanine</span>.<br>However, <span style='color:var(--orange);font-weight:bold;'>L-serine</span> is levorotatory, denoted as <span style='color:var(--orange);font-weight:bold;'>L-(-)-serine</span>.<br>These examples clearly demonstrate that an L-configuration does not exclusively correspond to either dextrorotatory or levorotatory behavior.</p><p style='margin:8px 0;'><strong>Step 5: Conclude on the Relationship</strong><br>Based on the definitions and examples, the D/L nomenclature (absolute configuration) and the direction of optical rotation (dextrorotatory or levorotatory) are <span style='color:var(--orange);font-weight:bold;'>not directly related or correlated</span>.<br>One cannot predict the optical rotation of an amino acid simply by knowing its D or L configuration, and vice-versa.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The statement claims \"no relationship\" between D/L and dextrorotatory/levorotatory. This is consistent with the chemical principle that absolute configuration (D/L) is a structural descriptor, while optical rotation (+/-) is an experimental observation that cannot be directly inferred from the D/L designation. The examples of L-amino acids showing both (+) and (-) optical rotation confirm this independence. Therefore, the statement is correct.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The statement is True.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Diels-Alder reaction always results in the formation of?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Pericyclic Reactions",
+      "Diels-Alder Reaction",
+      "Stereochemistry",
+      "Cycloaddition"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Diels-Alder Reaction: Cycloaddition Product</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Diels-Alder reaction</em> is a pericyclic reaction, specifically a [4+2] cycloaddition, between a conjugated diene (a molecule with two alternating double bonds) and a dienophile (an alkene or alkyne, often with electron-withdrawing groups). It is a concerted reaction, meaning all bond-breaking and bond-forming steps occur simultaneously.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks about the characteristic product formed by a Diels-Alder reaction.</div><p style='margin:8px 0;'><strong>Step 1: Understand the Reactants</strong><br>A Diels-Alder reaction involves two main components:<br>1. A <strong>conjugated diene</strong>: This molecule provides four \\\\(\\\\pi\\\\)-electrons and four carbon atoms that will form part of the new ring. For example, 1,3-butadiene.<br>2. A <strong>dienophile</strong>: This molecule typically provides two \\\\(\\\\pi\\\\)-electrons and two carbon atoms that will complete the new ring. It is usually an alkene or alkyne.</p><p style='margin:8px 0;'><strong>Step 2: Recognize the [4+2] Cycloaddition Nature</strong><br>The designation '[4+2]' refers to the number of \\\\(\\\\pi\\\\)-electrons contributed by each reactant to the new cyclic system. The diene contributes 4 \\\\(\\\\pi\\\\)-electrons, and the dienophile contributes 2 \\\\(\\\\pi\\\\)-electrons. This sum of 6 \\\\(\\\\pi\\\\)-electrons is crucial for the concerted mechanism.</p><p style='margin:8px 0;'><strong>Step 3: Visualize the Bond Formation</strong><br>During the reaction, the \\\\(\\\\pi\\\\)-electrons of both the diene and the dienophile rearrange in a cyclic transition state. Two new sigma (\\\\(\\\\sigma\\\\)) bonds are formed between the terminal carbons of the diene and the carbons of the dienophile, while one new \\\\(\\\\pi\\\\)-bond is formed within the original diene system.</p><p style='margin:8px 0;'><strong>Step 4: Determine the Ring Size of the Product</strong><br>Since the diene contributes 4 carbon atoms and the dienophile contributes 2 carbon atoms to the new ring structure, the total number of atoms forming the new ring is \\\\(4 + 2 = \\\\) <span style='color:var(--orange);font-weight:bold;'>6 atoms</span>. Therefore, the Diels-Alder reaction always results in the formation of a six-membered ring.</p><p style='margin:8px 0;'><strong>Step 5: Identify the Type of Six-Membered Ring</strong><br>If the dienophile is an alkene, the product will be a <strong>cyclohexene derivative</strong>, containing one double bond within the newly formed six-membered ring. If the dienophile is an alkyne, the product will be a <strong>cyclohexadiene derivative</strong>, containing two double bonds within the ring.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The fundamental definition of a Diels-Alder reaction as a [4+2] cycloaddition inherently dictates the formation of a six-membered ring. The '4' carbons from the diene and '2' carbons from the dienophile combine to form a new cyclic structure with 6 carbons, which is a cyclohexene (or cyclohexadiene) ring. This is a consistent and defining characteristic of the reaction.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The Diels-Alder reaction always results in the formation of a six-membered ring (a cyclohexene or cyclohexadiene derivative).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A six-membered ring (cyclohexene or cyclohexadiene derivative)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The pH at which an amino acid exist as a zwitterion is called?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Amino Acids",
+      "Acidity",
+      "Functional Groups",
+      "Zwitterion"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Amino Acid Zwitterions and Isoelectric Point (pI)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>amino acid</em> is an organic molecule containing both an amino group (-\\( \\text{NH}_2 \\)) and a carboxyl group (-\\( \\text{COOH} \\)), along with a side chain (R-group) specific to each amino acid, all attached to a central alpha-carbon.<br>A <em>zwitterion</em> (from German \"zwei\" + \"ion\") is a neutral molecule that has both positive and negative electrical charges at different locations within the same molecule. For amino acids, this typically means the amino group is protonated (\\[ \\text{-NH}_3^+ \\]) and the carboxyl group is deprotonated (\\[ \\text{-COO}^- \\]).<br>The <em>isoelectric point (pI)</em> is the specific pH at which a molecule, such as an amino acid, has a net electrical charge of zero. At this pH, the amino acid exists predominantly in its zwitterionic form.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for the specific pH at which an amino acid exists as a zwitterion.</div><p style='margin:8px 0;'><strong>Step 1: Understand the structure and ionization of amino acids</strong><br>Amino acids have at least two ionizable groups: an alpha-amino group and an alpha-carboxyl group. These groups can gain or lose protons depending on the pH of the surrounding solution.<br>The general structure of an amino acid is \\( \\text{R-CH(NH}_2\\text{)-COOH} \\).</p><p style='margin:8px 0;'><strong>Step 2: Describe ionization at different pH values</strong><br><br>At very low pH (acidic conditions): Both the amino group and the carboxyl group are protonated. The amino group is \\( \\text{-NH}_3^+ \\) and the carboxyl group is \\( \\text{-COOH} \\). The amino acid has a net positive charge.<br>\\[ \\text{R-CH(NH}_3^+\\text{)-COOH} \\]<br>At very high pH (basic conditions): Both the amino group and the carboxyl group are deprotonated. The amino group is \\( \\text{-NH}_2 \\) and the carboxyl group is \\( \\text{-COO}^- \\). The amino acid has a net negative charge.<br>\\[ \\text{R-CH(NH}_2\\text{)-COO}^- \\]</p><p style='margin:8px 0;'><strong>Step 3: Define the zwitterionic form</strong><br>At an intermediate pH, typically around physiological pH, the amino acid exists as a zwitterion. In this form, the amino group is protonated (\\[ \\text{-NH}_3^+ \\]) and the carboxyl group is deprotonated (\\[ \\text{-COO}^- \\]).<br>The molecule as a whole has no net electrical charge, although it contains both positive and negative charges internally.<br>\\[ \\text{R-CH(NH}_3^+\\text{)-COO}^- \\]</p><p style='margin:8px 0;'><strong>Step 4: Identify the pH for the zwitterionic form</strong><br>The specific pH at which an amino acid exists predominantly in its zwitterionic form, having a net charge of zero, is known as its <span style='color:var(--orange);font-weight:bold;'>Isoelectric Point (pI)</span>.<br>At the pI, the positive charges (from protonated amino groups and basic side chains) exactly balance the negative charges (from deprotonated carboxyl groups and acidic side chains).</p><p style='margin:8px 0;'><strong>Step 5: Connect to the question</strong><br>Therefore, the pH at which an amino acid exists as a zwitterion is by definition the Isoelectric Point (pI). This is a fundamental concept in biochemistry, important for understanding protein solubility, electrophoresis, and chromatographic separation.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question asks for the specific pH condition where an amino acid carries both a positive and a negative charge, resulting in a net zero charge. This state is precisely what defines a zwitterion, and the pH at which this occurs is universally known as the Isoelectric Point (pI). The definition directly matches the question's premise. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The pH at which an amino acid exists as a zwitterion is called the Isoelectric Point (pI).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Isoelectric Point (pI)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw the structure of pent-3-ene-2-ol",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Nomenclature",
+      "Functional Groups",
+      "Alcohols",
+      "Alkenes",
+      "Structure Drawing"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>IUPAC Nomenclature and Structure Drawing of Alkenols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>IUPAC (International Union of Pure and Applied Chemistry) nomenclature</em> provides a systematic way to name organic compounds, ensuring each name corresponds to a unique structure.<br>For compounds with multiple functional groups, a priority order is followed. Alcohols (\\(-OH\\)) generally have higher priority than alkenes (\\(C=C\\)) when determining the main functional group and numbering the carbon chain.<br>The name structure for an alkenol typically follows: <strong>(prefix)-(parent chain)-(locant for double bond)-ene-(locant for hydroxyl group)-ol</strong>.<br><ul><li><strong>Prefix:</strong> Indicates substituents.</li><li><strong>Parent Chain:</strong> The longest continuous carbon chain containing both functional groups, named based on the number of carbons (e.g., \"pent-\" for 5 carbons).</li><li><strong>-ene:</strong> Indicates the presence of a carbon-carbon double bond. The number before \"ene\" (locant) specifies the starting carbon of the double bond.</li><li><strong>-ol:</strong> Indicates the presence of a hydroxyl (\\(-OH\\)) group, characteristic of an alcohol. The number before \"ol\" (locant) specifies the carbon atom to which the hydroxyl group is attached.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The IUPAC name: <span style='color:var(--orange);font-weight:bold;'>pent-3-ene-2-ol</span></div><p style='margin:8px 0;'><strong>Step 1: Identify the parent chain and functional groups.</strong><br>Break down the given name \"pent-3-ene-2-ol\" into its components:<br><ul><li><strong>\"pent-\"</strong>: Indicates a parent chain of <span style='color:var(--orange);font-weight:bold;'>5 carbon atoms</span>.</li><li><strong>\"-ene\"</strong>: Indicates the presence of a <span style='color:var(--orange);font-weight:bold;'>carbon-carbon double bond</span>.</li><li><strong>\"-ol\"</strong>: Indicates the presence of a <span style='color:var(--orange);font-weight:bold;'>hydroxyl (\\(-OH\\)) functional group</span>, making it an alcohol.</li><li><strong>\"3-\"</strong> (before -ene): Specifies that the double bond starts at <span style='color:var(--orange);font-weight:bold;'>carbon number 3</span>.</li><li><strong>\"2-\"</strong> (before -ol): Specifies that the hydroxyl group is attached to <span style='color:var(--orange);font-weight:bold;'>carbon number 2</span>.</li></ul></p><p style='margin:8px 0;'><strong>Step 2: Draw the parent carbon chain.</strong><br>Based on \"pent-\", draw a chain of 5 carbon atoms.<br>\\[ C-C-C-C-C \\]</p><p style='margin:8px 0;'><strong>Step 3: Number the carbon chain.</strong><br>When numbering, the alcohol functional group (\\(-OH\\)) takes precedence over the alkene (\\(C=C\\)) in determining the lowest possible locant for the principal functional group. Therefore, we number the chain such that the carbon bearing the -OH group gets the lowest possible number. In this case, the name explicitly states \"2-ol\", so we number from the end that places the -OH on C2.<br>Let's number from left to right to place the -OH on C2:<br>\\[ \\overset{1}{C}-\\overset{2}{C}-\\overset{3}{C}-\\overset{4}{C}-\\overset{5}{C} \\]</p><p style='margin:8px 0;'><strong>Step 4: Place the functional groups according to their locants.</strong><br>Attach the hydroxyl group (\\(-OH\\)) to carbon 2 and place the double bond between carbon 3 and carbon 4.<br>\\[ C-\\overset{OH}{C}-C=C-C \\]<br>More specifically, with numbering:<br>\\[ \\overset{1}{C}-\\overset{2}{C}(\\text{OH})-\\overset{3}{C}=\\overset{4}{C}-\\overset{5}{C} \\]</p><p style='margin:8px 0;'><strong>Step 5: Add hydrogen atoms to satisfy carbon valency.</strong><br>Each carbon atom must form a total of four bonds. Add hydrogen atoms to complete the valency of each carbon.<br><ul><li>Carbon 1: Forms 1 bond to C2. Needs 3 H atoms. (\\(CH_3\\))</li><li>Carbon 2: Forms 1 bond to C1, 1 bond to C3, 1 bond to OH. Needs 1 H atom. (\\(CH(OH)\\))</li><li>Carbon 3: Forms 1 bond to C2, 2 bonds to C4. Needs 1 H atom. (\\(CH=\\))</li><li>Carbon 4: Forms 2 bonds to C3, 1 bond to C5. Needs 1 H atom. (\\(=CH\\))</li><li>Carbon 5: Forms 1 bond to C4. Needs 3 H atoms. (\\(CH_3\\))</li></ul>The full structure with hydrogens:<br>\\[ CH_3-CH(OH)-CH=CH-CH_3 \\]</p><p style='margin:8px 0;'><strong>Step 6: Write the final condensed structural formula.</strong><br>Combining the atoms, the condensed structural formula is:<br><span style='color:var(--orange);font-weight:bold;'>\\( CH_3CH(OH)CH=CHCH_3 \\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's name the derived structure \\( CH_3CH(OH)CH=CHCH_3 \\) using IUPAC rules:<br>1. Identify the longest carbon chain containing both the double bond and the hydroxyl group: 5 carbons (pent-).<br>2. Number the chain to give the hydroxyl group the lowest possible locant. Numbering from left to right gives -OH on C2 and the double bond between C3 and C4.<br>   \\[ \\overset{1}{CH_3}-\\overset{2}{CH}(\\text{OH})-\\overset{3}{CH}=\\overset{4}{CH}-\\overset{5}{CH_3} \\]<br>3. The hydroxyl group is on carbon 2 (2-ol).<br>4. The double bond starts at carbon 3 (3-ene).<br>5. The full name is pent-3-ene-2-ol. This matches the given name. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The structure of pent-3-ene-2-ol is \\( CH_3CH(OH)CH=CHCH_3 \\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CH_3CH(OH)CH=CHCH_3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Beta-hydroxyacids undergo dehydration to give?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Carboxylic Acids",
+      "Alcohols",
+      "Elimination Reactions",
+      "Dehydration",
+      "Alkenes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dehydration of Beta-hydroxyacids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>beta-hydroxyacid</em> is an organic compound containing both a carboxyl group (\\( \\text{-COOH} \\)) and a hydroxyl group (\\( \\text{-OH} \\)), where the hydroxyl group is attached to the carbon atom <em>beta</em> (\\( \\beta \\)) to the carboxyl carbon. The carbon atom directly attached to the carboxyl group is called the alpha (\\( \\alpha \\)) carbon, and the next carbon in the chain is the beta (\\( \\beta \\)) carbon.<br><em>Dehydration</em> is an elimination reaction in organic chemistry where a molecule of water (\\( \\text{H}_2\\text{O} \\)) is removed from a substrate, typically leading to the formation of a carbon-carbon double bond (alkene).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Reaction: Dehydration of a beta-hydroxyacid.<br>To find: The product of this reaction.</div><p style='margin:8px 0;'><strong>Step 1: Understand the structure of a Beta-hydroxyacid</strong><br>A beta-hydroxyacid has a hydroxyl group (\\( \\text{-OH} \\)) on the carbon atom that is <em>beta</em> to the carboxyl group (\\( \\text{-COOH} \\)). The general structure can be represented as:<br>\\[ \\text{R-CH(OH)-CH}_2\\text{-COOH} \\]<br>In this structure, the carbon of the \\( \\text{-COOH} \\) group is C1. The carbon atom directly attached to C1 is the alpha (\\( \\alpha \\)) carbon (\\( \\text{CH}_2 \\)). The carbon atom attached to the alpha carbon is the beta (\\( \\beta \\)) carbon (\\( \\text{CH(OH)-R} \\)). The hydroxyl group is specifically located on this beta carbon.</p><p style='margin:8px 0;'><strong>Step 2: Identify the atoms to be removed during dehydration</strong><br>Dehydration is an elimination reaction that involves the removal of a water molecule (\\( \\text{H}_2\\text{O} \\)). This requires the removal of a hydroxyl group (\\( \\text{-OH} \\)) and a hydrogen atom (\\( \\text{-H} \\)) from adjacent carbon atoms.<br>In a beta-hydroxyacid, the \\( \\text{-OH} \\) group is on the beta carbon. For a carbon-carbon double bond to form, a hydrogen atom must be removed from an adjacent carbon. The carbon adjacent to the beta carbon (which bears the \\( \\text{-OH} \\) group) is the alpha carbon.<br>Therefore, the \\( \\text{-OH} \\) from the beta carbon and a \\( \\text{-H} \\) from the alpha carbon will be eliminated.</p><p style='margin:8px 0;'><strong>Step 3: Illustrate the dehydration process</strong><br>The dehydration of beta-hydroxyacids is typically acid-catalyzed. The mechanism generally involves the following steps (simplified for clarity):<br>1.  The hydroxyl group on the beta carbon is protonated by an acid, making it a good leaving group (water).<br>2.  The protonated hydroxyl group leaves as a water molecule, forming a carbocation intermediate on the beta carbon.<br>3.  A hydrogen atom is removed from the adjacent alpha carbon by a base (often water or the conjugate base of the acid), and the electrons form a double bond between the alpha and beta carbons.<br>\\[ \\text{R-CH(OH)-CH}_2\\text{-COOH} \\quad \\xrightarrow{\\text{H}^+, \\Delta} \\quad \\text{R-CH=CH-COOH} + \\text{H}_2\\text{O} \\]<br>The double bond forms between the alpha (\\( \\alpha \\)) and beta (\\( \\beta \\)) carbons.</p><p style='margin:8px 0;'><strong>Step 4: Determine the final product</strong><br>The formation of a carbon-carbon double bond between the alpha (\\( \\alpha \\)) and beta (\\( \\beta \\)) carbons, while retaining the carboxyl group (\\( \\text{-COOH} \\)), results in a specific type of unsaturated carboxylic acid.<br>A compound with a double bond between the alpha and beta carbons relative to a functional group is termed an <em>alpha, beta-unsaturated</em> compound.<br>Since the starting material is a carboxylic acid, the product of its dehydration will be an <span style='color:var(--orange);font-weight:bold;'>alpha, beta-unsaturated carboxylic acid</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The process of dehydration involves the removal of \\( \\text{H}_2\\text{O} \\) from a molecule. For beta-hydroxyacids, the \\( \\text{-OH} \\) is on the beta carbon. To form a double bond, a hydrogen atom must be removed from an adjacent carbon. The alpha carbon is adjacent to the beta carbon. Removing \\( \\text{-OH} \\) from the beta carbon and \\( \\text{-H} \\) from the alpha carbon correctly leads to the formation of a double bond between these two carbons. The carboxyl group remains unchanged. Therefore, the product is an alpha, beta-unsaturated carboxylic acid, which is a standard outcome for this type of elimination reaction. For example, 3-hydroxybutanoic acid dehydrates to form but-2-enoic acid (crotonic acid), which is an \\( \\alpha, \\beta \\)-unsaturated carboxylic acid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Beta-hydroxyacids undergo dehydration to give alpha, beta-unsaturated carboxylic acids.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "alpha, beta-unsaturated carboxylic acids"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Give the product of the reaction between an aldotetrose and \\\\( HNO_3 \\\\)",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Carbohydrates",
+      "Oxidation",
+      "Carbonyl Chemistry",
+      "Alcohols",
+      "Carboxylic Acids",
+      "Functional Groups"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidation of Aldoses to Aldaric Acids</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>aldotetrose</em> is a monosaccharide with four carbon atoms, containing an aldehyde group (CHO) at one end and a primary alcohol group (CH\\\\(_{2}\\\\)OH) at the other end, along with secondary alcohol groups in between.<br><em>Nitric acid</em> (\\\\( HNO_3 \\\\)) is a strong oxidizing agent capable of oxidizing both aldehyde groups and primary alcohol groups to carboxylic acid groups (COOH).<br>An <em>aldaric acid</em> is a dicarboxylic acid formed from an aldose, where both the aldehyde carbon (C1) and the terminal primary alcohol carbon (C-last) have been oxidized to carboxylic acid groups.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant 1: An aldotetrose (a 4-carbon aldose)<br>Reactant 2: \\\\( HNO_3 \\\\) (nitric acid), a strong oxidizing agent<br>Reaction type: Oxidation</div><p style='margin:8px 0;'><strong>Step 1: Identify the oxidizable functional groups in an aldotetrose</strong><br>An aldotetrose has the following key functional groups:<br>1. An aldehyde group (CHO) at C1.<br>2. Secondary alcohol groups (CHOH) at C2 and C3.<br>3. A primary alcohol group (CH\\\\(_{2}\\\\)OH) at C4 (the terminal carbon).</p><p style='margin:8px 0;'><strong>Step 2: Understand the oxidizing power of nitric acid (\\\\( HNO_3 \\\\))</strong><br>Nitric acid is a strong oxidizing agent. It is known to oxidize:<br>1. Aldehydes to carboxylic acids (CHO → COOH).<br>2. Primary alcohols to carboxylic acids (CH\\\\(_{2}\\\\)OH → COOH).<br>3. Secondary alcohols are generally resistant to oxidation by \\\\( HNO_3 \\\\) under these conditions, or require harsher conditions.</p><p style='margin:8px 0;'><strong>Step 3: Apply the oxidation to the aldotetrose functional groups</strong><br>Based on the oxidizing power of \\\\( HNO_3 \\\\):<br>1. The aldehyde group at C1 will be oxidized to a carboxylic acid group.<br>2. The primary alcohol group at C4 will be oxidized to a carboxylic acid group.<br>3. The secondary alcohol groups at C2 and C3 will remain unchanged.</p><p style='margin:8px 0;'><strong>Step 4: Determine the structure and name of the product</strong><br>The product will have carboxylic acid groups at both C1 and C4, with the secondary alcohol groups at C2 and C3 intact. A general representation of the reaction is:<br>\\[ \\\\text{CHO-(CHOH)}_2\\\\text{-CH}\\\\(_{2}\\\\)OH \\\\quad \\\\xrightarrow{\\\\text{HNO}_3 \\\\text{ (strong oxidation)}} \\\\quad \\\\text{COOH-(CHOH)}_2\\\\text{-COOH} \\]<br>A carbohydrate derivative that has carboxylic acid groups at both ends (C1 and the terminal carbon) is classified as an <span style='color:var(--orange);font-weight:bold;'>aldaric acid</span>. Since the starting material is an aldotetrose, the specific product would be a tetraric acid (a type of aldaric acid).</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The definition of an aldaric acid is a dicarboxylic acid derived from an aldose, where both the aldehyde group and the primary alcohol group are oxidized to carboxylic acid groups. This precisely matches the outcome of the reaction between an aldotetrose and a strong oxidizing agent like \\\\( HNO_3 \\\\). Therefore, the product is an aldaric acid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The product of the reaction is an aldaric acid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Aldaric acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "A diene in which one carbon atom is common to two double bonds is known as?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Alkenes",
+      "Nomenclature"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Diene Classification and Nomenclature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>diene</em> is an organic compound containing two carbon-carbon double bonds.<br>Dienes are classified based on the relative positions of their double bonds:<br><ul><li><em>Cumulated Dienes (Allenes)</em>: Double bonds are adjacent, sharing a common carbon atom (C=C=C).</li><li><em>Conjugated Dienes</em>: Double bonds are separated by exactly one single bond (C=C-C=C).</li><li><em>Isolated Dienes</em>: Double bonds are separated by two or more single bonds (C=C-C-C=C).</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>A diene in which one carbon atom is common to two double bonds.</div><p style='margin:8px 0;'><strong>Step 1: Understand the term \"diene\"</strong><br>A diene is an unsaturated hydrocarbon that contains two carbon-carbon double bonds (\\( \\text{C=C} \\)) within its molecular structure. The prefix \"di-\" indicates two, and \"-ene\" indicates a double bond.</p><p style='margin:8px 0;'><strong>Step 2: Classify dienes based on double bond arrangement</strong><br>Dienes are broadly categorized into three types based on the relative positions of their two double bonds:<br>1. <strong>Isolated Dienes:</strong> The double bonds are separated by two or more single bonds. For example, \\( \\text{CH}_2\\text{=CH-CH}_2\\text{-CH=CH}_2 \\) (1,4-pentadiene).<br>2. <strong>Conjugated Dienes:</strong> The double bonds are separated by exactly one single bond. This arrangement allows for resonance stabilization. For example, \\( \\text{CH}_2\\text{=CH-CH=CH}_2 \\) (1,3-butadiene).<br>3. <strong>Cumulated Dienes:</strong> The double bonds are adjacent, meaning they share a common carbon atom. This specific arrangement is also known as an <span style='color:var(--orange);font-weight:bold;'>allene</span>.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the question's description</strong><br>The question describes \"a diene in which one carbon atom is common to two double bonds\". This precisely matches the definition of a cumulated diene.</p><p style='margin:8px 0;'><strong>Step 4: Identify the specific name for this structure</strong><br>The common and IUPAC-preferred name for a cumulated diene, where a central carbon atom is bonded to two other carbon atoms via double bonds, is an <span style='color:var(--orange);font-weight:bold;'>allene</span>.<br>The general structure is \\( \\text{R}_2\\text{C=C=CR}_2 \\). The simplest allene is propadiene, \\( \\text{CH}_2\\text{=C=CH}_2 \\).</p><p style='margin:8px 0;'><strong>Step 5: Note unique characteristics of allenes</strong><br>Allenes possess a unique linear geometry around the central carbon atom. The two \\( \\text{CH}_2 \\) groups (or substituted groups) at the ends of the allene system are in planes perpendicular to each other. This orthogonal arrangement can lead to chirality in substituted allenes, even without a chiral carbon center.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question asks for the name of a diene where \"one carbon atom is common to two double bonds\". This structural description directly corresponds to the definition of an allene, which has the \\( \\text{C=C=C} \\) arrangement. Therefore, 'Allene' is the correct term.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The diene described is known as an Allene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Allene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "A 6-carbon monosaccharide with a keto group is called?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Carbohydrates",
+      "Nomenclature",
+      "Functional Groups",
+      "Organic Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Carbohydrate Classification: Ketohexose</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>Carbohydrates are classified based on their functional groups and the number of carbon atoms.<br><ul><li><strong>Monosaccharide:</strong> The simplest form of carbohydrate; a single sugar unit.</li><li><strong>Ketose:</strong> A monosaccharide containing a ketone functional group (\\( C=O \\)) within its carbon chain.</li><li><strong>Aldose:</b> A monosaccharide containing an aldehyde functional group (\\( -CHO \\)).</li><li><strong>Prefixes for Carbon Count:</strong><br>  - Triose: 3 carbons<br>  - Tetrose: 4 carbons<br>  - Pentose: 5 carbons<br>  - Hexose: 6 carbons<br>  - Heptose: 7 carbons</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br><ul><li>The molecule is a monosaccharide.</li><li>It has 6 carbon atoms.</li><li>It contains a keto group.</li></ul></div><p style='margin:8px 0;'><strong>Step 1: Classify based on the number of carbon atoms</strong><br>The question states that the monosaccharide has '6-carbon' atoms.<br>The prefix used in carbohydrate nomenclature to denote six carbon atoms is 'hex-'.<br>Therefore, a 6-carbon monosaccharide is referred to as a <span style='color:var(--orange);font-weight:bold;'>hexose</span>.</p><p style='margin:8px 0;'><strong>Step 2: Classify based on the functional group present</strong><br>The question specifies that the monosaccharide has 'a keto group'.<br>A monosaccharide containing a ketone functional group is classified as a <span style='color:var(--orange);font-weight:bold;'>ketose</span>.</p><p style='margin:8px 0;'><strong>Step 3: Combine the classifications</strong><br>To name the monosaccharide comprehensively, we combine the classification based on the functional group with the classification based on the carbon count.<br>From Step 2, it is a ketose (due to the keto group).<br>From Step 1, it is a hexose (due to 6 carbon atoms).<br>Combining these, a 6-carbon monosaccharide with a keto group is called a <span style='color:var(--orange);font-weight:bold;'>ketohexose</span>.<br>A common example of a ketohexose is Fructose, which has the chemical formula \\( C_6H_{12}O_6 \\) and a ketone group at the C2 position.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The term 'ketohexose' is a direct combination of 'keto-' (indicating a ketone functional group) and '-hexose' (indicating a six-carbon sugar). This nomenclature precisely matches the description provided in the question: a 6-carbon monosaccharide with a keto group.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; A 6-carbon monosaccharide with a keto group is called a Ketohexose.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ketohexose"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Mention any two synthetic routes for production of \\\\( \\\\\\\\alpha, \\\\\\\\beta \\\\)-unsaturated carbonyls",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Carbonyl Chemistry",
+      "Enolate Chemistry",
+      "Aldol Condensation",
+      "Synthesis",
+      "Functional Groups",
+      "Elimination Reactions",
+      "Alkenes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Synthetic Routes for \\\\( \\\\alpha, \\\\beta \\\\)-Unsaturated Carbonyls</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>\\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyl</em> compound is an organic molecule containing both a carbonyl group (aldehyde or ketone) and a carbon-carbon double bond, where the double bond is positioned between the \\\\( \\\\alpha \\\\)-carbon and the \\\\( \\\\beta \\\\)-carbon relative to the carbonyl carbon. The \\\\( \\\\alpha \\\\)-carbon is adjacent to the carbonyl carbon, and the \\\\( \\\\beta \\\\)-carbon is adjacent to the \\\\( \\\\alpha \\\\)-carbon.<br><em>Synthetic routes</em> refer to the chemical reactions or sequences of reactions used to create a specific target molecule from simpler starting materials.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The task is to mention any two synthetic routes for the production of \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyls.</div><p style='margin:8px 0;'><strong>Step 1: Understand \\\\( \\\\alpha, \\\\beta \\\\)-Unsaturated Carbonyls</strong><br>The target molecules are \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyls. These compounds possess a carbonyl group (aldehyde or ketone) conjugated with an alkene (carbon-carbon double bond). This conjugation provides enhanced stability and unique reactivity.<br>A general structure can be represented as:<br>\\\\[ \\\\text{R-C(=O)-CH=CH-R'} \\\\]<br>where the carbonyl carbon is C1, the \\\\( \\\\alpha \\\\)-carbon is C2, and the \\\\( \\\\beta \\\\)-carbon is C3. The double bond is between C2 and C3.</p><p style='margin:8px 0;'><strong>Step 2: First Synthetic Route - Aldol Condensation followed by Dehydration</strong><br>The <em>Aldol Condensation</em> is a fundamental carbon-carbon bond-forming reaction in organic chemistry that is widely used to produce \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyls.<br>It involves the reaction of an enolizable aldehyde or ketone (containing \\\\( \\\\alpha \\\\)-hydrogens) with another aldehyde or ketone in the presence of a base (or acid), followed by the elimination of water (dehydration).<br><br><strong>Mechanism Overview:</strong><br>1. <strong>Enolate Formation:</strong> A base abstracts an acidic \\\\( \\\\alpha \\\\)-hydrogen from one carbonyl compound to form a nucleophilic enolate ion.<br>2. <strong>Nucleophilic Attack:</strong> The enolate ion acts as a nucleophile and attacks the electrophilic carbonyl carbon of a second aldehyde or ketone molecule.<br>3. <strong>Protonation:</strong> The resulting alkoxide intermediate is protonated to form a \\\\( \\\\beta \\\\)-hydroxy carbonyl compound (often called an 'aldol' product).<br>4. <strong>Dehydration:</strong> Under heating or stronger acidic/basic conditions, the \\\\( \\\\beta \\\\)-hydroxy carbonyl compound readily undergoes elimination of water (dehydration) to form the conjugated \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyl product.<br><br><strong>Example:</strong> Self-condensation of acetaldehyde (ethanal) to form crotonaldehyde (but-2-enal).<br>\\\\[ \\\\text{2 CH}_3\\\\text{CHO} \\\\xrightarrow{\\\\text{1. NaOH, H}_2\\\\text{O (Aldol)}} \\\\text{CH}_3\\\\text{CH(OH)CH}_2\\\\text{CHO} \\\\]<br>\\\\[ \\\\text{CH}_3\\\\text{CH(OH)CH}_2\\\\text{CHO} \\\\xrightarrow{\\\\text{2. Heat, -H}_2\\\\text{O (Dehydration)}} \\\\text{CH}_3\\\\text{CH=CHCHO} \\\\]<br>The final product, crotonaldehyde, is an \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated aldehyde.</p><p style='margin:8px 0;'><strong>Step 3: Second Synthetic Route - Elimination from \\\\( \\\\beta \\\\)-Halocarbonyl Compounds</strong><br>Another effective route involves the <em>elimination reaction</em>, specifically dehydrohalogenation, of a \\\\( \\\\beta \\\\)-halocarbonyl compound.<br>A \\\\( \\\\beta \\\\)-halocarbonyl compound has a halogen atom attached to the \\\\( \\\\beta \\\\)-carbon relative to the carbonyl group, and typically an acidic \\\\( \\\\alpha \\\\)-hydrogen.<br><br><strong>Mechanism Overview:</strong><br>1. <strong>Proton Abstraction:</strong> A strong base abstracts an acidic \\\\( \\\\alpha \\\\)-hydrogen from the \\\\( \\\\beta \\\\)-halocarbonyl compound.<br>2. <strong>Elimination:</strong> The resulting carbanion (which can be resonance-stabilized as an enolate) facilitates the simultaneous elimination of the halogen atom from the \\\\( \\\\beta \\\\)-carbon and the formation of a carbon-carbon double bond between the \\\\( \\\\alpha \\\\) and \\\\( \\\\beta \\\\) carbons.<br>This reaction typically proceeds via an E2 mechanism, where the proton abstraction and leaving group departure occur in a concerted fashion.<br><br><strong>Example:</strong> Dehydrobromination of 3-bromobutanal.<br>\\\\[ \\\\text{CH}_3\\\\text{CHBrCH}_2\\\\text{CHO} \\\\xrightarrow{\\\\text{Strong Base (e.g., DBU, KOH)}} \\\\text{CH}_3\\\\text{CH=CHCHO} + \\\\text{HBr} \\\\]<br>The product, crotonaldehyde, is an \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated aldehyde.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question asks for two distinct synthetic routes for \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyls. Both the Aldol Condensation followed by dehydration and the elimination (dehydrohalogenation) from \\\\( \\\\beta \\\\)-halocarbonyl compounds are well-established and chemically distinct methods that directly yield these target compounds. The mechanisms and examples provided clearly demonstrate the formation of the desired \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyl functionality.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Two synthetic routes for \\\\( \\\\alpha, \\\\beta \\\\)-unsaturated carbonyls are: Aldol Condensation followed by Dehydration, and Elimination (Dehydrohalogenation) from \\\\( \\\\beta \\\\)-Halocarbonyl Compounds.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1. Aldol Condensation followed by Dehydration<br>2. Elimination (Dehydrohalogenation) from \\\\( \\\\beta \\\\)-Halocarbonyl Compounds"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The process for synthesizing a new amino acid from an old one using keto acid and enzyme is called",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Amino Acids",
+      "Synthesis",
+      "Transamination",
+      "Organic Chemistry",
+      "Functional Groups",
+      "Carbonyl Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Transamination: Amino Acid Synthesis</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>amino acid</em> is an organic molecule containing both an amino group (\\( -\\text{NH}_2 \\)) and a carboxyl group (\\( -\\text{COOH} \\)), along with a side chain (R group) specific to each amino acid.<br>A <em>keto acid</em> (or \\(\\alpha\\)-keto acid) is an organic compound containing a carboxyl group (\\( -\\text{COOH} \\)) and a ketone group (\\( -\\text{C}(=\\text{O})- \\)) on the \\(\\alpha\\)-carbon.<br><em>Transamination</em> is a biochemical reaction that involves the transfer of an amino group from an amino acid to an \\(\\alpha\\)-keto acid, resulting in the formation of a new amino acid and a new \\(\\alpha\\)-keto acid. This process is catalyzed by enzymes called <em>transaminases</em> (or aminotransferases).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question describes a process for synthesizing a new amino acid from an existing amino acid using a keto acid and an enzyme.</div><p style='margin:8px 0;'><strong>Step 1: Analyze the Components and Goal</strong><br>The problem states that a \"new amino acid\" is synthesized \"from an old one\" using a \"keto acid\" and an \"enzyme\". This implies a transformation where the amino group from an existing amino acid is used to create a new amino acid structure from a keto acid scaffold.</p><p style='margin:8px 0;'><strong>Step 2: Understand the Role of Amino and Keto Acids in Metabolism</strong><br>Amino acids are the building blocks of proteins and contain an amino group and a carboxyl group. Keto acids are intermediates in metabolic pathways (like the Krebs cycle) and contain a keto group and a carboxyl group. The key difference for synthesis is the presence or absence of the amino group.</p><p style='margin:8px 0;'><strong>Step 3: Identify the Process of Amino Group Transfer</strong><br>The synthesis of a new amino acid from a keto acid requires the addition of an amino group to the keto acid. If this amino group comes from an existing amino acid, it means the amino group is being <em>transferred</em>. This specific type of reaction, where an amino group is moved from one molecule to another, is known as <span style='color:var(--orange);font-weight:bold;'>transamination</span>.</p><p style='margin:8px 0;'><strong>Step 4: Describe the Transamination Mechanism</strong><br>In transamination, an amino acid (donor) reacts with an \\(\\alpha\\)-keto acid (acceptor). The amino group (\\( -\\text{NH}_2 \\)) from the amino acid is transferred to the \\(\\alpha\\)-carbon of the keto acid. Simultaneously, the keto group (\\( =\\text{O} \\)) from the keto acid is transferred to the carbon skeleton of the original amino acid, converting it into a new \\(\\alpha\\)-keto acid.<br>The general reaction can be represented as:<br>\\[ \\text{Amino Acid}_1 + \\text{Keto Acid}_2 \\xrightarrow{\\text{Transaminase}} \\text{Keto Acid}_1 + \\text{Amino Acid}_2 \\]<br>For example, the amino group from glutamate can be transferred to pyruvate to form alanine, while glutamate becomes \\(\\alpha\\)-ketoglutarate:<br>\\[ \\text{Glutamate} + \\text{Pyruvate} \\xrightarrow{\\text{Alanine Transaminase}} \\alpha\\text{-Ketoglutarate} + \\text{Alanine} \\]</p><p style='margin:8px 0;'><strong>Step 5: Role of Enzymes (Transaminases)</strong><br>This reaction is catalyzed by a class of enzymes called <em>transaminases</em> or <em>aminotransferases</em>. These enzymes typically require pyridoxal phosphate (PLP), a derivative of vitamin B6, as a coenzyme. PLP transiently accepts the amino group from the amino acid and then donates it to the keto acid.</p><p style='margin:8px 0;'><strong>Step 6: Conclude the Process Name</strong><br>Based on the definition and mechanism, the process described in the question—synthesizing a new amino acid from an old one using a keto acid and an enzyme—perfectly matches the description of <span style='color:var(--orange);font-weight:bold;'>transamination</span>. This process is crucial for the synthesis of non-essential amino acids in the body.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The question asks for the process of synthesizing a new amino acid from an old one using a keto acid and an enzyme. Transamination is precisely this process: an amino group is transferred from an existing amino acid to a keto acid, facilitated by a transaminase enzyme, to form a new amino acid and a new keto acid. This directly aligns with all elements of the question.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The process is called Transamination.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transamination"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Give the product of the oxidation of \\( HOCH_2CHO \\)",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Oxidation",
+      "Functional Groups",
+      "Alcohols",
+      "Carbonyl Chemistry",
+      "Carboxylic Acids"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidation of Organic Functional Groups</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>In organic chemistry, <em>oxidation</em> generally involves an increase in the number of bonds to oxygen or a decrease in the number of bonds to hydrogen.<br>Specifically:<br>1. <strong>Primary Alcohols:</strong> A primary alcohol (\\( R-CH_2OH \\)) can be oxidized to an aldehyde (\\( R-CHO \\)) using mild oxidizing agents. With strong oxidizing agents, it is further oxidized to a carboxylic acid (\\( R-COOH \\)).<br>2. <strong>Aldehydes:</strong> An aldehyde (\\( R-CHO \\)) can be readily oxidized to a carboxylic acid (\\( R-COOH \\)) using various oxidizing agents (e.g., chromic acid, potassium permanganate).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Reactant: \\( HOCH_2CHO \\) (glycolaldehyde)<br>Process: Oxidation</div><p style='margin:8px 0;'><strong>Step 1: Identify the functional groups in the reactant</strong><br>The given compound is \\( HOCH_2CHO \\). We need to identify its functional groups.<br>The \\( -CH_2OH \\) group is a <strong>primary alcohol</strong>.<br>The \\( -CHO \\) group is an <strong>aldehyde</strong>.</p><p style='margin:8px 0;'><strong>Step 2: Determine the oxidation product of the primary alcohol group</strong><br>A primary alcohol (\\( -CH_2OH \\)) undergoes oxidation. When \"oxidation\" is stated without specifying mild conditions, it implies complete oxidation to the most oxidized stable product.<br>The primary alcohol group \\( -CH_2OH \\) is oxidized to a carboxylic acid group \\( -COOH \\).<br>Reaction: \\( -CH_2OH \\) &nbsp;&#8594;&nbsp; <span style='color:var(--orange);font-weight:bold;'>\\( -COOH \\)</span></p><p style='margin:8px 0;'><strong>Step 3: Determine the oxidation product of the aldehyde group</strong><br>An aldehyde (\\( -CHO \\)) is readily oxidized to a carboxylic acid (\\( -COOH \\)). This is a common and straightforward oxidation.<br>Reaction: \\( -CHO \\) &nbsp;&#8594;&nbsp; <span style='color:var(--orange);font-weight:bold;'>\\( -COOH \\)</span></p><p style='margin:8px 0;'><strong>Step 4: Combine the oxidized functional groups to form the final product</strong><br>The original molecule \\( HOCH_2CHO \\) has a two-carbon chain. Both ends contain oxidizable functional groups.<br>The primary alcohol end (\\( HOCH_2- \\)) becomes a carboxylic acid end (\\( HOOC- \\)).<br>The aldehyde end (\\( -CHO \\)) also becomes a carboxylic acid end (\\( -COOH \\)).<br>Therefore, the product is a dicarboxylic acid with two carbon atoms: <span style='color:var(--orange);font-weight:bold;'>\\( HOOC-COOH \\)</span>.</p><p style='margin:8px 0;'><strong>Step 5: Name the final product</strong><br>The compound \\( HOOC-COOH \\) is a dicarboxylic acid with two carbon atoms.<br>Its common name is <strong>oxalic acid</strong>.<br>Its IUPAC name is ethanedioic acid.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Glycolaldehyde (\\( HOCH_2CHO \\)) contains both a primary alcohol and an aldehyde group. Both these functional groups are highly susceptible to oxidation. Primary alcohols oxidize to carboxylic acids, and aldehydes oxidize to carboxylic acids. Therefore, complete oxidation of glycolaldehyde will convert both functional groups into carboxylic acid groups, resulting in a dicarboxylic acid. The two-carbon chain of glycolaldehyde becomes a two-carbon dicarboxylic acid, which is oxalic acid (\\( HOOC-COOH \\)). This is consistent with the general rules of organic oxidation. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The product of the oxidation of \\( HOCH_2CHO \\) is \\( HOOC-COOH \\) (Oxalic acid).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\( HOOC-COOH \\) (Oxalic acid)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Nomenclature",
+      "Geminal Dihalides"
+    ],
+    "Question": {
+      "content": "Dihalides in which halogens reside on the same carbon atom are called?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nomenclature of Dihalides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>dihalide</em> is an organic compound containing two halogen atoms.<br>The classification of dihalides depends on the relative positions of these two halogen atoms on the carbon chain:<br><ul><li><strong>Geminal Dihalides:</strong> Both halogen atoms are attached to the <strong>same</strong> carbon atom.</li><li><strong>Vicinal Dihalides:</strong> The two halogen atoms are attached to <strong>adjacent</strong> carbon atoms.</li><li><strong>Alpha,Omega-Dihalides (or Terminal Dihalides):</strong> The two halogen atoms are attached to the <strong>terminal</strong> (first and last) carbon atoms of a chain.</li></ul></div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for the specific name of dihalides where both halogen atoms are located on the same carbon atom.</div><p style='margin:8px 0;'><strong>Step 1: Understand Dihalides</strong><br>Dihalides are organic compounds characterized by the presence of two halogen atoms (e.g., F, Cl, Br, I) within their molecular structure. Their properties and reactivity often depend on the relative positions of these halogen atoms.</p><p style='margin:8px 0;'><strong>Step 2: Classify Dihalides by Halogen Position</strong><br>There are distinct classifications for dihalides based on where the two halogen atoms are situated on the carbon skeleton. The primary classifications are geminal, vicinal, and alpha,omega.</p><p style='margin:8px 0;'><strong>Step 3: Define Geminal Dihalides</strong><br>When both halogen atoms are bonded to the <strong>same carbon atom</strong>, the compound is termed a <span style='color:var(--orange);font-weight:bold;'>geminal dihalide</span>. The prefix 'geminal' comes from the Latin word 'geminus', meaning 'twin', which aptly describes the two identical (or different) halogen atoms on a single carbon.<br>An example is 1,1-dichloroethane, where both chlorine atoms are on the first carbon:<br>\\[ \\text{CH}_3\\text{CHCl}_2 \\]</p><p style='margin:8px 0;'><strong>Step 4: Contrast with Vicinal Dihalides</strong><br>In contrast, if the two halogen atoms are attached to <strong>adjacent carbon atoms</strong>, the compound is known as a <span style='color:var(--orange);font-weight:bold;'>vicinal dihalide</span>. The prefix 'vicinal' comes from the Latin 'vicinus', meaning 'neighboring'.<br>An example is 1,2-dichloroethane, where one chlorine is on the first carbon and the other on the second:<br>\\[ \\text{ClCH}_2\\text{CH}_2\\text{Cl} \\]</p><p style='margin:8px 0;'><strong>Step 5: Contrast with Alpha,Omega-Dihalides</strong><br>Another type is the <span style='color:var(--orange);font-weight:bold;'>alpha,omega-dihalide</span> (or terminal dihalide), where the two halogen atoms are located on the <strong>terminal carbon atoms</strong> of a carbon chain. For example, 1,3-dichloropropane:<br>\\[ \\text{ClCH}_2\\text{CH}_2\\text{CH}_2\\text{Cl} \\]</p><p style='margin:8px 0;'><strong>Step 6: Conclude based on the Question's Condition</strong><br>The question specifically asks for the name of dihalides where halogens reside on the <strong>same carbon atom</strong>. Based on the definitions above, this description precisely matches that of a <span style='color:var(--orange);font-weight:bold;'>geminal dihalide</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The definition of a geminal dihalide is \"a dihalide in which both halogen atoms are attached to the same carbon atom.\" This directly and unequivocally answers the question posed. Therefore, the term \"geminal dihalides\" is the correct classification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Dihalides with halogens on the same carbon atom are called geminal dihalides.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Geminal dihalides"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Oligosaccharides are a class of sugars that contain ______ monosaccharide units",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Carbohydrates",
+      "Organic Chemistry",
+      "Oligosaccharides"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Understanding Oligosaccharides</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Carbohydrates</strong> are organic compounds primarily composed of carbon, hydrogen, and oxygen, serving as vital energy sources and structural components in living organisms.<br><strong>Monosaccharides</strong> are the simplest form of carbohydrates, often called \"simple sugars,\" that cannot be hydrolyzed into smaller sugar units (e.g., glucose, fructose, galactose).<br><strong>Oligosaccharides</strong> are a class of carbohydrates formed by linking a small number of monosaccharide units together via glycosidic bonds. The prefix 'oligo-' means 'a few'.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>The question asks to identify the number of monosaccharide units that constitute an oligosaccharide.</div><p style='margin:8px 0;'><strong>Step 1: Classify carbohydrates based on sugar units</strong><br>Carbohydrates are broadly categorized based on the number of sugar (saccharide) units they contain:<br><ul><li><strong>Monosaccharides:</strong> Single sugar units.</li><li><strong>Oligosaccharides:</strong> A few sugar units linked together.</li><li><strong>Polysaccharides:</strong> Many sugar units linked together.</li></ul></p><p style='margin:8px 0;'><strong>Step 2: Define Monosaccharides as building blocks</strong><br>Monosaccharides are the fundamental building blocks of all carbohydrates. They are simple sugars, such as glucose, fructose, and galactose, which cannot be further broken down into simpler sugar molecules through hydrolysis. Each monosaccharide has at least one aldehyde or ketone group and multiple hydroxyl groups.</p><p style='margin:8px 0;'><strong>Step 3: Define Oligosaccharides and their composition</strong><br>The term \"oligosaccharide\" originates from the Greek word \"oligos,\" meaning \"a few.\"<br>Oligosaccharides are carbohydrates that are formed when a small number of monosaccharide units are joined together. These units are connected by specific covalent bonds known as <strong>glycosidic bonds</strong>.<br>By definition, oligosaccharides typically contain <span style='color:var(--orange);font-weight:bold;'>2 to 10 monosaccharide units</span>.</p><p style='margin:8px 0;'><strong>Step 4: Identify the specific range for oligosaccharides</strong><br>The defining characteristic of an oligosaccharide is the presence of a limited number of monosaccharide units. This range is generally accepted to be from 2 to 10 units. For example, disaccharides (like sucrose, lactose, maltose) are the simplest form of oligosaccharides, consisting of two monosaccharide units. Trisaccharides (like raffinose) consist of three units, and so on, up to ten units.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Standard biochemical definitions consistently classify oligosaccharides as carbohydrates containing 2 to 10 monosaccharide units. This range is a key differentiator from monosaccharides (single units) and polysaccharides (more than 10 units, often hundreds or thousands).</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Oligosaccharides contain 2 to 10 monosaccharide units.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2 to 10"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw and name the end product obtained from the bromination of ethane",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Functional Groups",
+      "Nomenclature",
+      "Structure Drawing",
+      "Substitution Reactions"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Bromination of Ethane: Free Radical Substitution</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Bromination</strong> is a chemical reaction involving the introduction of bromine atoms into a molecule.<br><strong>Ethane</strong> is a simple alkane with the chemical formula \\( C_2H_6 \\).<br><strong>Free Radical Substitution</strong> is a type of reaction where a hydrogen atom in an alkane is replaced by a halogen atom (like bromine) via a mechanism involving highly reactive free radicals. This reaction is typically initiated by ultraviolet (UV) light or heat.<br>The product is a <strong>haloalkane</strong> (or alkyl halide), an organic compound where a halogen atom is bonded to an alkyl group.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant 1: Ethane (\\( CH_3CH_3 \\))<br>Reactant 2: Bromine (\\( Br_2 \\))<br>Reaction Type: Bromination (specifically, free radical substitution)<br>Conditions: UV light or heat (necessary for free radical initiation)</div><p style='margin:8px 0;'><strong>Step 1: Identify the reactants and reaction type</strong><br>The reactants are ethane, a saturated hydrocarbon (alkane), and bromine. The reaction is a bromination, which for alkanes, proceeds via a free radical substitution mechanism under appropriate conditions (e.g., UV light or heat).</p><p style='margin:8px 0;'><strong>Step 2: Describe the Free Radical Substitution Mechanism</strong><br>This mechanism consists of three main stages:<br>1.  <strong>Initiation:</strong> UV light provides the energy to homolytically cleave the \\( Br-Br \\) bond, forming two highly reactive bromine radicals.<br>    \\[ Br_2 \\xrightarrow{UV \\ light} 2Br\\cdot \\]<br>2.  <strong>Propagation:</strong> This involves a chain reaction where radicals react to form new radicals.<br>    a.  A bromine radical abstracts a hydrogen atom from ethane, forming an ethyl radical and hydrogen bromide (HBr).<br>        \\[ CH_3CH_3 + Br\\cdot \\rightarrow CH_3CH_2\\cdot + HBr \\]<br>    b.  The ethyl radical then reacts with a bromine molecule, forming the product bromoethane and regenerating a bromine radical, which continues the chain.<br>        \\[ CH_3CH_2\\cdot + Br_2 \\rightarrow CH_3CH_2Br + Br\\cdot \\]<br>3.  <strong>Termination:</strong> Radicals combine with each other to form stable, non-radical products, ending the chain reaction. Examples include:<br>    \\[ Br\\cdot + Br\\cdot \\rightarrow Br_2 \\]<br>    \\[ CH_3CH_2\\cdot + CH_3CH_2\\cdot \\rightarrow CH_3CH_2CH_2CH_3 \\]<br>    \\[ CH_3CH_2\\cdot + Br\\cdot \\rightarrow CH_3CH_2Br \\]</p><p style='margin:8px 0;'><strong>Step 3: Write the overall balanced chemical equation</strong><br>The net result of the propagation steps is the replacement of one hydrogen atom from ethane with one bromine atom.<br>Formula: \\( Alkane + Halogen \\xrightarrow{UV \\ light} Haloalkane + Hydrogen \\ Halide \\)<br>Substitution:<br>    \\[ CH_3CH_3 + Br_2 \\xrightarrow{UV \\ light} CH_3CH_2Br + HBr \\]<br>The organic end product is <span style='color:var(--orange);font-weight:bold;'>\\( CH_3CH_2Br \\)</span>.</p><p style='margin:8px 0;'><strong>Step 4: Name the end product</strong><br>The product \\( CH_3CH_2Br \\) is an alkane derivative where one hydrogen has been replaced by a bromine atom. The parent alkane is ethane (two carbon atoms). According to IUPAC nomenclature, the product is named by replacing the '-ane' suffix with '-yl' for the alkyl group and adding the halogen name as a prefix.<br>Therefore, \\( CH_3CH_2Br \\) is named <span style='color:var(--orange);font-weight:bold;'>Bromoethane</span>.</p><p style='margin:8px 0;'><strong>Step 5: Draw the structure of the end product</strong><br>The condensed structural formula is \\( CH_3CH_2Br \\).<br>The expanded structural formula can be drawn as:<br>\\[ \\\\begin{array}{cc} H & H \\\\ | & | \\\\ H - C & - C - Br \\\\ | & | \\\\ H & H \\\\end{array} \\]<br>This structure clearly shows the bonding arrangement of all atoms.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The reaction of ethane (\\( C_2H_6 \\)) with bromine (\\( Br_2 \\)) under UV light is a classic example of free radical halogenation. In this reaction, one hydrogen atom from ethane is substituted by a bromine atom. The resulting product, \\( C_2H_5Br \\), correctly corresponds to bromoethane, which is an alkyl halide. The name and structure are consistent with the reaction mechanism and IUPAC rules.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The end product is Bromoethane (\\( CH_3CH_2Br \\)).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bromoethane (\\( CH_3CH_2Br \\))"
+    }
+  }
+]
