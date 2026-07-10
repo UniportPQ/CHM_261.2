@@ -1,0 +1,560 @@
+[
+  {
+    "type": "pageInfo",
+    "course_title": "Organic Chemistry II",
+    "code": "CHM 261",
+    "session": "2019/2020",
+    "kind": "mixed",
+    "topics": [
+      "Aromatic Chemistry",
+      "Electrophilic Aromatic Substitution",
+      "Carbonyl Chemistry",
+      "Aldehydes and Ketones",
+      "Carboxylic Acids and Derivatives",
+      "Nucleophilic Acyl Substitution",
+      "Enolate Chemistry",
+      "Amines",
+      "Spectroscopy (NMR, IR, MS)",
+      "Pericyclic Reactions",
+      "Carbohydrates",
+      "Amino Acids and Peptides",
+      "Organic Chemistry",
+      "Electrophilic Addition",
+      "Allylic Chemistry",
+      "Elimination Reactions",
+      "IUPAC Nomenclature",
+      "Chemical Structure Drawing",
+      "Alkenes",
+      "Alcohols",
+      "Esterification",
+      "Oxidation",
+      "Reduction",
+      "Selenium Dioxide Oxidation",
+      "Dicarbonyl Compounds"
+    ],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": [
+      "Answer all questions"
+    ]
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Organic Chemistry",
+      "Electrophilic Addition"
+    ],
+    "Question": {
+      "content": "What is the product formed when bromine reacts with 4-methyl-2-hexenene and dichloromethane?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Electrophilic Addition of Bromine to Alkenes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>alkene</em> is a hydrocarbon containing at least one carbon-carbon double bond (C=C).<br><em>Electrophilic addition</em> is a reaction where an electrophile (electron-loving species) adds to an alkene, breaking the pi bond and forming two new sigma bonds.<br><em>Bromination of alkenes</em> is a specific type of electrophilic addition where a bromine molecule (Br₂) adds across the double bond, typically in an inert solvent like dichloromethane (CH₂Cl₂). This reaction proceeds via a cyclic bromonium ion intermediate and results in <em>anti-addition</em>, meaning the two bromine atoms add to opposite faces of the original double bond.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant 1: 4-methyl-2-hexene (an alkene)<br>Reactant 2: Bromine (Br₂)<br>Solvent: Dichloromethane (CH₂Cl₂)<br>Reaction type: Electrophilic addition to an alkene.</div><p style='margin:8px 0;'><strong>Step 1: Draw the structure of the alkene reactant</strong><br>The name 4-methyl-2-hexene indicates:<br><ul><li>'hexene' &rarr; a 6-carbon chain with a double bond.</li><li>'-2-ene' &rarr; the double bond is between carbon 2 and carbon 3.</li><li>'4-methyl' &rarr; a methyl group (\\text{CH}_3) is attached to carbon 4.</li></ul><br>The skeletal structure is:<br>\\[ \\text{CH}_3 - \\text{CH}=\\text{CH} - \\text{CH}(\\text{CH}_3) - \\text{CH}_2 - \\text{CH}_3 \\] <br>Numbering the carbons from left to right: <br>C1(\\text{CH}_3) - C2(\\text{CH}) = C3(\\text{CH}) - C4(\\text{CH}(\\text{CH}_3)) - C5(\\text{CH}_2) - C6(\\text{CH}_3)</p><p style='margin:8px 0;'><strong>Step 2: Identify the electrophile and reaction conditions</strong><br>Bromine (\\text{Br}_2) acts as an electrophile. The double bond of the alkene is electron-rich and will attack the bromine molecule.<br>Dichloromethane (\\text{CH}_2\\text{Cl}_2) is an inert solvent that dissolves both reactants but does not participate in the reaction.</p><p style='margin:8px 0;'><strong>Step 3: Describe the first step of the electrophilic addition mechanism</strong><br>The pi electrons of the alkene's double bond attack one of the bromine atoms, and simultaneously, the bond between the two bromine atoms breaks. A cyclic three-membered ring intermediate, called a <span style='color:var(--orange);font-weight:bold;'>bromonium ion</span>, is formed. The other bromine atom leaves as a bromide ion (\\text{Br}^-).<br>\\[ \\text{R}_2\\text{C}=\\text{CR}_2 + \\text{Br}_2 \\rightarrow \\text{cyclic bromonium ion} + \\text{Br}^- \\] <br>For 4-methyl-2-hexene, the bromonium ion forms across C2 and C3.</p><p style='margin:8px 0;'><strong>Step 4: Describe the second step of the electrophilic addition mechanism (nucleophilic attack)</strong><br>The bromide ion (\\text{Br}^-), now acting as a nucleophile, attacks one of the carbons of the bromonium ion from the face opposite to the bridging bromine atom. This is known as <span style='color:var(--orange);font-weight:bold;'>anti-addition</span>. The attack opens the cyclic bromonium ion, forming a product where the two bromine atoms are on adjacent carbons and are on opposite sides of the original double bond plane.</p><p style='margin:8px 0;'><strong>Step 5: Determine the structure of the final product</strong><br>The two bromine atoms add across the C2-C3 double bond. The methyl group at C4 remains unchanged.<br>Original alkene: \\text{CH}_3 - \\text{CH}=\\text{CH} - \\text{CH}(\\text{CH}_3) - \\text{CH}_2 - \\text{CH}_3 <br>Product after addition: \\text{CH}_3 - \\text{CHBr} - \\text{CHBr} - \\text{CH}(\\text{CH}_3) - \\text{CH}_2 - \\text{CH}_3</p><p style='margin:8px 0;'><strong>Step 6: Name the final product using IUPAC nomenclature</strong><br>1.  Identify the longest continuous carbon chain containing the bromine atoms: This is a 6-carbon chain (hexane).<br>2.  Number the carbon chain to give the lowest possible numbers to the substituents.<br>    If we number from left to right:<br>    C1(\\text{CH}_3) - C2(\\text{CHBr}) - C3(\\text{CHBr}) - C4(\\text{CH}(\\text{CH}_3)) - C5(\\text{CH}_2) - C6(\\text{CH}_3)<br>    Substituents are at positions: 2-bromo, 3-bromo, 4-methyl.<br>3.  List the substituents alphabetically: bromo comes before methyl.<br>4.  Combine the names: <span style='color:var(--orange);font-weight:bold;'>2,3-dibromo-4-methylhexane</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The reaction involves the addition of \\text{Br}_2 across the double bond of 4-methyl-2-hexene. This means the double bond becomes a single bond, and two bromine atoms are added to the carbons that were part of the double bond. The original alkene had 6 carbons in the main chain and a methyl group on C4. The product, 2,3-dibromo-4-methylhexane, correctly shows a 6-carbon alkane chain with two bromines on C2 and C3 (the original double bond positions) and the methyl group remaining on C4. This is consistent with the electrophilic addition mechanism.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The product formed is 2,3-dibromo-4-methylhexane.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2,3-dibromo-4-methylhexane"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "The major organic product formed from the reaction of hydrogen chloride and cyclohex-2-en-1-ol is ____________.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Electrophilic Addition",
+      "Allylic Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reaction of Allylic Alcohol with Hydrogen Chloride (HCl)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>• <b>Allylic Alcohol:</b> An alcohol where the hydroxyl group \\( (\\text{-OH}) \\) is attached to a carbon atom that is adjacent to a carbon-carbon double bond \\( (\\text{C=C-C-OH}) \\).<br>• <b>Allylic Carbocation:</b> A carbocation where the positive charge is on a carbon atom adjacent to a carbon-carbon double bond. These are highly resonance-stabilized, meaning the positive charge is delocalized over two carbon atoms.<br>• <b>S<sub>N</sub>1 Reaction Mechanism:</b> A two-step nucleophilic substitution reaction involving the formation of a carbocation intermediate. For allylic systems, this carbocation is resonance-stabilized, allowing for nucleophilic attack at multiple positions (direct substitution and allylic rearrangement).<br>• <b>Allylic Rearrangement:</b> The phenomenon where a nucleophile attacks an allylic carbocation at a carbon atom different from the one that initially bore the leaving group, resulting in a product with a shifted double bond.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>• Reactants: Cyclohex-2-en-1-ol and Hydrogen Chloride (HCl).<br>• Goal: Determine the major organic product.</div><p style='margin:8px 0;'><strong>Step 1: Protonation of the hydroxyl group</strong><br>The hydroxyl group \\( (\\text{-OH}) \\) of cyclohex-2-en-1-ol acts as a Lewis base and is protonated by the strong acid, hydrogen chloride \\( (\\text{HCl}) \\). The oxygen atom accepts a proton \\( (\\text{H}^+) \\), forming an oxonium ion \\( (\\text{-OH}_2^+) \\). This converts the poor leaving group \\( (\\text{-OH}) \\) into an excellent leaving group \\( (\\text{H}_2\\text{O}) \\).<br>The structure of cyclohex-2-en-1-ol has the hydroxyl group at C1 and a double bond between C2 and C3. After protonation, the \\( \\text{-OH}_2^+ \\) group is at C1.<br>\\[ \\ce{ \\text{Cyclohex-2-en-1-ol} + H^+ \\quad \\rightarrow \\quad \\text{Cyclohex-2-en-1-ol-H}^+ } \\]</p><p style='margin:8px 0;'><strong>Step 2: Loss of water to form an allylic carbocation</strong><br>The protonated hydroxyl group \\( (\\text{-OH}_2^+) \\) departs as a neutral water molecule \\( (\\text{H}_2\\text{O}) \\). This generates a carbocation. Since the carbon bearing the positive charge (C1) is adjacent to a double bond (between C2 and C3), this is an allylic carbocation.<br>\\[ \\ce{ \\text{Cyclohex-2-en-1-ol-H}^+ \\quad \\rightarrow \\quad \\text{Allylic Carbocation} + H2O } \\]<br>The initial carbocation has the positive charge at C1.</p><p style='margin:8px 0;'><strong>Step 3: Resonance stabilization of the allylic carbocation</strong><br>The allylic carbocation formed in Step 2 is resonance-stabilized. The positive charge is delocalized across the allylic system, specifically between C1 and C3. This means the carbocation exists as a hybrid of two resonance structures:<br>• <b>Resonance Structure A:</b> Positive charge at C1, double bond between C2 and C3.<br>• <b>Resonance Structure B:</b> Positive charge at C3, double bond between C1 and C2.<br>Both C1 and C3 in the cyclohexene ring are secondary carbons, so both resonance forms contribute significantly to the overall structure of the carbocation.</p><p style='margin:8px 0;'><strong>Step 4: Nucleophilic attack by chloride ion</strong><br>The chloride ion \\( (\\text{Cl}^-) \\), which was generated in Step 1, acts as a nucleophile and attacks the electrophilic carbons of the resonance-stabilized allylic carbocation. Due to resonance, attack can occur at two positions:<br>1.  Attack at C1 (the carbon where the \\( \\text{-OH} \\) group was originally attached). This would lead to 1-chlorocyclohex-2-ene (direct substitution product).<br>2.  Attack at C3 (the carbon at the other end of the allylic system, due to rearrangement). This would lead to 3-chlorocyclohex-1-ene, which is commonly named <span style='color:var(--orange);font-weight:bold;'>3-chlorocyclohexene</span> (allylic rearrangement product).</p><p style='margin:8px 0;'><strong>Step 5: Determine the major product</strong><br>In the reaction of allylic alcohols with HX, allylic rearrangement is a common phenomenon. While both 1-chlorocyclohex-2-ene and 3-chlorocyclohexene can be formed, the product from attack at the rearranged position (C3), <span style='color:var(--orange);font-weight:bold;'>3-chlorocyclohexene</span>, is typically observed as the major organic product. This is characteristic of S<sub>N</sub>1-like reactions involving allylic carbocations where the nucleophile can attack at either end of the delocalized system.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The reaction of an allylic alcohol with a hydrogen halide (like HCl) proceeds via an S<sub>N</sub>1 mechanism involving a resonance-stabilized allylic carbocation. This carbocation allows for nucleophilic attack at two different positions, leading to both direct substitution and allylic rearrangement products. For cyclohex-2-en-1-ol, the allylic carbocation has positive charge character at C1 and C3. Attack at C3, leading to 3-chlorocyclohexene, is the characteristic rearranged product and is generally the major product in such reactions.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The major organic product is 3-chlorocyclohexene.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3-chlorocyclohexene"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Show the product(s) formed when germinal dihalide such as 1,2-dichlorodecane reacts with sodium amide.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Elimination Reactions",
+      "Organic Chemistry",
+      "Amines"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Alkyne Synthesis via Double Dehydrohalogenation</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>germinal dihalide</em> has two halogen atoms attached to the same carbon atom (e.g., 1,1-dichlorodecane).<br>A <em>vicinal dihalide</em> has two halogen atoms attached to adjacent carbon atoms (e.g., 1,2-dichlorodecane).<br><em>Dehydrohalogenation</em> is an elimination reaction where a hydrogen atom and a halogen atom are removed from adjacent carbons, leading to the formation of a carbon-carbon double bond.<br><em>Double dehydrohalogenation</em> involves the sequential removal of two molecules of hydrogen halide (HX) from a dihalide, ultimately forming a carbon-carbon triple bond (an alkyne).<br><em>Sodium amide (NaNH<sub>2</sub>)</em> is a very strong base commonly used for double dehydrohalogenation reactions due to its ability to abstract even weakly acidic protons, such as those in vinyl halides, to synthesize alkynes.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Reactant: 1,2-dichlorodecane<br>Reagent: Sodium amide (NaNH<sub>2</sub>)</div><p style='margin:8px 0;'><strong>Step 1: Identify the reactant and reagent</strong><br>The reactant is 1,2-dichlorodecane. This molecule has two chlorine atoms on adjacent carbon atoms (C1 and C2) of a decane chain. Therefore, it is a <span style='color:var(--orange);font-weight:bold;'>vicinal dihalide</span>.<br>The reagent is sodium amide (NaNH<sub>2</sub>), which is a very strong base, typically used for strong elimination reactions.</p><p style='margin:8px 0;'><strong>Step 2: Clarify the reactant type from the question</strong><br>The question states \"germinal dihalide such as 1,2-dichlorodecane\". However, 1,2-dichlorodecane is unequivocally a *vicinal* dihalide, not a germinal dihalide. We will proceed with the reaction of the specified compound, 1,2-dichlorodecane, which is known to undergo double dehydrohalogenation with strong bases to form an alkyne.</p><p style='margin:8px 0;'><strong>Step 3: First Dehydrohalogenation (Formation of a vinyl halide)</strong><br>Sodium amide, acting as a strong base, will abstract a proton from a carbon adjacent to a carbon bearing a halogen, leading to the elimination of one molecule of HCl and the formation of a carbon-carbon double bond. For 1,2-dichlorodecane, the first elimination typically forms a vinyl halide.<br>\\[ \\text{Cl-CH}_2\\text{-CHCl-(CH}_2\\text{)}_7\\text{-CH}_3 \\quad + \\quad \\text{NaNH}_2 \\quad \\xrightarrow{\\text{elimination}} \\quad \\text{CH}_2\\text{=CCl-(CH}_2\\text{)}_7\\text{-CH}_3 \\quad + \\quad \\text{NaCl} \\quad + \\quad \\text{NH}_3 \\]<br>The intermediate product formed is <span style='color:var(--orange);font-weight:bold;'>1-chlorodec-1-ene</span> (a vinyl halide).</p><p style='margin:8px 0;'><strong>Step 4: Second Dehydrohalogenation (Formation of an alkyne)</strong><br>The vinyl halide (1-chlorodec-1-ene) formed in the previous step reacts with a second equivalent of the strong base, sodium amide. This second dehydrohalogenation is generally more difficult because the C-H bond in vinyl halides is stronger than in alkyl halides. However, with a very strong base like NaNH<sub>2</sub> (often with heating), the reaction proceeds to form an alkyne.<br>\\[ \\text{CH}_2\\text{=CCl-(CH}_2\\text{)}_7\\text{-CH}_3 \\quad + \\quad \\text{NaNH}_2 \\quad \\xrightarrow{\\text{elimination}} \\quad \\text{CH}\\equiv\\text{C-(CH}_2\\text{)}_7\\text{-CH}_3 \\quad + \\quad \\text{NaCl} \\quad + \\quad \\text{NH}_3 \\]<br>The final product is <span style='color:var(--orange);font-weight:bold;'>1-decyne</span>, a terminal alkyne.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Vicinal dihalides undergo double dehydrohalogenation with strong bases like sodium amide (NaNH<sub>2</sub>) to form alkynes. Since 1,2-dichlorodecane has halogens at the terminal end of the carbon chain, the sequential elimination of two HCl molecules correctly results in the formation of a terminal alkyne. The 10-carbon chain of 1,2-dichlorodecane yields a 10-carbon alkyne, specifically 1-decyne.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The product formed is 1-decyne.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "1-decyne"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Organic Chemistry",
+      "IUPAC Nomenclature",
+      "Chemical Structure Drawing",
+      "Alkenes",
+      "Alcohols"
+    ],
+    "Question": {
+      "content": "Draw the structure of 3-ethyl-3-penten-2-ol.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>IUPAC Nomenclature for Alkenols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>IUPAC (International Union of Pure and Applied Chemistry) nomenclature provides a systematic way to name organic compounds.<br>For alkenols (compounds with both a double bond and a hydroxyl group), the rules are:<br>1.  Identify the longest continuous carbon chain that contains both the double bond and the hydroxyl group. This forms the parent chain.<br>2.  Number the carbon chain from the end that gives the hydroxyl group the lowest possible number. If there's a tie in numbering the functional groups, the double bond gets the lowest number.<br>3.  The parent name ends with &quot;-ol&quot; for the alcohol and &quot;-en&quot; for the alkene, with numbers indicating their positions.<br>4.  Identify and name any alkyl substituents, indicating their positions.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Compound name: 3-ethyl-3-penten-2-ol<br>Task: Draw its chemical structure.</div><p style='margin:8px 0;'><strong>Step 1: Identify the parent chain and primary functional groups.</strong><br>The suffix &quot;-ol&quot; indicates the presence of an alcohol (hydroxyl group, \\( -\\text{OH} \\)).<br>The infix &quot;-en-&quot; indicates the presence of an alkene (carbon-carbon double bond, \\( \\text{C=C} \\)).<br>The root &quot;pent-&quot; indicates a five-carbon parent chain.<br>Therefore, the parent chain is a 5-carbon chain containing both a double bond and a hydroxyl group.</p><p style='margin:8px 0;'><strong>Step 2: Determine the positions of the functional groups.</strong><br>The number &quot;2&quot; before &quot;-ol&quot; means the hydroxyl group is attached to the second carbon (C2).<br>The number &quot;3&quot; before &quot;-en-&quot; means the double bond starts at the third carbon, i.e., it is located between C3 and C4.<br>Let's sketch the carbon skeleton with these functional groups:<br>\\[ \\text{C} - \\text{C}(\\text{OH}) - \\text{C}=\\text{C} - \\text{C} \\]</p><p style='margin:8px 0;'><strong>Step 3: Number the carbon chain and confirm functional group positions.</strong><br>According to IUPAC rules, the hydroxyl group takes precedence in numbering. We must number the chain such that the carbon bearing the \\( -\\text{OH} \\) group has the lowest possible number.<br>For &quot;3-ethyl-3-penten-2-ol&quot;, the &quot;-2-ol&quot; specifies the hydroxyl group is on C2. This means we number the chain from the end that makes the hydroxyl carbon C2.<br>Numbering from left to right:<br>\\[ \\text{C}_1 - \\text{C}_2(\\text{OH}) - \\text{C}_3 = \\text{C}_4 - \\text{C}_5 \\]<br>This numbering correctly places the \\( -\\text{OH} \\) on C2 and the double bond starting at C3.</p><p style='margin:8px 0;'><strong>Step 4: Identify and place the substituent.</strong><br>The prefix &quot;3-ethyl&quot; indicates an ethyl group (\\( -\\text{CH}_2\\text{CH}_3 \\)) attached to carbon C3.<br>Adding the ethyl group to C3:<br>\\[ \\text{C}_1 - \\text{C}_2(\\text{OH}) - \\text{C}_3(\\text{CH}_2\\text{CH}_3) = \\text{C}_4 - \\text{C}_5 \\]</p><p style='margin:8px 0;'><strong>Step 5: Complete the structure by adding hydrogen atoms.</strong><br>Ensure each carbon atom forms a total of four bonds.<br>C1: Forms one bond to C2, needs 3 H atoms. \\( \\text{CH}_3 \\)<br>C2: Forms one bond to C1, one bond to C3, one bond to \\( -\\text{OH} \\), needs 1 H atom. \\( \\text{CH(OH)} \\)<br>C3: Forms one bond to C2, two bonds (double bond) to C4, one bond to the ethyl group. Needs 0 H atoms. \\( \\text{C(CH}_2\\text{CH}_3) \\)<br>C4: Forms two bonds (double bond) to C3, one bond to C5, needs 1 H atom. \\( \\text{CH} \\)<br>C5: Forms one bond to C4, needs 3 H atoms. \\( \\text{CH}_3 \\)<br>The ethyl group \\( -\\text{CH}_2\\text{CH}_3 \\) is already complete with its hydrogen atoms.</p><p style='margin:8px 0;'><strong>Step 6: Write the condensed structural formula.</strong><br>Combining all parts, the condensed structural formula is:<br><span style='color:var(--orange);font-weight:bold;'>\\[ \\text{CH}_3-\\text{CH(OH)}-\\text{C}(\\text{CH}_2\\text{CH}_3)=\\text{CH}-\\text{CH}_3 \\]</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's verify the IUPAC name for the derived structure:<br>\\[ \\text{CH}_3-\\text{CH(OH)}-\\text{C}(\\text{CH}_2\\text{CH}_3)=\\text{CH}-\\text{CH}_3 \\]<br>1.  <strong>Identify the longest carbon chain containing both the hydroxyl group and the double bond:</strong> This chain has 5 carbons, so the parent is &quot;pent-&quot;.<br>2.  <strong>Number the chain:</strong> The hydroxyl group takes precedence. Numbering from left to right gives the \\( -\\text{OH} \\) group the lowest possible number (2).<br>    \\( \\text{C}_1\\text{H}_3 - \\text{C}_2\\text{H}(\\text{OH}) - \\text{C}_3(\\text{CH}_2\\text{CH}_3) = \\text{C}_4\\text{H} - \\text{C}_5\\text{H}_3 \\)<br>3.  <strong>Locate functional groups and substituents:</strong><br>    *   Hydroxyl group (\\( -\\text{OH} \\)) is on C2 (suffix &quot;-2-ol&quot;).<br>    *   Double bond starts at C3 (infix &quot;-3-en-&quot;).<br>    *   Ethyl group (\\( -\\text{CH}_2\\text{CH}_3 \\)) is on C3 (prefix &quot;3-ethyl-&quot;).<br>4.  <strong>Assemble the name:</strong> Combining these parts gives 3-ethyl-3-penten-2-ol.<br>This matches the given name. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The structure of 3-ethyl-3-penten-2-ol is CH<sub>3</sub>-CH(OH)-C(CH<sub>2</sub>CH<sub>3</sub>)=CH-CH<sub>3</sub>.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "CH3-CH(OH)-C(CH2CH3)=CH-CH3"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Hydroxylalkenes can undergo esterification reaction with carboxylic acids to form __________.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Esterification",
+      "Carboxylic Acids and Derivatives",
+      "Alcohols",
+      "Alkenes"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Esterification of Hydroxylalkenes</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Esterification:</strong> A chemical reaction that forms an ester from an alcohol and a carboxylic acid, typically with the elimination of a water molecule (a condensation reaction).<br><strong>Hydroxylalkene:</strong> An organic compound containing both a hydroxyl (\\( \\text{-OH} \\)) group (making it an alcohol) and a carbon-carbon double bond (\\( \\text{C=C} \\), making it an alkene).<br><strong>Carboxylic Acid:</strong> An organic compound containing a carboxyl (\\( \\text{-COOH} \\)) functional group.<br><strong>Ester:</strong> An organic compound derived from a carboxylic acid where the hydrogen of the hydroxyl group is replaced by an alkyl or aryl group. It contains the \\( \\text{-COO-} \\) functional group.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Reactants: A hydroxylalkene and a carboxylic acid.<br>Reaction type: Esterification.</div><p style='margin:8px 0;'><strong>Step 1: Identify the functional groups involved</strong><br>A hydroxylalkene contains two key functional groups:<br>1. A hydroxyl group (\\( \\text{-OH} \\)), which makes it an alcohol.<br>2. A carbon-carbon double bond (\\( \\text{C=C} \\)), which makes it an alkene.<br>A carboxylic acid contains a carboxyl group (\\( \\text{-COOH} \\)).</p><p style='margin:8px 0;'><strong>Step 2: Understand the esterification reaction</strong><br>Esterification is a condensation reaction where an alcohol reacts with a carboxylic acid. The hydroxyl group (\\( \\text{-OH} \\)) from the alcohol and a hydrogen atom from the carboxyl group (\\( \\text{-COOH} \\)) combine to form a water molecule (\\( \\text{H}_2\\text{O} \\)), and an ester linkage (\\( \\text{-COO-} \\)) is formed between the remaining parts of the alcohol and carboxylic acid.</p><p style='margin:8px 0;'><strong>Step 3: Write the general reaction for esterification</strong><br>The general reaction between an alcohol (\\( \\text{R-OH} \\)) and a carboxylic acid (\\( \\text{R'-COOH} \\)) is:<br>\\[ \\text{R-OH} + \\text{R'-COOH} \\quad \\xrightarrow{\\text{Acid catalyst, Heat}} \\quad \\text{R'-COO-R} + \\text{H}_2\\text{O} \\]<br>Here, \\( \\text{R} \\) and \\( \\text{R'} \\) represent alkyl or aryl groups.</p><p style='margin:8px 0;'><strong>Step 4: Apply the reaction to a hydroxylalkene</strong><br>In this specific case, the hydroxylalkene acts as the alcohol component. Let's denote the hydroxylalkene as \\( \\text{Alkene-R-OH} \\), where \\( \\text{Alkene-R} \\) represents the part of the molecule containing the carbon-carbon double bond and the alkyl chain attached to the hydroxyl group.<br>The reaction proceeds as follows:<br>\\[ \\text{Alkene-R-OH} + \\text{R'-COOH} \\quad \\xrightarrow{\\text{Acid catalyst, Heat}} \\quad \\text{R'-COO-Alkene-R} + \\text{H}_2\\text{O} \\]<br>Here, \\( \\text{R} \\) and \\( \\text{R'} \\) represent alkyl or aryl groups.</p><p style='margin:8px 0;'><strong>Step 5: Determine the nature of the product</strong><br>The product formed is an ester, as indicated by the \\( \\text{-COO-} \\) linkage. Since the original hydroxylalkene reactant contained a carbon-carbon double bond (an alkene functional group), this double bond is retained in the ester product. Therefore, the resulting ester will contain an alkene group, making it an <span style='color:var(--orange);font-weight:bold;'>unsaturated ester</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Esterification is the reaction between an alcohol and a carboxylic acid to form an ester and water. A hydroxylalkene functions as an alcohol because of its hydroxyl group. The alkene portion of the molecule is unreactive under typical esterification conditions and thus remains intact in the product. Therefore, the ester formed will still contain the carbon-carbon double bond, classifying it as an unsaturated ester. &#10003; Confirmed.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Unsaturated esters</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unsaturated esters"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Organic Chemistry",
+      "Alcohols",
+      "Oxidation",
+      "Aldehydes and Ketones",
+      "Chemical Structure Drawing"
+    ],
+    "Question": {
+      "content": "Write a complete chemical equation to show the reaction of ethanol with bromine.",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidation of Primary Alcohols</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Primary Alcohols:</strong> Alcohols where the carbon atom bonded to the hydroxyl group (\\\\(-OH\\\\)) is attached to only one other carbon atom (e.g., ethanol).<br><strong>Oxidation of Primary Alcohols:</strong> Primary alcohols can be oxidized to aldehydes, and further to carboxylic acids, depending on the strength of the oxidizing agent and reaction conditions. Complete oxidation typically yields a carboxylic acid.<br><strong>Bromine (\\\\(Br_2\\\\)) as an Oxidizing Agent:</strong> In aqueous solutions, bromine can act as an oxidizing agent. It is reduced (gains electrons), typically forming bromide ions (\\\\(Br^-\\\\)) or hydrobromic acid (HBr), while oxidizing another species.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactants: Ethanol (\\\\(CH_3CH_2OH\\\\)) and Bromine (\\\\(Br_2\\\\)).<br>Reaction type: Oxidation of an alcohol.<br>Expected product (complete oxidation of ethanol): Ethanoic acid (\\\\(CH_3COOH\\\\)).</div><p style='margin:8px 0;'><strong>Step 1: Identify the oxidation and reduction half-reactions.</strong><br>Ethanol (a primary alcohol) will be oxidized. Given bromine is an oxidizing agent, ethanol is expected to be oxidized to its corresponding carboxylic acid, ethanoic acid (\\\\(CH_3COOH\\\\)).<br>Bromine (\\\\(Br_2\\\\)) will be reduced to bromide ions (\\\\(Br^-\\\\)).</p><p style='margin:8px 0;'><strong>Step 2: Write the unbalanced oxidation half-reaction for ethanol.</strong><br>The carbon atom in ethanol bonded to the hydroxyl group (oxidation state +1) is oxidized to the carboxyl carbon in ethanoic acid (oxidation state +5). This involves a loss of 4 electrons.<br>Unbalanced equation:<br>\\\\(CH_3CH_2OH \\\\rightarrow CH_3COOH\\\\)<br>Balance oxygen atoms by adding \\\\(H_2O\\\\) to the left side (1 O on left, 2 O on right):<br>\\\\(CH_3CH_2OH + H_2O \\\\rightarrow CH_3COOH\\\\)<br>Balance hydrogen atoms by adding \\\\(H^+\\\\) to the right side (8 H on left, 4 H on right):<br>\\\\(CH_3CH_2OH + H_2O \\\\rightarrow CH_3COOH + 4H^+\\\\)<br>Balance charges by adding electrons (\\\\(e^-\\\\)) to the right side (0 charge on left, +4 charge on right):<br>\\\\[ CH_3CH_2OH + H_2O \\\\rightarrow CH_3COOH + 4H^+ + 4e^- \\\\]<br>The balanced oxidation half-reaction is: <span style='color:var(--orange);font-weight:bold;'>\\\\(CH_3CH_2OH + H_2O \\\\rightarrow CH_3COOH + 4H^+ + 4e^-\\\\)</span></p><p style='margin:8px 0;'><strong>Step 3: Write the unbalanced reduction half-reaction for bromine.</strong><br>Bromine molecules (oxidation state 0) are reduced to bromide ions (oxidation state -1). Each bromine atom gains one electron, so a \\\\(Br_2\\\\) molecule gains two electrons.<br>Unbalanced equation:<br>\\\\(Br_2 \\\\rightarrow Br^-\\\\)<br>Balance bromine atoms:<br>\\\\(Br_2 \\\\rightarrow 2Br^-\\\\)<br>Balance charges by adding electrons (\\\\(e^-\\\\)) to the left side (0 charge on left, -2 charge on right):<br>\\\\[ Br_2 + 2e^- \\\\rightarrow 2Br^- \\\\]<br>The balanced reduction half-reaction is: <span style='color:var(--orange);font-weight:bold;'>\\\\(Br_2 + 2e^- \\\\rightarrow 2Br^-\\\\)</span></p><p style='margin:8px 0;'><strong>Step 4: Balance the electrons and combine the half-reactions.</strong><br>The oxidation half-reaction involves 4 electrons. The reduction half-reaction involves 2 electrons.<br>To balance the electrons, multiply the reduction half-reaction by 2:<br>\\\\(2 \\\\times (Br_2 + 2e^- \\\\rightarrow 2Br^-) \\\\Rightarrow 2Br_2 + 4e^- \\\\rightarrow 4Br^-\\\\)<br>Now, add the balanced oxidation and reduction half-reactions:<br>\\\\(CH_3CH_2OH + H_2O + 4e^- + 2Br_2 \\\\rightarrow CH_3COOH + 4H^+ + 4e^- + 4Br^-\\\\)<br>Cancel the electrons (\\\\(4e^-\\\\)) from both sides:<br>\\\\[ CH_3CH_2OH + 2Br_2 + H_2O \\\\rightarrow CH_3COOH + 4H^+ + 4Br^- \\\\]<br>The combined ionic equation is: <span style='color:var(--orange);font-weight:bold;'>\\\\(CH_3CH_2OH + 2Br_2 + H_2O \\\\rightarrow CH_3COOH + 4H^+ + 4Br^-\\\\)</span></p><p style='margin:8px 0;'><strong>Step 5: Form the complete molecular equation.</strong><br>In an aqueous solution, \\\\(H^+\\\\) and \\\\(Br^-\\\\) ions will combine to form hydrobromic acid (HBr). Therefore, combine \\\\(4H^+\\\\) and \\\\(4Br^-\\\\) to form \\\\(4HBr\\\\).<br>\\\\[ CH_3CH_2OH + 2Br_2 + H_2O \\\\rightarrow CH_3COOH + 4HBr \\\\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>Let's check the atom balance for the final equation:<br>\\\\(CH_3CH_2OH + 2Br_2 + H_2O \\\\rightarrow CH_3COOH + 4HBr\\\\)<br><ul><li><strong>Carbon (C):</strong> Left = 2, Right = 2 (Balanced)</li><li><strong>Hydrogen (H):</strong> Left = (3+2+1 from \\\\(CH_3CH_2OH\\\\)) + (2 from \\\\(H_2O\\\\)) = 8. Right = (3+1 from \\\\(CH_3COOH\\\\)) + (4 from \\\\(4HBr\\\\)) = 8 (Balanced)</li><li><strong>Oxygen (O):</strong> Left = (1 from \\\\(CH_3CH_2OH\\\\)) + (1 from \\\\(H_2O\\\\)) = 2. Right = (2 from \\\\(CH_3COOH\\\\)) = 2 (Balanced)</li><li><strong>Bromine (Br):</strong> Left = (2 \\\\(\\times\\\\) 2 from \\\\(2Br_2\\\\)) = 4. Right = (4 from \\\\(4HBr\\\\)) = 4 (Balanced)</li></ul>All atoms are balanced, confirming the correctness of the equation.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The complete chemical equation is: \\\\(CH_3CH_2OH + 2Br_2 + H_2O \\\\rightarrow CH_3COOH + 4HBr\\\\)</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\\\(CH_3CH_2OH + 2Br_2 + H_2O \\\\rightarrow CH_3COOH + 4HBr\\\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw the structure and give the name of the simplest hydroxylalkene.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "IUPAC Nomenclature",
+      "Chemical Structure Drawing",
+      "Alkenes",
+      "Alcohols"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Simplest Hydroxylalkene: Structure and Nomenclature</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>hydroxylalkene</em> is an organic compound that contains both a carbon-carbon double bond (alkene functional group) and a hydroxyl (\\(-OH\\)) group (alcohol functional group).<br>The term 'simplest' refers to the molecule with the fewest carbon atoms that can stably exhibit both functional groups.<br>An <em>enol</em> is a compound with a hydroxyl group directly attached to a carbon atom of a carbon-carbon double bond (\\(C=C-OH\\)). Enols are typically unstable and rapidly undergo <em>keto-enol tautomerism</em> to form their more stable carbonyl (ketone or aldehyde) isomers.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Identify the structure and IUPAC name of the simplest stable hydroxylalkene.</div><p style='margin:8px 0;'><strong>Step 1: Define the functional groups required</strong><br>A hydroxylalkene must contain:<br>1. A carbon-carbon double bond (\\(C=C\\)), characteristic of an alkene.<br>2. A hydroxyl group (\\(-OH\\)), characteristic of an alcohol.</p><p style='margin:8px 0;'><strong>Step 2: Consider the smallest possible carbon chain for an alkene</strong><br>The simplest alkene is ethene, which has two carbon atoms: \\(CH_2=CH_2\\).</p><p style='margin:8px 0;'><strong>Step 3: Attempt to form a hydroxylalkene with two carbon atoms</strong><br>If we attach a hydroxyl group to ethene, the only possible structure is ethen-1-ol:<br>\\[ CH_2=CH-OH \\]<br>This structure is an <span style='color:var(--orange);font-weight:bold;'>enol</span> because the hydroxyl group is directly attached to a carbon atom of the double bond. Enols are generally unstable and rapidly tautomerize to their more stable aldehyde or ketone forms. Ethen-1-ol tautomerizes to acetaldehyde (\\(CH_3-CHO\\)).<br>Therefore, a 2-carbon hydroxylalkene is not a stable 'simplest hydroxylalkene'.</p><p style='margin:8px 0;'><strong>Step 4: Consider the next smallest carbon chain for an alkene</strong><br>The next simplest alkene is propene, which has three carbon atoms: \\(CH_3-CH=CH_2\\).</p><p style='margin:8px 0;'><strong>Step 5: Add a hydroxyl group to propene, avoiding unstable enol forms</strong><br>We need to place the -OH group such that it is not directly attached to a double-bonded carbon to ensure stability.<br>The possible positions for the -OH group on a 3-carbon chain with a double bond are:<br>1. On C1 (the carbon not involved in the double bond, but adjacent to it): \\(CH_2=CH-CH_2-OH\\)<br>2. On C2 (one of the double-bonded carbons): \\(CH_3-C(OH)=CH_2\\) (an enol, tautomerizes to propanone)<br>3. On C3 (the other double-bonded carbon): \\(CH_3-CH=CH-OH\\) (an enol, tautomerizes to propanal)<br>The only stable option is to place the hydroxyl group on the carbon atom that is not part of the double bond, which is C1. This gives the structure: <span style='color:var(--orange);font-weight:bold;'>\\(CH_2=CH-CH_2-OH\\)</span></p><p style='margin:8px 0;'><strong>Step 6: Determine the IUPAC name for \\(CH_2=CH-CH_2-OH\\)</strong><br>1. Identify the longest carbon chain containing both the double bond and the hydroxyl group. This is a 3-carbon chain.<br>2. Number the carbon chain to give the hydroxyl group the lowest possible number. The double bond's position is also important.<br>   If we number from the -OH end: C1 is -OH, C2 is part of C=C, C3 is part of C=C.<br>   So, the -OH group is on carbon 1.<br>   The double bond is between carbon 2 and carbon 3.<br>3. The parent alkene is 'propene'. The double bond starts at C2, so 'prop-2-ene'.<br>4. The alcohol suffix is '-ol'. The hydroxyl group is on C1, so '-1-ol'.<br>5. Combine these: <span style='color:var(--orange);font-weight:bold;'>Prop-2-en-1-ol</span>.<br>This compound is also commonly known as Allyl alcohol.</p><p style='margin:8px 0;'><strong>Step 7: Draw the structure</strong><br>The structure of Prop-2-en-1-ol can be represented by its condensed structural formula:<br><span style='color:var(--orange);font-weight:bold;'>\\(CH_2=CH-CH_2-OH\\)</span>.<br>This shows a three-carbon chain where the first carbon is part of a double bond, the second carbon is also part of the double bond, and the third carbon is singly bonded and carries the hydroxyl group.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The identified compound, Prop-2-en-1-ol (\\(CH_2=CH-CH_2-OH\\)), has:<br>1. A carbon-carbon double bond (between C2 and C3).<br>2. A hydroxyl group (on C1).<br>3. It is stable, as the -OH group is not directly attached to a double-bonded carbon, thus avoiding enol tautomerism.<br>4. It has three carbon atoms, which is the minimum number required for a stable hydroxylalkene, as 2-carbon enols are unstable. Therefore, it is indeed the simplest stable hydroxylalkene.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The simplest hydroxylalkene is Prop-2-en-1-ol, with the structure \\(CH_2=CH-CH_2-OH\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prop-2-en-1-ol"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Give the structure and name of the product formed when 2-buten-1-ol is reduced with \\(LiAlH_4\\).",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Alcohols",
+      "Alkenes",
+      "Allylic Chemistry",
+      "IUPAC Nomenclature",
+      "Chemical Structure Drawing",
+      "Reduction"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reduction of Unsaturated Alcohols with Lithium Aluminum Hydride</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Lithium Aluminum Hydride (\\(LiAlH_4\\))</strong> is a powerful, non-selective reducing agent for many functional groups, primarily those containing carbonyls or their derivatives. It effectively reduces aldehydes, ketones, carboxylic acids, esters, acid chlorides, and amides to alcohols or amines.<br>However, \\(LiAlH_4\\) is generally <strong>unreactive towards isolated carbon-carbon double bonds (alkenes)</strong> and <strong>simple alcohol functional groups</strong> themselves under typical reaction conditions. It does not directly reduce C=C bonds unless they are conjugated to a carbonyl or part of a very specific system, nor does it typically cleave C-OH bonds in simple alcohols without prior activation (e.g., tosylation).<br>An <strong>allylic alcohol</strong> is an alcohol where the hydroxyl group is attached to a carbon atom that is adjacent to a carbon-carbon double bond (i.e., \\(C=C-CH_2-OH\\)).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Reactant: 2-buten-1-ol<br>Reagent: Lithium Aluminum Hydride (\\(LiAlH_4\\))<br>Task: Determine the structure and name of the product.</div><p style='margin:8px 0;'><strong>Step 1: Identify the structure and functional groups of 2-buten-1-ol</strong><br>The name \"2-buten-1-ol\" indicates a four-carbon chain with a double bond starting at carbon 2 and a hydroxyl group at carbon 1.<br>The structure is: \\(CH_3-CH=CH-CH_2-OH\\).<br>This molecule contains two main functional groups:<br>1. An <strong>alkene</strong> (carbon-carbon double bond, \\(C=C\\)).<br>2. A <strong>primary alcohol</strong> (hydroxyl group, \\(-OH\\), attached to a primary carbon).<br>Specifically, it is an <strong>allylic alcohol</strong> because the hydroxyl group is on a carbon adjacent to the double bond.</p><p style='margin:8px 0;'><strong>Step 2: Recall the reducing properties and selectivity of \\(LiAlH_4\\)</strong><br>Lithium Aluminum Hydride (\\(LiAlH_4\\)) is a powerful reducing agent. Its primary role is to reduce polar multiple bonds, particularly carbonyl groups (C=O) and their derivatives (e.g., esters, carboxylic acids, amides, nitriles).<br>However, \\(LiAlH_4\\) is generally <strong>unreactive towards isolated carbon-carbon double bonds (alkenes)</strong>. It does not typically add hydrogen across a C=C bond unless the double bond is conjugated to a carbonyl group or is part of a strained ring system, or if specific catalysts are present (which are not mentioned here).<br>Furthermore, \\(LiAlH_4\\) does <strong>not reduce simple alcohol functional groups</strong> to alkanes. It can reduce certain activated alcohols (e.g., tosylates, epoxides) but not a free hydroxyl group directly.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the reactivity of 2-buten-1-ol's functional groups with \\(LiAlH_4\\)</strong><br>Based on the selectivity of \\(LiAlH_4\\):<br>1. The <strong>alkene (C=C) group</strong> in 2-buten-1-ol is an isolated double bond (not conjugated to a carbonyl). Therefore, it will <span style='color:var(--orange);font-weight:bold;'>not be reduced</span> by \\(LiAlH_4\\) under standard conditions.<br>2. The <strong>primary alcohol (\\(-OH\\)) group</strong> is a simple alcohol. \\(LiAlH_4\\) does <span style='color:var(--orange);font-weight:bold;'>not reduce alcohols</span> to alkanes.</p><p style='margin:8px 0;'><strong>Step 4: Conclude the outcome of the reaction</strong><br>Since neither the alkene nor the alcohol functional group in 2-buten-1-ol is reactive towards \\(LiAlH_4\\) under typical reduction conditions, no chemical transformation will occur.<br>The starting material, 2-buten-1-ol, will be recovered unchanged.</p><p style='margin:8px 0;'><strong>Step 5: State the name and structure of the product</strong><br>The product formed is the starting material itself.<br>Name: <span style='color:var(--orange);font-weight:bold;'>2-buten-1-ol</span><br>Structure: <span style='color:var(--orange);font-weight:bold;'>\\(CH_3CH=CHCH_2OH\\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The key to this problem lies in the selectivity of \\(LiAlH_4\\). While it is a strong reducing agent for many functional groups (like carbonyls, nitriles, epoxides), it is known to be unreactive towards isolated carbon-carbon double bonds and simple hydroxyl groups. Since 2-buten-1-ol contains only these two functional groups in a non-reactive configuration (alkene is not conjugated to a carbonyl, alcohol is not activated), no reduction reaction will take place. The product is indeed the unreacted starting material. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The product is 2-buten-1-ol, with the structure \\(CH_3CH=CHCH_2OH\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-buten-1-ol<br>\\(CH_3CH=CHCH_2OH\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What is the IUPAC name of the ester formed when vinylalcohol (ethanol) reacts with ethanoic acid?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "IUPAC Nomenclature",
+      "Esterification",
+      "Carboxylic Acids and Derivatives",
+      "Alcohols"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Esterification and IUPAC Nomenclature of Esters</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>esterification reaction</em> is a chemical reaction that forms an ester from an alcohol and a carboxylic acid, typically with the elimination of a water molecule (a condensation reaction).<br>An <em>ester</em> is a derivative of a carboxylic acid where the hydrogen of the carboxyl group (\\( \\text{-COOH} \\)) is replaced by an alkyl or aryl group.<br><em>IUPAC Nomenclature for Esters:</em> Esters are named as alkyl alkanoates. The 'alkyl' part comes from the alcohol component, and the 'alkanoate' part comes from the carboxylic acid component (the '-oic acid' suffix is replaced by '-oate').<br><em>Vinyl alcohol</em> (\\( \\text{CH}_2=\\text{CH-OH} \\)) is an enol, which is generally unstable and rapidly tautomerizes to acetaldehyde (\\( \\text{CH}_3\\text{CHO} \\)). <em>Ethanol</em> (\\( \\text{CH}_3\\text{CH}_2\\text{OH} \\)) is a stable primary alcohol. The question's phrasing \"vinylalcohol (ethanol)\" is chemically inaccurate, as these are different compounds. Given the context of esterification and the common products, it is assumed that ethanol is the intended reactant.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Reactants: \"vinylalcohol (ethanol)\" and ethanoic acid.<br>Reaction type: Esterification.<br>Task: Determine the IUPAC name of the ester formed.</div><p style='margin:8px 0;'><strong>Step 1: Clarify the alcohol reactant</strong><br>The question states \"vinylalcohol (ethanol)\". Chemically, vinyl alcohol (\\( \\text{CH}_2=\\text{CH-OH} \\)) is an enol that is unstable and tautomerizes to acetaldehyde. Ethanol (\\( \\text{CH}_3\\text{CH}_2\\text{OH} \\)) is a stable primary alcohol. For a typical esterification reaction with a carboxylic acid to form an ester, a stable alcohol is required.<br>Given the parenthetical \"(ethanol)\" and the expected product of such a reaction, we will proceed assuming that <span style='color:var(--orange);font-weight:bold;'>ethanol (\\( \\text{CH}_3\\text{CH}_2\\text{OH} \\)) is the intended alcohol reactant</span> for the esterification.</p><p style='margin:8px 0;'><strong>Step 2: Identify the structures of the reactants</strong><br>The two reactants are ethanol and ethanoic acid.<br>Ethanol: \\( \\text{CH}_3\\text{CH}_2\\text{OH} \\)<br>Ethanoic acid (also known as acetic acid): \\( \\text{CH}_3\\text{COOH} \\)</p><p style='margin:8px 0;'><strong>Step 3: Describe the esterification reaction</strong><br>Esterification is a condensation reaction where the hydroxyl group (\\( \\text{-OH} \\)) from the carboxylic acid and the hydrogen atom from the alcohol's hydroxyl group combine to form a water molecule (\\( \\text{H}_2\\text{O} \\)), and the remaining parts join to form an ester.<br>The general reaction is:<br>\\[ \\text{R-COOH} + \\text{R'-OH} \\xrightarrow{\\text{acid catalyst}} \\text{R-COOR'} + \\text{H}_2\\text{O} \\]</p><p style='margin:8px 0;'><strong>Step 4: Determine the structure of the ester formed</strong><br>Applying the esterification reaction to ethanol and ethanoic acid:<br>\\[ \\text{CH}_3\\text{COOH} + \\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{acid catalyst}} \\text{CH}_3\\text{COOCH}_2\\text{CH}_3 + \\text{H}_2\\text{O} \\]<br>The resulting ester has the structure <span style='color:var(--orange);font-weight:bold;'>\\( \\text{CH}_3\\text{COOCH}_2\\text{CH}_3 \\)</span>.</p><p style='margin:8px 0;'><strong>Step 5: Apply IUPAC nomenclature rules for the ester</strong><br>The IUPAC name of an ester is derived from the alcohol and the carboxylic acid.<br>1.  Identify the alkyl group from the alcohol: From ethanol (\\( \\text{CH}_3\\text{CH}_2\\text{OH} \\)), the alkyl group is <span style='color:var(--orange);font-weight:bold;'>ethyl</span> (\\( \\text{CH}_3\\text{CH}_2\\text{-} \\)).<br>2.  Identify the carboxylate group from the carboxylic acid: From ethanoic acid (\\( \\text{CH}_3\\text{COOH} \\)), the carboxylate group is <span style='color:var(--orange);font-weight:bold;'>ethanoate</span> (\\( \\text{CH}_3\\text{COO-} \\)).<br>Combining these, the IUPAC name is <span style='color:var(--orange);font-weight:bold;'>Ethyl Ethanoate</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The ester ethyl ethanoate has the formula \\( \\text{CH}_3\\text{COOCH}_2\\text{CH}_3 \\).<br>The 'ethyl' part comes from ethanol (2 carbons).<br>The 'ethanoate' part comes from ethanoic acid (2 carbons, including the carbonyl carbon).<br>This naming is consistent with IUPAC rules for esters formed from ethanol and ethanoic acid. The reaction is a standard Fischer esterification.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The IUPAC name of the ester is Ethyl Ethanoate.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ethyl Ethanoate"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What is the reaction product of the oxidation of acetophenone with selenium oxide in a suitable solvent?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "1-phenyl-1-3-butanedione"
+        },
+        {
+          "type": "String",
+          "content": "2-phenyl-2-oxoethanal"
+        },
+        {
+          "type": "String",
+          "content": "butane-2,3-dione"
+        },
+        {
+          "type": "String",
+          "content": "2-phenylbuanedione"
+        }
+      ]
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Oxidation",
+      "Aldehydes and Ketones",
+      "Carbonyl Chemistry",
+      "Selenium Dioxide Oxidation"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Selenium Dioxide Oxidation (Riley Oxidation)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>The <em>Riley oxidation</em>, or <em>selenium dioxide oxidation</em>, is a highly selective method for oxidizing activated carbon atoms. Specifically, it oxidizes a methyl (\\(-\\text{CH}_3\\)) or methylene (\\(-\\text{CH}_2-\\)) group that is alpha (\\(\\alpha\\)) to a carbonyl group (ketone or aldehyde) or an alkene (allylic oxidation).<br>For a methyl group adjacent to a carbonyl, it is oxidized to an aldehyde group (\\(-\\text{CHO}\\)).<br>For a methylene group adjacent to a carbonyl, it is oxidized to a ketone group (\\(-\\text{CO}-\\)).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant: Acetophenone (\\(\\text{C}_6\\text{H}_5\\text{COCH}_3\\))<br>Reagent: Selenium dioxide (\\(\\text{SeO}_2\\))<br>Reaction type: Oxidation<br>Solvent: Suitable solvent</div><p style='margin:8px 0;'><strong>Step 1: Identify the reactant and its structure.</strong><br>The reactant is acetophenone, which is 1-phenylethan-1-one.<br>Its chemical structure consists of a phenyl group attached to a carbonyl group, which is then attached to a methyl group.<br>Structural representation: \\[ \\text{C}_6\\text{H}_5-\\text{C}(=\\text{O})-\\text{CH}_3 \\]<br>The methyl group (\\(-\\text{CH}_3\\)) is directly attached to the carbonyl carbon, making it an \\(\\alpha\\)-methyl group.</p><p style='margin:8px 0;'><strong>Step 2: Understand the function of selenium dioxide (\\(\\text{SeO}_2\\)).</strong><br>Selenium dioxide (\\(\\text{SeO}_2\\)) is a specific oxidizing agent used for the selective oxidation of \\(\\alpha\\)-methyl or \\(\\alpha\\)-methylene groups relative to a carbonyl group.<br>It converts an \\(\\alpha\\)-methyl group to an aldehyde group (\\(-\\text{CHO}\\)).</p><p style='margin:8px 0;'><strong>Step 3: Determine the site of oxidation in acetophenone.</strong><br>In acetophenone, the carbon atoms are:<br>1. Phenyl carbons (part of the aromatic ring, generally unreactive to \\(\\text{SeO}_2\\) under these conditions).<br>2. Carbonyl carbon (already in an oxidized state).<br>3. Methyl carbon (\\(-\\text{CH}_3\\)) directly attached to the carbonyl carbon.<br>This methyl carbon is the \\(\\alpha\\)-carbon and is the specific site for oxidation by \\(\\text{SeO}_2\\).</p><p style='margin:8px 0;'><strong>Step 4: Predict the oxidation product.</strong><br>According to the selectivity of \\(\\text{SeO}_2\\) oxidation, the \\(\\alpha\\)-methyl group (\\(-\\text{CH}_3\\)) of acetophenone will be oxidized to an aldehyde group (\\(-\\text{CHO}\\)).<br>The general reaction for a methyl ketone is: \\[ \\text{R}-\\text{CO}-\\text{CH}_3 \\quad \\xrightarrow{\\text{SeO}_2} \\quad \\text{R}-\\text{CO}-\\text{CHO} \\]<br>For acetophenone, where \\(\\text{R} = \\text{C}_6\\text{H}_5\\): \\[ \\text{C}_6\\text{H}_5-\\text{CO}-\\text{CH}_3 \\quad \\xrightarrow{\\text{SeO}_2, \\text{suitable solvent}} \\quad \\text{C}_6\\text{H}_5-\\text{CO}-\\text{CHO} \\]<br>The product formed is commonly known as phenylglyoxal.</p><p style='margin:8px 0;'><strong>Step 5: Name the reaction product systematically.</strong><br>The product \\(\\text{C}_6\\text{H}_5-\\text{CO}-\\text{CHO}\\) contains two carbonyl groups: a ketone and an aldehyde.<br>According to IUPAC rules, the aldehyde group (\\(-\\text{CHO}\\)) has higher priority for determining the parent chain and suffix.<br>The longest carbon chain containing the aldehyde group is a two-carbon chain (ethane), making the parent compound ethanal.<br>Numbering starts from the aldehyde carbon (C1):<br>C1: \\(-\\text{CHO}\\) (aldehyde group)<br>C2: \\(-\\text{CO}-\\text{C}_6\\text{H}_5\\) (ketone group and phenyl group)<br>The ketone group is named as an \"oxo\" substituent, and the phenyl group is also a substituent.<br>Therefore, the systematic IUPAC name is <span style='color:var(--orange);font-weight:bold;'>2-phenyl-2-oxoethanal</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The Riley oxidation (selenium dioxide oxidation) is a well-established method for the selective oxidation of \\(\\alpha\\)-methyl or \\(\\alpha\\)-methylene groups adjacent to carbonyls. Acetophenone is a methyl ketone, possessing a methyl group at the \\(\\alpha\\)-position to the carbonyl. The reaction correctly oxidizes this specific methyl group to an aldehyde functionality. The resulting product, phenylglyoxal (\\(\\text{C}_6\\text{H}_5\\text{COCHO}\\)), is systematically named as 2-phenyl-2-oxoethanal according to IUPAC nomenclature. This product name matches one of the provided options, thereby confirming the reaction and the correct product.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The reaction product is 2-phenyl-2-oxoethanal.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-phenyl-2-oxoethanal"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Which among these is a 1,3-dicarbonyl compound?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "\\\\(CH_3COCH_2COCH_3\\\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\\\(C_6H_5COCH_2CH_2COCH_3\\\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\\\(CH_3COCH_2CH_2COCH_3\\\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\\\(C_6H_5COCH_2CH_2COC_6H_5\\\\)"
+        }
+      ]
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Carbonyl Chemistry",
+      "Aldehydes and Ketones",
+      "Chemical Structure Drawing",
+      "Dicarbonyl Compounds"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Dicarbonyl Compounds: 1,3-Dicarbonyls</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>carbonyl group</em> is a functional group composed of a carbon atom double-bonded to an oxygen atom \\\\((C=O)\\\\).<br>A <em>dicarbonyl compound</em> is an organic compound containing two carbonyl groups.<br>A <em>1,3-dicarbonyl compound</em> is characterized by having two carbonyl groups separated by exactly one carbon atom. If we number the carbon chain such that one carbonyl carbon is C1, the other carbonyl carbon would be C3, with a methylene group \\\\((CH_2)\\\\) or a substituted carbon atom \\\\((CHR\\\\) or \\\\(CR_2)\\\\) at C2. The general structure is \\\\(R-C(=O)-CH_2-C(=O)-R'\\\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks to identify a 1,3-dicarbonyl compound from the following options:<br>1. \\\\(CH_3COCH_2COCH_3\\\\)<br>2. \\\\(C_6H_5COCH_2CH_2COCH_3\\\\)<br>3. \\\\(CH_3COCH_2CH_2COCH_3\\\\)<br>4. \\\\(C_6H_5COCH_2CH_2COC_6H_5\\\\)</div><p style='margin:8px 0;'><strong>Step 1: Define a 1,3-dicarbonyl compound</strong><br>A 1,3-dicarbonyl compound contains two carbonyl groups \\\\((C=O)\\\\) separated by a single carbon atom. This means there is a \\\\(C=O\\\\) group, followed by a \\\\(CH_2\\\\) (or \\\\(CHR\\\\), \\\\(CR_2)\\\\) group, and then another \\\\(C=O\\\\) group. The general structural pattern is \\\\(R-C(=O)-CH_2-C(=O)-R'\\\\).</p><p style='margin:8px 0;'><strong>Step 2: Analyze Option 1: \\\\(CH_3COCH_2COCH_3\\\\)</strong><br>Let's write out the structure and identify the carbonyl groups:<br>\\\\[ CH_3 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_2 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_3 \\\\\\]<br>In this structure, the first carbonyl carbon is followed by a \\\\(CH_2\\\\) group, which is then followed by the second carbonyl carbon. There is exactly one carbon atom \\\\((CH_2)\\\\) separating the two carbonyl groups. Therefore, this compound is a <span style='color:var(--orange);font-weight:bold;'>1,3-dicarbonyl compound</span>. Its common name is acetylacetone, and its IUPAC name is pentane-2,4-dione.</p><p style='margin:8px 0;'><strong>Step 3: Analyze Option 2: \\\\(C_6H_5COCH_2CH_2COCH_3\\\\)</strong><br>Let's write out the structure and identify the carbonyl groups:<br>\\\\[ C_6H_5 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_2 - CH_2 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_3 \\\\\\]<br>In this structure, the first carbonyl carbon is followed by two \\\\(CH_2\\\\) groups before the second carbonyl carbon. There are two carbon atoms separating the two carbonyl groups. Therefore, this compound is a 1,4-dicarbonyl compound, not a 1,3-dicarbonyl compound.</p><p style='margin:8px 0;'><strong>Step 4: Analyze Option 3: \\\\(CH_3COCH_2CH_2COCH_3\\\\)</strong><br>Let's write out the structure and identify the carbonyl groups:<br>\\\\[ CH_3 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_2 - CH_2 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_3 \\\\\\]<br>Similar to Option 2, the first carbonyl carbon is followed by two \\\\(CH_2\\\\) groups before the second carbonyl carbon. There are two carbon atoms separating the two carbonyl groups. Therefore, this compound is also a 1,4-dicarbonyl compound (2,5-hexanedione), not a 1,3-dicarbonyl compound.</p><p style='margin:8px 0;'><strong>Step 5: Analyze Option 4: \\\\(C_6H_5COCH_2CH_2COC_6H_5\\\\)</strong><br>Let's write out the structure and identify the carbonyl groups:<br>\\\\[ C_6H_5 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - CH_2 - CH_2 - \\\\underset{\\\\text{C=O}}{\\\\text{C}} - C_6H_5 \\\\\\]<br>Again, the first carbonyl carbon is followed by two \\\\(CH_2\\\\) groups before the second carbonyl carbon. There are two carbon atoms separating the two carbonyl groups. Therefore, this compound is also a 1,4-dicarbonyl compound, not a 1,3-dicarbonyl compound.</p><p style='margin:8px 0;'><strong>Step 6: Conclude the correct option</strong><br>Based on the analysis, only option 1, \\\\(CH_3COCH_2COCH_3\\\\), fits the definition of a 1,3-dicarbonyl compound because its two carbonyl groups are separated by exactly one carbon atom.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>A 1,3-dicarbonyl compound has the general structure \\\\(R-C(=O)-CH_2-C(=O)-R'\\\\).<br>For \\\\(CH_3COCH_2COCH_3\\\\):<br>Here, \\\\(R = CH_3\\\\), the first carbonyl is \\\\(C=O\\\\), followed by \\\\(CH_2\\\\), then the second \\\\(C=O\\\\), and \\\\(R' = CH_3\\\\).<br>This perfectly matches the 1,3-dicarbonyl structure. The other options have \\\\(CH_2CH_2\\\\) between the carbonyls, making them 1,4-dicarbonyl compounds. ✓ Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>∴ The 1,3-dicarbonyl compound is \\\\(CH_3COCH_2COCH_3\\\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\\\(CH_3COCH_2COCH_3\\\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Draw the structural formula of 4-methylheptanedial.",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "IUPAC Nomenclature",
+      "Chemical Structure Drawing",
+      "Aldehydes and Ketones",
+      "Dicarbonyl Compounds"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Drawing Structural Formulas: 4-methylheptanedial</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>IUPAC Nomenclature:</strong> The International Union of Pure and Applied Chemistry provides a systematic method for naming organic chemical compounds.<br><strong>Aldehyde:</strong> A functional group characterized by a carbonyl group (C=O) bonded to a hydrogen atom and an R-group (R-CHO). Aldehyde carbons are typically designated as carbon 1 of the main chain.<br><strong>Dialdehyde (-dial):</strong> An organic compound containing two aldehyde functional groups.<br><strong>Heptane:</strong> Refers to a parent chain of seven carbon atoms.<br><strong>Methyl group:</strong> A common alkyl substituent with the formula \\\\( -CH_3 \\\\).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Compound name: 4-methylheptanedial<br>Task: Draw its structural formula.</div><p style='margin:8px 0;'><strong>Step 1: Identify the parent chain and primary functional groups.</strong><br>The suffix '<strong>-dial</strong>' indicates that there are two aldehyde functional groups (\\\\( -CHO \\\\)).<br>The root '<strong>heptane-</strong>' indicates that the longest continuous carbon chain (the parent chain) consists of seven carbon atoms.<br>In dialdehydes, the aldehyde groups are always at the ends of the main carbon chain. Therefore, they will be at carbon 1 and carbon 7.</p><p style='margin:8px 0;'><strong>Step 2: Construct the basic skeleton of heptane-1,7-dial.</strong><br>Draw a 7-carbon chain and attach an aldehyde group to each end. Remember that the carbon of the aldehyde group is part of the main chain.<br>\\\\[ O=CH-CH_2-CH_2-CH_2-CH_2-CH_2-CHO \\\\] <br>Numbering the chain from left to right for clarity:<br>\\\\[ \\\\overset{1}{O=CH} - \\\\overset{2}{CH_2} - \\\\overset{3}{CH_2} - \\\\overset{4}{CH_2} - \\\\overset{5}{CH_2} - \\\\overset{6}{CH_2} - \\\\overset{7}{CHO} \\\\] <br>This is the structure of heptanedial.</p><p style='margin:8px 0;'><strong>Step 3: Identify and locate the substituent.</strong><br>The prefix '<strong>4-methyl</strong>' indicates that there is a methyl group (\\\\( -CH_3 \\\\)) attached to the fourth carbon atom of the main chain.<br>Counting from either end, the fourth carbon in the heptanedial chain is the same carbon.</p><p style='margin:8px 0;'><strong>Step 4: Attach the methyl group to the correct carbon.</strong><br>Locate the fourth carbon (\\\\( C_4 \\\\)) in the heptanedial skeleton.<br>Replace one hydrogen atom on \\\\( C_4 \\\\) with a methyl group (\\\\( -CH_3 \\\\)).<br>The \\\\( C_4 \\\\) in heptanedial is initially \\\\( -CH_2- \\\\). After substitution, it becomes \\\\( -CH(CH_3)- \\\\).</p><p style='margin:8px 0;'><strong>Step 5: Write the complete structural formula.</strong><br>Combine the parent chain with the substituent to form the final structure.<br>The structural formula for 4-methylheptanedial is:<br>\\\\[ O=CH-CH_2-CH_2-CH(CH_3)-CH_2-CH_2-CHO \\\\] <br>This can also be written in a more condensed form as:<br><span style='color:var(--orange);font-weight:bold;'>\\\\( CHO(CH_2)_2CH(CH_3)(CH_2)_2CHO \\\\)</span></p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>1. <strong>Parent Chain:</strong> Count the longest continuous carbon chain, including the aldehyde carbons. There are 7 carbons, confirming 'heptane'.<br>2. <strong>Functional Groups:</strong> There are two aldehyde groups, one at each end (C1 and C7), confirming '-dial'.<br>3. <strong>Substituents:</strong> There is a methyl group (\\\\( -CH_3 \\\\)) attached to the 4th carbon atom, confirming '4-methyl'.<br>All parts of the name '4-methylheptanedial' are correctly represented in the drawn structure. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The structural formula of 4-methylheptanedial is O=CH-CH₂-CH₂-CH(CH₃)-CH₂-CH₂-CHO</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "O=CH-CH₂-CH₂-CH(CH₃)-CH₂-CH₂-CHO"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What are the two reaction products obtained from the oxidation of pentane-2,4-dione in the presence of an alkaline medium?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Oxidation",
+      "Dicarbonyl Compounds",
+      "Enolate Chemistry",
+      "Carbonyl Chemistry",
+      "Organic Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidative Cleavage of β-Diketones</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>• <strong>β-Diketone:</strong> A compound containing two ketone groups separated by one methylene group (e.g., \\( \\text{R-CO-CH}_2\\text{-CO-R'} \\)). The methylene protons are highly acidic due to resonance stabilization of the conjugate base (enolate).<br>• <strong>Enolate:</strong> An anion formed by the deprotonation of an \\( \\alpha \\)-carbon of a carbonyl compound. Enolates are nucleophilic.<br>• <strong>Oxidative Cleavage:</strong> A reaction that breaks carbon-carbon bonds, often involving an oxidizing agent, to yield smaller molecules. In the context of \\( \\beta \\)-diketones in alkaline conditions, this typically leads to a ketone and a carboxylic acid (or its salt).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>• Reactant: Pentane-2,4-dione (acetylacetone)<br>• Conditions: Oxidation in an alkaline medium<br>• Task: Identify the two reaction products.</div><p style='margin:8px 0;'><strong>Step 1: Identify the reactant and its structure</strong><br>The reactant is pentane-2,4-dione, also known as acetylacetone. It is a \\( \\beta \\)-diketone, meaning it has two carbonyl groups separated by a single methylene (\\( \\text{CH}_2 \\)) group.<br>\\[ \\text{CH}_3-\\text{C}(=\\text{O})-\\text{CH}_2-\\text{C}(=\\text{O})-\\text{CH}_3 \\]</p><p style='margin:8px 0;'><strong>Step 2: Understand the reactivity of \\( \\beta \\)-diketones in alkaline medium</strong><br>The methylene protons (\\( \\text{H}_2 \\)) between the two carbonyl groups are highly acidic. In an alkaline medium (presence of \\( \\text{OH}^- \\)), these protons are readily removed to form a resonance-stabilized enolate anion.<br>\\[ \\text{CH}_3-\\text{C}(=\\text{O})-\\text{CH}_2-\\text{C}(=\\text{O})-\\text{CH}_3 + \\text{OH}^- \\rightleftharpoons \\text{CH}_3-\\text{C}(=\\text{O})-\\text{CH}^--\\text{C}(=\\text{O})-\\text{CH}_3 + \\text{H}_2\\text{O} \\]<br>This enolate is highly reactive and susceptible to further reactions.</p><p style='margin:8px 0;'><strong>Step 3: Describe the mechanism of oxidative cleavage</strong><br>In alkaline conditions, and especially in the presence of an oxidizing agent, \\( \\beta \\)-diketones undergo oxidative cleavage. A common pathway involves a retro-Claisen type reaction. This mechanism typically starts with the attack of a hydroxide ion (or another nucleophile/oxidant) on one of the carbonyl carbons, followed by the breaking of a carbon-carbon bond adjacent to the central methylene group. The 'oxidation' aspect ensures that one of the fragments is converted into a carboxylic acid derivative.</p><p style='margin:8px 0;'><strong>Step 4: Illustrate the cleavage of pentane-2,4-dione</strong><br>The molecule cleaves at one of the carbon-carbon bonds connecting the central methylene carbon (C3) to a carbonyl carbon (C2 or C4). Due to symmetry, we can consider the cleavage between C2 and C3. This effectively splits the 5-carbon chain into a 2-carbon fragment and a 3-carbon fragment.<br>\\[ \\text{CH}_3-\\text{C}(=\\text{O})\\text{--}\\text{CH}_2\\text{--}\\text{C}(=\\text{O})-\\text{CH}_3 \\]<br>The bond indicated by '--' breaks.</p><p style='margin:8px 0;'><strong>Step 5: Identify the two reaction products</strong><br>Upon cleavage and subsequent reactions in the alkaline medium (including oxidation and protonation):<br>• The 2-carbon fragment, originating from \\( \\text{CH}_3-\\text{C}(=\\text{O})- \\), is oxidized to form <span style='color:var(--orange);font-weight:bold;'>acetic acid</span> (ethanoic acid). In an alkaline medium, it will exist as its salt, acetate (\\( \\text{CH}_3\\text{COO}^- \\)).<br>• The 3-carbon fragment, originating from \\( -\\text{CH}_2-\\text{C}(=\\text{O})-\\text{CH}_3 \\), is converted into <span style='color:var(--orange);font-weight:bold;'>acetone</span> (propan-2-one). This involves protonation of the methylene carbon to form the methyl group.<br>The overall reaction can be summarized as:<br>\\[ \\text{CH}_3\\text{COCH}_2\\text{COCH}_3 \\xrightarrow[\\text{alkaline medium}]{\\text{Oxidation}} \\text{CH}_3\\text{COCH}_3 \\text{ (Acetone)} + \\text{CH}_3\\text{COOH} \\text{ (Acetic Acid)} \\]<br>(Note: Acetic acid is shown for clarity, but exists as \\( \\text{CH}_3\\text{COO}^- \\) in alkaline conditions).</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The overall reaction demonstrates the breaking of a C-C bond in pentane-2,4-dione (\\( \\text{C}_5\\text{H}_8\\text{O}_2 \\)) to yield acetone (\\( \\text{C}_3\\text{H}_6\\text{O} \\)) and acetic acid (\\( \\text{C}_2\\text{H}_4\\text{O}_2 \\)). The sum of carbons and oxygens matches (\\( \\text{C}_5\\text{H}_{10}\\text{O}_3 \\) on product side, implying addition of \\( \\text{H}_2\\text{O} \\) and an oxygen atom from the oxidant). This type of cleavage is a well-established reaction for \\( \\beta \\)-diketones under oxidative alkaline conditions, consistently yielding a ketone and a carboxylic acid.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The two reaction products are Acetone and Acetic Acid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acetone and Acetic Acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "What is the reaction product obtained from the oxidation of 2-chlorotoluene with potassium permanganate?",
+      "type": "THEORY",
+      "options": []
+    },
+    "topic": [
+      "Organic Chemistry",
+      "Oxidation",
+      "Aromatic Chemistry",
+      "Carboxylic Acids and Derivatives"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Oxidation of Alkylbenzenes (Side-chain Oxidation)</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br><strong>Oxidation:</strong> In organic chemistry, oxidation often involves the gain of oxygen atoms, loss of hydrogen atoms, or an increase in the number of bonds to more electronegative atoms.<br><strong>Potassium Permanganate (\\(KMnO_4\\)):</strong> A powerful oxidizing agent, typically used under heating (e.g., in basic or acidic conditions).<br><strong>Alkylbenzenes:</strong> Aromatic compounds with an alkyl group (e.g., methyl, ethyl) directly attached to a benzene ring.<br><strong>Benzylic Hydrogen:</strong> A hydrogen atom attached to the carbon atom that is directly bonded to a benzene ring. For an alkyl group on a benzene ring to be oxidized by \\(KMnO_4\\), it must possess at least one benzylic hydrogen.<br><strong>Side-chain Oxidation:</strong> The oxidation of an alkyl group attached to an aromatic ring. Strong oxidizing agents like \\(KMnO_4\\) can oxidize these alkyl groups to carboxylic acid groups (\\(-COOH\\)), provided there is at least one benzylic hydrogen. The benzene ring and halogen substituents (like chlorine) are generally resistant to oxidation under these conditions.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant 1: 2-chlorotoluene<br>Reactant 2: Potassium permanganate (\\(KMnO_4\\))<br>Reaction type: Oxidation</div><p style='margin:8px 0;'><strong>Step 1: Identify the structure of the starting material.</strong><br>The starting material is 2-chlorotoluene.<br>Its structure consists of a benzene ring with a methyl group (\\(-CH_3\\)) at position 1 and a chlorine atom (\\(-Cl\\)) at position 2.<br>The methyl group is an alkyl substituent.</p><p style='margin:8px 0;'><strong>Step 2: Understand the role of potassium permanganate.</strong><br>Potassium permanganate (\\(KMnO_4\\)) is a very strong oxidizing agent.<br>It is commonly used to oxidize alkyl side chains on aromatic rings, usually under heating (e.g., in basic or acidic conditions).</p><p style='margin:8px 0;'><strong>Step 3: Determine the oxidizable part of 2-chlorotoluene.</strong><br>For an alkyl group attached to a benzene ring to be oxidized by \\(KMnO_4\\), it must have at least one benzylic hydrogen.<br>The methyl group (\\(-CH_3\\)) in 2-chlorotoluene has three benzylic hydrogens (hydrogens attached to the carbon directly bonded to the benzene ring).<br>The chlorine atom is a halogen substituent and is generally stable to oxidation by \\(KMnO_4\\) under these conditions. The benzene ring itself is also resistant to oxidation under these conditions.</p><p style='margin:8px 0;'><strong>Step 4: Apply the general rule for side-chain oxidation of alkylbenzenes.</strong><br>Any alkyl group attached to a benzene ring that possesses at least one benzylic hydrogen will be oxidized to a carboxylic acid group (\\(-COOH\\)) by strong oxidizing agents like hot \\(KMnO_4\\).<br>The entire alkyl chain, regardless of its length, is cleaved and oxidized to a carboxylic acid group at the benzylic carbon.</p><p style='margin:8px 0;'><strong>Step 5: Predict the transformation of 2-chlorotoluene.</strong><br>Based on the rule from Step 4, the methyl group (\\(-CH_3\\)) at position 1 of 2-chlorotoluene will be oxidized to a carboxylic acid group (\\(-COOH\\)).<br>The chlorine atom at position 2 will remain unchanged.</p><p style='margin:8px 0;'><strong>Step 6: Name the final product.</strong><br>The benzene ring will now have a carboxylic acid group at position 1 and a chlorine atom at position 2.<br>This compound is named 2-chlorobenzoic acid.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The oxidation of alkylbenzenes with strong oxidizing agents like \\(KMnO_4\\) is a well-established reaction in organic chemistry for synthesizing benzoic acid derivatives.<br>The essential condition is the presence of at least one benzylic hydrogen on the alkyl side chain, which the methyl group of 2-chlorotoluene fulfills.<br>Halogen substituents and the benzene ring itself are stable under these conditions.<br>Therefore, the conversion of the methyl group to a carboxylic acid group, while keeping the chlorine atom intact, correctly leads to 2-chlorobenzoic acid. &#10003; Confirmed!</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The reaction product is 2-chlorobenzoic acid.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "2-chlorobenzoic acid"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Organic Chemistry",
+      "Carbonyl Chemistry",
+      "Aldehydes and Ketones",
+      "Dicarbonyl Compounds",
+      "Chemical Structure Drawing"
+    ],
+    "Question": {
+      "content": "Which of these is a dialdehyde?",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "\\(CH_3COOCH_2COCH_3\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(CH_3COCH_2CHO\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(CH_3(CH_2)_3CH_3\\)"
+        },
+        {
+          "type": "String",
+          "content": "\\(CHOCH_2CHO\\)"
+        }
+      ]
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Identifying a Dialdehyde</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>aldehyde</em> is an organic compound containing a carbonyl group (\\(C=O\\)) bonded to at least one hydrogen atom and an alkyl or aryl group. The functional group is represented as \\(\\mathbf{-CHO}\\) or \\(\\mathbf{-C(=O)H}\\).<br>A <em>dialdehyde</em> is an organic compound that contains two aldehyde (\\(-CHO\\)) functional groups.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>Identify the dialdehyde from the following options:<br>1. \\(CH_3COOCH_2COCH_3\\)<br>2. \\(CH_3COCH_2CHO\\)<br>3. \\(CH_3(CH_2)_3CH_3\\)<br>4. \\(CHOCH_2CHO\\)</div><p style='margin:8px 0;'><strong>Step 1: Understand the aldehyde functional group</strong><br>The aldehyde functional group is characterized by a carbonyl carbon atom bonded to at least one hydrogen atom. Its general formula is \\(R-CHO\\), where \\(R\\) can be an alkyl group, an aryl group, or another hydrogen atom (in the case of formaldehyde).<br>The key feature is the \\(\\mathbf{-CHO}\\) moiety.</p><p style='margin:8px 0;'><strong>Step 2: Define a dialdehyde</strong><br>A dialdehyde is a molecule that contains two distinct aldehyde functional groups (two \\(-CHO\\) groups) within its structure.</p><p style='margin:8px 0;'><strong>Step 3: Analyze Option 1: \\(CH_3COOCH_2COCH_3\\)</strong><br>Let's break down the functional groups in this compound:<br>The \\(CH_3COO\\) part indicates an <em>ester</em> functional group (\\(R-COO-R'\\)).<br>The \\(COCH_3\\) part indicates a <em>ketone</em> functional group (\\(R-CO-R'\\)).<br>This compound contains an ester and a ketone, but no aldehyde groups. Therefore, it is not a dialdehyde.</p><p style='margin:8px 0;'><strong>Step 4: Analyze Option 2: \\(CH_3COCH_2CHO\\)</strong><br>Let's identify the functional groups:<br>The \\(CH_3CO\\) part indicates a <em>ketone</em> functional group.<br>The \\(CHO\\) part indicates an <em>aldehyde</em> functional group.<br>This compound contains one ketone and one aldehyde group. It is an aldoketone, not a dialdehyde.</p><p style='margin:8px 0;'><strong>Step 5: Analyze Option 3: \\(CH_3(CH_2)_3CH_3\\)</strong><br>Expanding this formula gives \\(CH_3CH_2CH_2CH_2CH_3\\), which is <em>pentane</em>.<br>Pentane is an <em>alkane</em>, consisting only of carbon-carbon single bonds and carbon-hydrogen bonds. It does not contain any carbonyl groups, let alone aldehyde groups. Therefore, it is not a dialdehyde.</p><p style='margin:8px 0;'><strong>Step 6: Analyze Option 4: \\(CHOCH_2CHO\\)</strong><br>Let's examine the structure:<br>The compound has a \\(CHO\\) group at one end and another \\(CHO\\) group at the other end, separated by a \\(CH_2\\) group.<br>Both \\(CHO\\) groups are aldehyde functional groups.<br>This compound is <em>propanedial</em> (also known as malonaldehyde), which contains two aldehyde functional groups.<br>Thus, this compound is a <span style='color:var(--orange);font-weight:bold;'>dialdehyde</span>.</p><p style='margin:8px 0;'><strong>Step 7: Conclude the correct option</strong><br>Based on the analysis of each option, only \\(CHOCH_2CHO\\) contains two aldehyde functional groups, fitting the definition of a dialdehyde.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>A dialdehyde must contain two \\(-CHO\\) groups. <br>Option 4, \\(CHOCH_2CHO\\), clearly shows two \\(-CHO\\) groups. <br>Option 1 has an ester and a ketone. <br>Option 2 has a ketone and an aldehyde. <br>Option 3 is an alkane. <br>Therefore, \\(CHOCH_2CHO\\) is indeed the only dialdehyde among the choices.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The dialdehyde is \\(CHOCH_2CHO\\).</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "\\(CHOCH_2CHO\\)"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "img": null,
+    "table": [],
+    "Question": {
+      "content": "Disubstituted benzenoids can undergo elimination reaction. True/False",
+      "type": "OBJ",
+      "options": [
+        {
+          "type": "String",
+          "content": "True"
+        },
+        {
+          "type": "String",
+          "content": "False"
+        }
+      ]
+    },
+    "topic": [
+      "Aromatic Chemistry",
+      "Elimination Reactions",
+      "Organic Chemistry"
+    ],
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Aromatic Stability and Elimination Reactions</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>An <em>aromatic compound</em> (like a benzenoid) is a cyclic, planar molecule with a continuous ring of p-orbitals containing \\( 4n+2 \\) pi electrons (Hückel's rule). This arrangement confers exceptional stability.<br>An <em>elimination reaction</em> typically involves the removal of two atoms or groups from adjacent carbon atoms, leading to the formation of a new pi bond (e.g., an alkene or alkyne).<br>A <em>substitution reaction</em> involves the replacement of one atom or group with another.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The statement: \"Disubstituted benzenoids can undergo elimination reaction.\"<br>Determine if this statement is True or False.</div><p style='margin:8px 0;'><strong>Step 1: Understand the nature of Benzenoids and Aromaticity</strong><br>Benzenoids are compounds containing one or more benzene rings. The benzene ring is a classic example of an aromatic system.<br>Aromaticity arises from the cyclic delocalization of six pi electrons within the ring, making it exceptionally stable. This stability is often referred to as \"aromatic stabilization energy.\"<br>Due to this high stability, aromatic rings tend to maintain their aromatic character in chemical reactions.</p><p style='margin:8px 0;'><strong>Step 2: Define an Elimination Reaction in Organic Chemistry</strong><br>An elimination reaction typically involves the loss of two substituents from a molecule, often from adjacent carbon atoms, to form a new carbon-carbon double or triple bond.<br>For example, in the dehydrohalogenation of an alkyl halide, a hydrogen atom and a halogen atom are removed to form an alkene. This process generally converts a saturated carbon-carbon bond into an unsaturated one.<br>A key characteristic is the formation of a new pi bond and an increase in the degree of unsaturation.</p><p style='margin:8px 0;'><strong>Step 3: Analyze the Feasibility of Elimination in Benzenoids</strong><br>If a disubstituted benzenoid were to undergo an elimination reaction, it would imply the removal of two substituents from adjacent carbons within the benzene ring, leading to the formation of an additional pi bond <em>within</em> the ring.<br>Such a reaction would disrupt the aromatic system, either by forming a highly strained triple bond (like in a benzyne intermediate, which requires extreme conditions and is not a typical stable product of elimination) or by destroying the cyclic conjugation.<br>The energetic cost of destroying the aromatic stability is very high, making typical elimination reactions highly unfavorable for benzenoid rings under normal reaction conditions.</p><p style='margin:8px 0;'><strong>Step 4: Compare with Typical Reactions of Aromatic Compounds</strong><br>Aromatic compounds, including benzenoids, primarily undergo <em>substitution reactions</em>, particularly electrophilic aromatic substitution (EAS). In EAS, an electrophile replaces a hydrogen atom (or another substituent) on the ring, while the aromaticity of the ring is preserved throughout the reaction.<br>For example, nitration, halogenation, sulfonation, and Friedel-Crafts alkylation/acylation are common substitution reactions of benzene derivatives.<br>While nucleophilic aromatic substitution (NAS) can occur under specific conditions (e.g., strong electron-withdrawing groups, high temperatures), these are still substitution reactions, not elimination.</p><p style='margin:8px 0;'><strong>Step 5: Conclude on the Statement</strong><br>Given the exceptional stability of the aromatic system, benzenoids strongly resist reactions that would destroy their aromaticity.<br>Elimination reactions, by their nature, would typically lead to a loss of aromaticity or the formation of highly unstable intermediates/products within the ring structure.<br>Therefore, disubstituted benzenoids do not readily undergo elimination reactions under typical conditions. The statement is <span style='color:var(--orange);font-weight:bold;'>False</span>.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The defining characteristic of aromatic compounds is their enhanced stability due to electron delocalization. Reactions that would disrupt this delocalization, such as typical elimination reactions forming new pi bonds within the ring, are energetically disfavored.<br>Instead, aromatic compounds prefer substitution reactions where the aromatic system is maintained. This confirms that the statement is false.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The statement is False.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Reduction",
+      "Amines",
+      "Aromatic Chemistry",
+      "Carboxylic Acids and Derivatives"
+    ],
+    "Question": {
+      "content": "The conversion of 4-nitrobenzoic acid to 4-aminobenzoic acid in the presence of a platinum catalyst is an example of?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Reduction of Nitro Compounds</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>In organic chemistry, <em>reduction</em> is a chemical reaction that typically involves the gain of hydrogen atoms, the loss of oxygen atoms, or a decrease in the oxidation state of an atom.<br>A <em>nitro group</em> (\\\\( -\\\\text{NO}_2 \\\\)) is a functional group containing nitrogen and oxygen.<br>An <em>amino group</em> (\\\\( -\\\\text{NH}_2 \\\\)) is a functional group containing nitrogen and hydrogen.<br><em>Catalytic hydrogenation</em> is a specific type of reduction reaction where molecular hydrogen (\\\\( \\\\text{H}_2 \\\\)) is added to a compound in the presence of a metal catalyst (e.g., Pt, Pd, Ni).</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given / Known</strong><br>Reactant: 4-nitrobenzoic acid<br>Product: 4-aminobenzoic acid<br>Catalyst: Platinum (Pt)<br>Reaction: \\\\( \\\\text{4-nitrobenzoic acid} \\\\xrightarrow{\\\\text{Pt catalyst}} \\\\text{4-aminobenzoic acid} \\\\)</div><p style='margin:8px 0;'><strong>Step 1: Identify the functional groups involved in the transformation</strong><br>The reactant is 4-nitrobenzoic acid. It contains a carboxylic acid group (\\\\( -\\\\text{COOH} \\\\)) and a nitro group (\\\\( -\\\\text{NO}_2 \\\\)) attached to a benzene ring.<br>The product is 4-aminobenzoic acid. It contains a carboxylic acid group (\\\\( -\\\\text{COOH} \\\\)) and an amino group (\\\\( -\\\\text{NH}_2 \\\\)) attached to a benzene ring.<br>The carboxylic acid group remains unchanged throughout the reaction. The key transformation is from the nitro group to the amino group.</p><p style='margin:8px 0;'><strong>Step 2: Analyze the chemical change in the functional group</strong><br>The nitro group (\\\\( -\\\\text{NO}_2 \\\\)) is converted into an amino group (\\\\( -\\\\text{NH}_2 \\\\)).<br>This transformation involves the removal of oxygen atoms and the addition of hydrogen atoms to the nitrogen atom.<br>The general reaction can be represented as:<br>\\\\[ \\\\text{R-NO}_2 \\\\quad \\\\xrightarrow{\\\\text{reduction}} \\\\quad \\\\text{R-NH}_2 \\\\\\]</p><p style='margin:8px 0;'><strong>Step 3: Determine the change in oxidation state of nitrogen</strong><br>In the nitro group (\\\\( -\\\\text{NO}_2 \\\\)), assuming oxygen has an oxidation state of -2, the nitrogen atom has an oxidation state of \\\\( +3 \\\\) (since \\\\( \\\\text{N} + 2(-2) = -1 \\\\) for the group, or \\\\( \\\\text{N} = +3 \\\\) for the atom in the context of the group).<br>In the amino group (\\\\( -\\\\text{NH}_2 \\\\)), assuming hydrogen has an oxidation state of +1, the nitrogen atom has an oxidation state of \\\\( -3 \\\\) (since \\\\( \\\\text{N} + 2(+1) = -1 \\\\) for the group, or \\\\( \\\\text{N} = -3 \\\\) for the atom in the context of the group).<br>The oxidation state of nitrogen changes from <span style='color:var(--orange);font-weight:bold;'>\\\\( +3 \\\\) to \\\\( -3 \\\\)</span>.</p><p style='margin:8px 0;'><strong>Step 4: Classify the reaction based on the chemical change</strong><br>A decrease in oxidation state signifies a gain of electrons.<br>In organic chemistry, reactions that involve the gain of hydrogen atoms and/or the loss of oxygen atoms, or a decrease in oxidation state, are classified as <span style='color:var(--orange);font-weight:bold;'>reduction reactions</span>.<br>The conversion of a nitro group to an amino group fits this definition perfectly.</p><p style='margin:8px 0;'><strong>Step 5: Consider the role of the platinum catalyst</strong><br>The presence of a platinum (Pt) catalyst indicates that this is a catalytic hydrogenation reaction.<br>Catalytic hydrogenation is a common method for reducing nitro groups to amino groups, typically using molecular hydrogen (\\\\( \\\\text{H}_2 \\\\)) as the reducing agent.<br>The overall balanced reaction (simplified for the functional group) is:<br>\\\\[ \\\\text{R-NO}_2 + 3\\\\text{H}_2 \\\\xrightarrow{\\\\text{Pt}} \\\\text{R-NH}_2 + 2\\\\text{H}_2\\\\text{O} \\\\\\]</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The transformation of a nitro group (\\\\( -\\\\text{NO}_2 \\\\)) to an amino group (\\\\( -\\\\text{NH}_2 \\\\)) involves the replacement of oxygen atoms with hydrogen atoms, and a decrease in the oxidation state of nitrogen (from +3 to -3). Both criteria unequivocally define this reaction as a reduction.<br>The use of a platinum catalyst is characteristic of catalytic hydrogenation, which is a type of reduction reaction. Therefore, the classification of this reaction as reduction is correct. &#10003;</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; The conversion of 4-nitrobenzoic acid to 4-aminobenzoic acid is an example of reduction.</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reduction"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Organic Chemistry",
+      "Carbonyl Chemistry",
+      "Dicarbonyl Compounds",
+      "IUPAC Nomenclature"
+    ],
+    "Question": {
+      "content": "What is another name for a 1,3-dicarbonyl?",
+      "type": "THEORY",
+      "options": []
+    },
+    "table": [],
+    "img": null,
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color:var(--explainColor);background:var(--explainBg);padding:18px;border-radius:10px;line-height:1.8;'><h4 style='color:var(--strongColor);margin-top:0;border-bottom:2px solid var(--strongColor);padding-bottom:6px;'>Nomenclature of Dicarbonyl Compounds</h4><div style='background:var(--infoBg);color:var(--infoCl);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Key Concept</strong><br>A <em>dicarbonyl compound</em> is an organic molecule containing two carbonyl (\\[ \\text{C=O} \\]) functional groups.<br>A <em>1,3-dicarbonyl</em> is a dicarbonyl compound where the two carbonyl groups are separated by exactly one carbon atom.<br>The <em>alpha, beta, gamma (\\[ \\alpha, \\beta, \\gamma \\]) nomenclature</em> is a system used to denote the position of substituents or other functional groups relative to a primary functional group. For a carbonyl, the carbon directly attached to the carbonyl carbon is the \\[ \\alpha \\]-carbon, the next is the \\[ \\beta \\]-carbon, and so on.</div><div style='background:var(--preset-bg-color);padding:10px 14px;border-radius:6px;margin-bottom:12px;'><strong>Given</strong><br>The question asks for an alternative name for a 1,3-dicarbonyl compound.</div><p style='margin:8px 0;'><strong>Step 1: Define Dicarbonyl Compounds</strong><br>A dicarbonyl compound is an organic molecule that contains two carbonyl (\\[ \\text{C=O} \\]) functional groups. These groups can be aldehydes, ketones, carboxylic acids, or their derivatives.</p><p style='margin:8px 0;'><strong>Step 2: Understand 1,3-Dicarbonyl Structure</strong><br>In a 1,3-dicarbonyl compound, the two carbonyl groups are positioned such that there is exactly one carbon atom between them. If we number the carbons starting from one carbonyl group, the first carbonyl is on carbon 1, and the second carbonyl is on carbon 3. A general structure can be represented as:<br>\\[ \\text{R-C(=O)-CH}_2\\text{-C(=O)-R'} \\]</p><p style='margin:8px 0;'><strong>Step 3: Introduce Alpha, Beta, Gamma (\\[ \\alpha, \\beta, \\gamma \\]) Nomenclature</strong><br>In organic chemistry, the Greek letters \\[ \\alpha \\] (alpha), \\[ \\beta \\] (beta), \\[ \\gamma \\] (gamma), etc., are often used to indicate the position of a substituent or another functional group relative to a primary functional group.<br>For a carbonyl group (\\[ \\text{C=O} \\]), the carbon atom directly attached to the carbonyl carbon is designated as the <span style='color:var(--orange);font-weight:bold;'>\\[ \\alpha \\]-carbon</span>. The next carbon in the chain is the <span style='color:var(--orange);font-weight:bold;'>\\[ \\beta \\]-carbon</span>, followed by the \\[ \\gamma \\]-carbon, and so on.<br>\\[ \\text{R-C(=O)-} \\underset{\\alpha}{\\text{CH}_2}\\text{-} \\underset{\\beta}{\\text{CH}_2}\\text{-} \\underset{\\gamma}{\\text{CH}_2}\\text{-R'} \\]</p><p style='margin:8px 0;'><strong>Step 4: Apply \\[ \\alpha, \\beta, \\gamma \\] Nomenclature to 1,3-Dicarbonyl</strong><br>Consider a 1,3-dicarbonyl compound. Let's designate one of the carbonyl groups as the primary functional group (e.g., the one on C1).<br>\\[ \\underset{\\text{C1}}{\\text{R-C(=O)}}-\\underset{\\alpha}{\\text{CH}_2}-\\underset{\\text{C3}}{\\text{C(=O)-R'}} \\]<br>In this structure, the second carbonyl group (on C3) is located on the <span style='color:var(--orange);font-weight:bold;'>\\[ \\beta \\]-carbon</span> relative to the first carbonyl group (on C1).<br>Therefore, a 1,3-dicarbonyl compound is also known as a <span style='color:var(--orange);font-weight:bold;'>\\[ \\beta \\]-dicarbonyl</span>.</p><p style='margin:8px 0;'><strong>Step 5: State the Common Name</strong><br>Based on the \\[ \\alpha, \\beta, \\gamma \\] positional naming system, a 1,3-dicarbonyl compound is commonly referred to as a <span style='color:var(--orange);font-weight:bold;'>beta-dicarbonyl</span>. This naming highlights the relative position of the two carbonyl groups, with the second carbonyl being at the beta position relative to the first.</p><div style='background:var(--warningBg);padding:10px 14px;border-radius:6px;margin:12px 0;'><strong>Verification</strong><br>The \\[ \\alpha, \\beta, \\gamma \\] system is a well-established method for describing the relative positions of atoms or groups in organic molecules. When one carbonyl is considered the reference, the carbon adjacent to it is alpha, and the next carbon is beta. In a 1,3-dicarbonyl, the second carbonyl is indeed on the beta carbon relative to the first, making \"beta-dicarbonyl\" a correct and widely used alternative name.</div><p style='color:var(--cAns);font-weight:bold;font-size:1.05em;margin-top:12px;'>&#8756; Beta-dicarbonyl</p></div>"
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Beta-dicarbonyl"
+    }
+  }
+]
